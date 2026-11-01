@@ -1,0 +1,11 @@
+field,type,definition_and_rule
+request_id,string,Unique 311 incident identifier; blank IDs excluded.
+status,string,"Source status, retained for downstream analysis."
+source,string,How the request was submitted.
+category,string,Original category label.
+service_type,string,Canonical label set to Illegal Dumping after filtering.
+latitude/longitude,numeric,Coordinates; outside San José plausibility bounds excluded when present.
+date_created,datetime,Parsed source creation timestamp; invalid or missing values excluded.
+date_last_updated,datetime,Parsed source update timestamp; not treated as completion time.
+department,string,Source department.
+source_year,integer,Annual file year used for coverage auditing.

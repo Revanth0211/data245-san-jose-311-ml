@@ -1,0 +1,8 @@
+stage,records
+source_years_processed,8
+source_rows_all_years,2002143
+illegal_dumping_rows_before_quality_rules,214502
+excluded_missing_id_or_date_or_invalid_coordinates,1071
+exact_duplicates_removed,0
+request_id_duplicates_removed,0
+final_retained_records,213431

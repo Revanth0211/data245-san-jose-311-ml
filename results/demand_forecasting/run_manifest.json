@@ -1,0 +1,18 @@
+{
+  "input_sha256": "c075709e37fa3050f5d53c94fb9db486e169c44a13d2fdee9fa735d3ef2a7e8c",
+  "boundary_sha256": "29ba080e546a747541716349e4c0620923a751322ea37a153646f4005ea31430",
+  "python": "3.9.6",
+  "pandas": "2.3.3",
+  "boundary_source": "https://geo.sanjoseca.gov/server/rest/services/PLN/PLN_AdministrativeBoundaries/MapServer/1",
+  "test_evaluated": false,
+  "status": "provisional",
+  "development_requests": 181326,
+  "mapped_requests": 180863,
+  "assumptions": [
+    "Naive source timestamps treated as local wall clock",
+    "Annual exports assumed complete; zero filling is conditional",
+    "One current archived district geometry applied to all years; retrospective geography",
+    "Member 1 coordinate exclusions retained unchanged"
+  ],
+  "forecast_protocol": "Fixed fitted model; one-week-ahead forecasts with actual completed prior-week counts"
+}

@@ -1,6 +1,6 @@
-Below is the final copy-paste-ready `README.md`. It includes all five members and clearly identifies Member 4’s work as completed on an unmerged branch.
 
-````markdown
+
+
 # San José 311 Illegal-Dumping Demand Forecasting
 
 A reproducible machine-learning project for analyzing and forecasting weekly San José 311 illegal-dumping report demand across City Council districts.

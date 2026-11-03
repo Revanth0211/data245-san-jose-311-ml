@@ -1,0 +1,6 @@
+experiment,features_used,training_rows,validation_rows,mae,rmse
+without_rolling,"district, sin_year, cos_year, lag_1, lag_2, lag_4",2080,520,14.027345272782773,20.106545387940418
+full_model,"district, sin_year, cos_year, lag_1, lag_2, lag_4, rolling_4, rolling_13",2080,520,14.089617218394142,20.412604068854446
+without_calendar,"district, lag_1, lag_2, lag_4, rolling_4, rolling_13",2080,520,14.220827841887456,20.625742315633104
+without_lags,"district, sin_year, cos_year, rolling_4, rolling_13",2080,520,14.917190183214222,22.017231517946094
+basic_model,"district, sin_year, cos_year",2080,520,18.675285412966662,27.101274123738683

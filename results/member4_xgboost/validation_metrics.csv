@@ -1,0 +1,4 @@
+experiment,training_start,training_end,training_rows,validation_year,validation_rows,numeric_feature_count,status,rows,mae,rmse
+shared,2020,2023,2080,2024,520,7,provisional,520,14.170987815123338,20.32493419041808
+member2_lags,2020,2023,2080,2024,520,8,provisional,520,13.942413682204027,20.195066274585507
+member2_full,2020,2023,2080,2024,520,14,provisional,520,14.007051357856163,20.355856603747505

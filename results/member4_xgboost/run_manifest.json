@@ -1,0 +1,94 @@
+{
+  "artifact_api_version": 2,
+  "status": "provisional",
+  "train_window": "2020-2023",
+  "validation": "2024",
+  "final_test_2025_accessed": false,
+  "panel_path": "data\\processed\\district_week_development.csv",
+  "panel_sha256": "86d08b628aff56be4a9cf7fbc7a98d06c2937cad8fcd8d5880e5541e9bd890ed",
+  "experiment_names": [
+    "shared",
+    "member2_lags",
+    "member2_full"
+  ],
+  "primary_analysis_experiment": "member2_lags",
+  "features": {
+    "shared": [
+      "lag_1",
+      "lag_2",
+      "lag_4",
+      "rolling_4",
+      "rolling_13",
+      "sin_year",
+      "cos_year"
+    ],
+    "member2_lags": [
+      "month",
+      "week_of_year",
+      "sin_year",
+      "cos_year",
+      "lag_1",
+      "lag_2",
+      "lag_4",
+      "lag_8"
+    ],
+    "member2_full": [
+      "month",
+      "week_of_year",
+      "sin_year",
+      "cos_year",
+      "lag_1",
+      "lag_2",
+      "lag_4",
+      "lag_8",
+      "rolling_4",
+      "rolling_8",
+      "rolling_13",
+      "rolling_std_4",
+      "rolling_std_8",
+      "recent_change_1_4"
+    ]
+  },
+  "xgb_settings": {
+    "objective": "reg:squarederror",
+    "n_estimators": 250,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "min_child_weight": 3,
+    "reg_lambda": 1.0,
+    "tree_method": "hist",
+    "random_state": 42,
+    "n_jobs": 2
+  },
+  "training_rows": 2080,
+  "validation_rows": 520,
+  "validation_week_count": 52,
+  "validation_district_count": 10,
+  "coverage_statuses": [
+    "assumed_complete_pending_team_confirmation"
+  ],
+  "timezone": "naive local wall-clock (provisional team convention)",
+  "test_evaluated": false,
+  "team_validation_check": {
+    "team_validation_crosscheck": "passed",
+    "team_poisson_rows": 520
+  },
+  "generated_utc": "2026-11-03T08:15:22.548585+00:00",
+  "software": {
+    "python": "3.13.9",
+    "xgboost": "3.4.1",
+    "sklearn": "1.7.2",
+    "pandas": "2.3.3",
+    "numpy": "2.3.5"
+  },
+  "caveats": [
+    "Reported demand != dumping incidents",
+    "Archived geographic boundaries applied retrospectively",
+    "Completeness/zero-filling require team confirmation",
+    "Busy-week labels use observed 2024 counts for POST-HOC diagnostics only",
+    "Feature importances are not causal effects",
+    "2024 results for development; 2025 must remain untouched"
+  ]
+}

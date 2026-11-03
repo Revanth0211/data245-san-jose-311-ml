@@ -1,3 +1,16 @@
-# Install the team's requirements-forecasting.txt FIRST (numpy/pandas/sklearn/matplotlib).
-# Any XGBoost 2.1+ / 3.x release with Python 3.10+ is expected to work.
-xgboost>=2.1,<4
+# Member 4 verified environment: CPython 3.13.15 (Windows x64)
+# Pinned versions for the reproduced XGBoost 2024 validation results.
+# Install in a separate virtual environment; do NOT combine this file
+# with the team's requirements-forecasting.txt (different NumPy/sklearn pins).
+# See this directory's README.md for setup and reproducibility checks.
+
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+xgboost==3.4.1
+scipy==1.17.1
+matplotlib==3.9.4
+shapely==2.0.7
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.31.0

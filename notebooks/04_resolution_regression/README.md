@@ -15,27 +15,58 @@ This directory implements the team-agreed fallback to **XGBoost for weekly illeg
 
 **No teammate source modules are copied or modified in this contribution.** All experiments use Member 5's shared panel, rather than regenerating district assignments or weekly count targets. `--with-member2` requires `src/eda_features.py` to be present in the local checkout.
 
-## Reproduce on Windows PowerShell
+## Reproducible environment (Windows PowerShell)
 
-Open PowerShell at the project root (containing `src`, `data`, `notebooks`, and `results`):
+The Member 4 development run was **reproduced on Windows x64 with CPython 3.13.15**. The recorded core library versions are XGBoost **3.4.1**, NumPy **2.3.5**, pandas **2.3.3**, and scikit-learn **1.7.2**. The environment also passed `pip check`, all **17 unit tests**, and the shared 2024 validation-row cross-check. The three model configurations reproduced the saved validation metrics. SciPy, Matplotlib, and notebook-related dependencies are pinned in `requirements_member4.txt` to make the environment setup more specific.
 
-```powershell
-python -m pip install -r requirements-forecasting.txt
-python -m pip install -r notebooks/04_resolution_regression/requirements_member4.txt
-python -m unittest discover -s notebooks/04_resolution_regression -p test_member4_xgboost.py -v
-python notebooks/04_resolution_regression/member4_xgboost.py --provisional --with-member2
-```
+**Important:** The team's `requirements-forecasting.txt` specifies different NumPy and scikit-learn versions. Do **not** install the team requirements and Member 4 requirements into the same Python environment. Member 4 reuses the team's **data and evaluation protocol**, not its Python dependency environment. Do not modify the shared requirements file for this PR.
 
-The command above is the **recommended run** when `src/eda_features.py` is available. It runs all three feature combinations and uses `member2_lags` consistently for district/busy-week diagnostics and all focused plots. If Member 2's module is not yet present, run this **shared-only fallback** instead:
+From the **repository root**, create a Member 4 virtual environment outside the checkout:
 
 ```powershell
-Test-Path .\src\eda_features.py
-python notebooks/04_resolution_regression/member4_xgboost.py --provisional
+py -3.13 --version
+# Reproduced with Python 3.13.15; check the actual patch version above.
+py -3.13 -m venv "$env:USERPROFILE\.venvs\data245-member4-313"
+$m4python = "$env:USERPROFILE\.venvs\data245-member4-313\Scripts\python.exe"
+& $m4python -m pip install -r notebooks/04_resolution_regression/requirements_member4.txt
+& $m4python -m pip check
 ```
 
-Open `notebooks/04_resolution_regression/member4_xgboost_analysis.ipynb` in VS Code with an installed Python/Jupyter kernel, and **Run All**. The first code cell loads `member4_xgboost.py` from the repository and checks its interface version. It automatically runs the shared model and, if Member 2's module exists, the additional two feature sets; in that case, **member2_lags is the primary error-analysis model**. The notebook, saved district and busy-week charts, citywide weekly plot, and feature-importance plot all use that same model. Running the shared-only command later will regenerate these charts for `shared`, so rerun with `--with-member2` before committing your main analysis results. Saved notebook output is a development snapshot; rerun it after shared data or feature changes.
+Verify the interpreter and installed core packages:
 
-If `data/processed/district_week_development.csv` is missing, run `python src/demand_forecasting.py` to generate it from the shared source data and district polygons. This may also regenerate Member 5 result files; do not include unrelated generated changes in the Member 4 PR. **Do not** train on `results/demand_forecasting/validation_predictions.csv`, which only contains validation predictions and is used here as a row-alignment check.
+```powershell
+& $m4python -c "import sys,numpy,pandas,sklearn,xgboost; print('Python:',sys.version.split()[0]); print('NumPy:',numpy.__version__,'pandas:',pandas.__version__,'scikit-learn:',sklearn.__version__,'XGBoost:',xgboost.__version__)"
+```
+
+The documented model reproduction was verified with the versions above. A different Python patch version or operating system may work, but exact matching scores have not been independently verified there.
+
+### Data dependency
+
+The script requires Member 5's shared `data/processed/district_week_development.csv` and, for the three-feature-set comparison, Member 2's `src/eda_features.py`. If the panel is absent, follow `notebooks/05_demand_forecasting/README.md` to generate it using the **team's separate environment**. Generating the panel may change Member 5's saved results: do not include those unrelated modifications in the Member 4 PR. The `results/demand_forecasting/validation_predictions.csv` file is for row-alignment checks, **not** model training.
+
+### Run tests and regenerate Member 4 outputs
+
+```powershell
+& $m4python -m unittest discover -s notebooks/04_resolution_regression -p test_member4_xgboost.py -v
+& $m4python notebooks/04_resolution_regression/member4_xgboost.py --provisional --with-member2
+```
+
+The second command trains all three fixed-feature configurations, writes CSV/JSON files to `results/member4_xgboost/`, and generates figures in `reports/figures/member4_xgboost/`. When Member 2's code is present, `member2_lags` is the primary model for district, busy-week, trajectory, and feature-importance analysis. If that module is unavailable, omit `--with-member2` to run the `shared` reference only; do not mix outputs from these two modes in one submission.
+
+### Re-run the notebook in the same environment
+
+```powershell
+& $m4python -m ipykernel install --user --name data245-member4-313 --display-name "Python 3.13 (Member 4)"
+```
+
+Open `notebooks/04_resolution_regression/member4_xgboost_analysis.ipynb` in VS Code. Select the **Python 3.13 (Member 4)** kernel, then choose **Restart Kernel → Run All → Save**. The notebook uses the current `member4_xgboost.py` from disk and checks its interface version.
+
+Before committing, confirm that:
+
+- `pip check` reports no broken requirements and all 17 Member 4 tests pass.
+- The notebook, `validation_metrics.csv`, plots and `run_manifest.json` refer to the **same run**, with `member2_lags` as the main descriptive model.
+- The manifest records Python 3.13.15, XGBoost 3.4.1, NumPy 2.3.5, pandas 2.3.3, and scikit-learn 1.7.2; the shared panel hash and 520 validation rows remain consistent.
+- The **2025 final test set is not evaluated**.
 
 ## Frozen evaluation protocol
 
@@ -65,7 +96,7 @@ Busy-week rules, *declared using 2020–2023 training observations*:
 
 ## Measured provisional 2024 validation results
 
-Results reproduced locally on the shared 2024 validation panel (2020–2023 training; fixed hyperparameters):
+Results reproduced in the verified Member 4 environment (Python 3.13.15, XGBoost 3.4.1), on the shared 2024 validation panel (2020–2023 training; fixed hyperparameters):
 
 | XGBoost feature set | Training rows | Validation rows | MAE | RMSE |
 |---|---:|---:|---:|---:|

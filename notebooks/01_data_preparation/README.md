@@ -3,7 +3,7 @@
 Run the reproducible pipeline from the repository root:
 
 ```bash
-python src/data_preparation.py --years 2017 2018 2019 2020 2021 2022 2023 2024 2025
+python src/data_preparation.py --years 2018 2019 2020 2021 2022 2023 2024 2025
 ```
 
 The pipeline uses the official City of San José Open Data CKAN API, downloads annual 311 files into `data/raw/`, and writes generated outputs to `data/processed/`.

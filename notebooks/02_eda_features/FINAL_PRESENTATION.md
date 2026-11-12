@@ -5,7 +5,7 @@
 - Forecast target: weekly San Jose 311 illegal-dumping **report counts** by council district, not confirmed dumping incidents.
 - Model training: complete Monday-Sunday weeks in **2020-2023**.
 - Development validation: 52 complete weeks in **2024** (520 district-weeks).
-- Reserved final test: **2025; not inspected, scored, or used to create these presentation assets**.
+- Reserved final test: **2025; excluded from the EDA plots and model scoring, and not used to create these presentation assets**. The existing EDA notebook checks its row count as a split-reconciliation check.
 - Charts labeled 2018-2024 are descriptive development-period EDA. The 2018-2019 observations provide historical context and lag support; they are not part of the official model-training period.
 - Every model score shown below is a **2024 validation result**, not a final-test result.
 

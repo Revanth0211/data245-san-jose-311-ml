@@ -1,0 +1,61 @@
+{
+  "status": "proposed_pending_data_decisions",
+  "input_sha256": "c075709e37fa3050f5d53c94fb9db486e169c44a13d2fdee9fa735d3ef2a7e8c",
+  "boundary_sha256": "29ba080e546a747541716349e4c0620923a751322ea37a153646f4005ea31430",
+  "training_start": "2020-01-01",
+  "refit_end": "2024-12-31",
+  "test_start": "2025-01-01",
+  "test_end": "2025-12-31",
+  "model": {
+    "name": "poisson",
+    "alpha": 1.0,
+    "max_iter": 2000,
+    "tol": 1e-08
+  },
+  "selection_basis": "Lowest saved 2024 validation MAE among compared configurations; refit this selected configuration on 2020-2024 before the 2025 test",
+  "forecast_protocol": "Fixed fitted model, one week ahead; actual completed prior weeks supply lag history; no tuning using 2025 outcomes",
+  "decisions": {
+    "source_coverage": {
+      "owner": "Member 1",
+      "status": "pending",
+      "decision": "",
+      "evidence_or_limitation": "",
+      "adopted_convention": null
+    },
+    "timestamp_handling": {
+      "owner": "Member 1",
+      "status": "pending",
+      "decision": "",
+      "evidence_or_limitation": "",
+      "adopted_convention": null
+    },
+    "coordinate_exclusions": {
+      "owner": "Member 1",
+      "status": "pending",
+      "decision": "",
+      "evidence_or_limitation": "",
+      "adopted_convention": null
+    },
+    "fixed_district_geography": {
+      "owner": "Member 2",
+      "status": "pending",
+      "decision": "",
+      "evidence_or_limitation": "",
+      "adopted_convention": null
+    },
+    "geojson_coordinate_system": {
+      "owner": "Member 2",
+      "status": "pending",
+      "decision": "",
+      "evidence_or_limitation": "",
+      "adopted_convention": null
+    },
+    "unmatched_points": {
+      "owner": "Member 2",
+      "status": "pending",
+      "decision": "",
+      "evidence_or_limitation": "",
+      "adopted_convention": null
+    }
+  }
+}

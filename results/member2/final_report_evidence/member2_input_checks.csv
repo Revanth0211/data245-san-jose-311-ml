@@ -1,0 +1,13 @@
+,value
+A_basic_rows,520
+B_basic_lags_rows,520
+C_basic_lags_rolling_rows,520
+identical_keys_across_groups,True
+identical_actuals_across_groups,True
+no_duplicate_keys_within_group,True
+districts,10
+weeks,52
+first_week_start,2024-01-01
+last_week_start,2024-12-23
+rows_outside_2024,0
+zero_actual_rows,0

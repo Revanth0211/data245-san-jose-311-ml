@@ -1,4 +1,6 @@
-# District-map verification — Member 2
+# District-map verification
+
+**Contributor:** Haritha Gottumukkala
 
 ## Scope
 

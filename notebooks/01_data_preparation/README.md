@@ -1,4 +1,6 @@
-# Member 1 — Data preparation
+# Data preparation
+
+**Contributor:** Abhijith Reddy
 
 Run the reproducible pipeline from the repository root:
 

@@ -1,10 +1,12 @@
-# Member 2: EDA and shared forecasting features
+# EDA and shared forecasting features
+
+**Contributor:** Haritha Gottumukkala
 
 ## Scope
 
 This folder contains Member 2's contribution to the San Jose 311 illegal-dumping project. The project studies reported weekly demand by council district; a request is a 311 report, not necessarily a distinct dumping event. Member 2 verifies the fixed district map, describes the cleaned data, implements leakage-safe shared features, and compares predeclared feature groups with the team's Poisson forecasting convention.
 
-All findings are **provisional** until the team approves the source-coverage and fixed-geography assumptions. This work does not evaluate the reserved 2025 test period.
+These analyses cover development and 2024 validation under documented source-coverage and fixed-geography assumptions. The [final report evidence](../../results/member2/final_report_evidence/EVIDENCE_SUMMARY.md) includes district metrics and individual error cases.
 
 ## Execution order
 
@@ -107,7 +109,7 @@ Reproducible outputs are stored in:
 
 - The frozen layer is described as current/2021-redistricting geography with possible later updates. Applying it to 2018-2024 is consistent retrospective geography, not proof of the district legally in effect for every historical request.
 - The GeoJSON coordinate ranges support longitude/latitude use, but the export query, acquisition timestamp, and requested output CRS are not recorded.
-- The team still needs to approve fixed geography and decide whether historical-boundary sensitivity analysis is required.
+- The evaluation used fixed geography. Sensitivity to historical boundary changes was not measured.
 - Annual export completeness and the interpretation of an unobserved district-week as zero demand require confirmation. The current reconstructed grid happened to have zero unobserved district-week cells.
 - Request counts measure reports and can change with channel access, source systems, public behavior, and definitions.
 - Raw district comparisons do not adjust for population, area, land use, or reporting access.

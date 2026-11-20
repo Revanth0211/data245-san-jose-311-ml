@@ -1,4 +1,6 @@
-# Member 2 final presentation: district map, EDA, and forecasting features
+# Final presentation: district map, EDA, and forecasting features
+
+**Contributor:** Haritha Gottumukkala
 
 ## Evaluation and interpretation guardrails
 

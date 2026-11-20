@@ -1,6 +1,8 @@
-# Revanth: weekly demand forecasting
+# Weekly demand forecasting
 
-This component implements the intermediate technical milestone: a shared district-week development table, past-only count features, previous-week and four-week-average baselines, Poisson regression, and district-level validation errors. Results are **provisional**, not a declaration that the source coverage and geography have been approved.
+**Contributor:** Srinidhi Jaya Revanth Srirangarajapally
+
+This guide covers the development experiment. The [final evaluation](FINAL_HANDOFF.md) documents the refit and held-out results.
 
 ## Reproduce
 
@@ -25,7 +27,7 @@ Features: district identity, counts from 1, 2, and 4 weeks earlier, shifted 4- a
 
 Compare training starts of 2018 and 2020, ending in 2023, on exactly the same 2024 validation district-weeks. Every district for a week stays in the same split. Scaling and district encoding are fitted on training rows only. The Poisson model uses fixed alpha=1; no hyperparameter search has been performed. Both baselines are evaluated on the identical rows. MAE and RMSE are in requests per district-week; the plotted citywide totals are descriptive, not the pooled district-level metric.
 
-The latest validation week starts December 23, 2024. The week beginning December 30 crosses into the reserved test year and is excluded. **2025 has not been evaluated**. Freeze the shared data version, protocol, training-window choice, and model settings before implementing the final test. For the final test, exclude incomplete edge weeks; preserve continuous history for feature construction. The current implementation deliberately stops at validation.
+The last validation week began December 23, 2024. The week beginning December 30 crossed the year boundary. The separate final evaluator scored 51 complete weeks in 2025.
 
 ## Dependencies and limitations
 
@@ -37,18 +39,11 @@ Of 181,326 cleaned development-period requests, 180,863 map uniquely to the arch
 
 The first execution exposed numerical warnings with NumPy 2.0.2 on this machine. The pinned NumPy 1.26.4 environment reproduced the same scores with runtime warnings treated as errors. Leakage tests and fresh-kernel notebook execution are part of the verification.
 
-- Member 1 must confirm timestamp semantics. For this provisional run, naive creation timestamps are treated as San Jose local wall-clock times; no unsupported UTC conversion is applied.
-- Annual export completeness is an assumption. Prior review found all calendar days represented in the raw 2018–2025 exports, but that does not prove every reporting channel was complete. Zero-filled district-weeks require team confirmation; known gaps must become missing coverage, not zero demand.
-- Members 1 and 2 must agree on the district map. The official snapshot is a current layer based on the 2021 redistricting with subsequent updates. Applying it consistently to old records gives retrospective fixed geography, not historical administrative districts or a strictly historical deployment simulation. Do not use population or officeholder attributes as model features.
-- Member 1's 1,071 coordinate exclusions are retained. Prior review identified 783 excluded records with potentially sign-flipped longitude; corrections require a documented source decision and a rerun by all members.
-- Model scores are observational validation estimates. A longer training history is not automatically better; compare the two windows and discuss temporal changes. Keep the common team split consistent after choosing.
-- A Poisson mean model does not guarantee calibrated prediction intervals. None are supplied. Request counts may be overdispersed and correlated over time.
+The final run treated timestamps as local wall-clock times and used a fixed district map retrospectively. Source completeness and zero filling remain assumptions. The [protocol](../../config/final_evaluation_protocol.json) records the coordinate exclusions and geographic conventions.
 
-## AI use and student review
+## AI assistance
 
-AI assistance was used to draft the forecasting implementation, tests, explanations, and experiment workflow. Revanth must inspect and understand the code, verify assumptions with teammates, interpret the results, and acknowledge assistance according to the course's certificate requirements. This note is not an official certificate and does not claim completion of any required training.
-
-The individual literature review (at least 13 papers in the repository plan), personal progress narrative, instructor certificate, and teammate review remain separate deliverables. Do not claim to have read papers or personally performed analysis that you have not reviewed.
+AI assistance supported implementation, tests, explanations and experiment documentation.
 
 ## Sources
 

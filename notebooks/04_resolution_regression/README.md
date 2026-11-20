@@ -1,4 +1,6 @@
-# Member 4 — XGBoost weekly-demand fallback (intermediate milestone)
+# XGBoost weekly demand forecasting
+
+**Contributor:** Xinghan Chen
 
 **Owner:** Member 4. **Status:** provisional, **2025 test not evaluated**.
 

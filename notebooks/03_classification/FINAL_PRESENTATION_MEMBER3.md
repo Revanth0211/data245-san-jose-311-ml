@@ -1,4 +1,6 @@
-# Member 3 final presentation: Random Forest forecasting and error analysis
+# Final presentation: Random Forest forecasting and error analysis
+
+**Contributor:** Divija Puli
 
 ## Evaluation and interpretation guardrails
 
@@ -111,7 +113,7 @@ The largest errors occurred when weekly activity changed sharply. For example, t
 
 - The target measures reported 311 requests, not every illegal-dumping incident.
 - The model was evaluated only on the 2024 validation period so far.
-- The 2025 final test results are still pending.
+- The Random Forest results cover 2024 validation. The separate [2025 test](../../results/demand_forecasting_final/test_metrics.csv) evaluated Poisson and two baselines.
 - The model may perform poorly when report activity changes suddenly.
 - District-level errors may reflect reporting behavior, data coverage, or other factors that are not included in the model.
 - The districts are compared using raw report counts and are not adjusted for population, area, land use, or reporting access.
@@ -132,4 +134,3 @@ The largest errors occurred when weekly activity changed sharply. For example, t
 ## Asset provenance
 
 The Random Forest figures were created from the committed validation predictions and feature-removal results. The error-analysis script selected the `without_rolling` experiment, calculated district-level errors, identified the largest prediction mistakes, and created the district MAE chart. No 2025 records were used in this analysis.
-

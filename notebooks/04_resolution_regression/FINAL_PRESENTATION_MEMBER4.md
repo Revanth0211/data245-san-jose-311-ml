@@ -1,4 +1,6 @@
-# Member 4 — Final Presentation: XGBoost Weekly Demand Forecasting
+# Final Presentation: XGBoost Weekly Demand Forecasting
+
+**Contributor:** Xinghan Chen
 
 **Owner:** Xinghan Chen (Member 4)
 **Task:** XGBoost forecasting, feature comparison, district-level and busy-week error analysis
@@ -104,13 +106,13 @@ This sums the ten district-level predictions and actual values for each week. It
 
 Use only if asked which predictors appear important in the fitted model. The figure is a model diagnostic, **not evidence of causal effects**. The plotted feature-importance values correspond to the saved primary `member2_lags` model.
 
-## Limitations and what the team still controls
+## Interpretation and limitations
 
 1. **Reporting is not incidence:** 311 requests do not capture every actual illegal-dumping incident.
 2. **Geography is retrospective:** the archived council-district boundary snapshot was applied to historical records. Member 2 and the team are responsible for the final boundary/CRS description.
 3. **Coverage and zero-filling are provisional:** completeness of annual data and interpretation of missing versus zero-count weeks require team confirmation.
 4. **High-demand analysis is retrospective:** the busy-week labels rely on observed validation targets and were never model inputs.
-5. **2025 is reserved:** do not add or claim any final-test score until the team lead freezes the protocol and runs the agreed comparison. At that stage, update slide labels and scores from the authorized results.
+5. The XGBoost results cover 2024 validation. The [final test](../../results/demand_forecasting_final/test_metrics.csv) evaluated Poisson and both baselines.
 
 ## Reproducibility and asset provenance
 
@@ -150,5 +152,3 @@ python -m unittest discover -s notebooks/04_resolution_regression -p test_member
 - [x] All four presentation-specific files are separated from existing merged model files.
 - [x] Figure paths are relative to the Markdown file's location in `notebooks/04_resolution_regression/`.
 - [x] Member 4's 17 existing tests passed in verification; the lightweight presentation script also executed successfully.
-- [ ] Team lead has reviewed and incorporated the selected slides.
-- [ ] Team has finalized the data-coverage and district-map assumptions and authorized the 2025 final-test report.

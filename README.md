@@ -113,7 +113,7 @@ notebooks/04_resolution_regression/
 However:
 
 - `03_classification` currently contains Random Forest demand regression.
-- `04_resolution_regression` contains XGBoost demand regression on Member 4’s branch.
+- `04_resolution_regression` contains the merged XGBoost demand-regression work.
 
 ---
 
@@ -188,7 +188,7 @@ Development validation on 2024
 Reserved final test on 2025
 ```
 
-The 2025 final test period has not been evaluated.
+Member 5 subsequently evaluated the selected Poisson model and two baselines on 510 held-out 2025 district-weeks. See the final handoff below.
 
 ---
 
@@ -359,7 +359,7 @@ notebooks/02_eda_features/feature_dictionary.csv
 
 All results below are provisional 2024 development-validation results.
 
-The 2025 final test set remains untouched.
+The validation experiments excluded 2025. The subsequent Member 5 final test is documented below.
 
 ### Shared baselines and Poisson regression
 
@@ -410,13 +410,7 @@ The increase in error after removing lag features indicates that recent report h
 
 ### Member 4 XGBoost comparison
 
-Member 4’s XGBoost work is available on:
-
-```text
-origin/Xinghan/xgboost-demand-forecasting
-```
-
-It is not merged into the current `main` branch.
+Member 4’s XGBoost work was merged through PR #5. The files and saved Windows-run results are available in `main`.
 
 | XGBoost feature configuration | MAE | RMSE |
 |---|---:|---:|
@@ -442,7 +436,7 @@ Additional findings include:
 |---|---:|---:|---|
 | **Poisson, trained 2020–2023** | **13.643** | **19.132** | Merged |
 | Poisson with Member 2 lag features | 13.852 | 19.482 | Merged |
-| XGBoost with Member 2 lag features | 13.942 | 20.195 | Member 4 branch |
+| XGBoost with Member 2 lag features | 13.942 | 20.195 | Merged |
 | Random Forest without rolling features | 14.027 | 20.107 | Merged |
 | Four-week-average baseline | 15.030 | 20.714 | Merged |
 | Previous-week baseline | 15.804 | 22.271 | Merged |
@@ -565,13 +559,7 @@ The directory retains the original `classification` name, but the implemented ta
 
 ### Member 4 — Xinghan Chen (`xinghanchen-xc`): XGBoost Forecasting and Error Analysis
 
-Member 4’s contribution is available on:
-
-```text
-origin/Xinghan/xgboost-demand-forecasting
-```
-
-The work is completed on the remote branch but is not merged into the current `main` branch.
+Member 4’s contribution was merged into `main` through PR #5.
 
 Contributions:
 
@@ -589,7 +577,7 @@ Contributions:
 - Created a separately pinned XGBoost environment.
 - Added a run manifest containing data hashes, parameters, versions, and assumptions.
 
-Primary branch files:
+Primary files:
 
 ```text
 notebooks/04_resolution_regression/README.md
@@ -635,7 +623,7 @@ Contributions:
 - Added leakage and weekly-grid tests.
 - Created the forecasting notebook and documentation.
 - Added the run manifest.
-- Integrated and merged teammate pull requests #1–#4.
+- Reviewed and integrated teammate contributions, including PR #5 and Member 2’s presentation assets in PR #7.
 
 Primary files:
 
@@ -667,7 +655,7 @@ Main result:
 | Member 1 | Abhijith Reddy | Data preparation and cleaning | Merged into `main` |
 | Member 2 | Haritha Gottumukkala | EDA, map verification, and feature engineering | Merged into `main` |
 | Member 3 | Divija Puli | Random Forest forecasting | Merged into `main` |
-| Member 4 | Xinghan Chen | XGBoost forecasting and error analysis | Completed on remote branch; not merged |
+| Member 4 | Xinghan Chen | XGBoost forecasting and error analysis | Merged into `main` |
 | Member 5 | Srinidhi Jaya Revanth Srirangarajapally | Shared Poisson forecasting and integration | Merged into `main` |
 
 ### Contribution verification note
@@ -724,7 +712,7 @@ Those activities should be recorded separately if required for individual course
 └── README.md
 ```
 
-Member 4’s XGBoost files are located on the unmerged branch and therefore are not present in the current `main` working tree.
+Member 4’s XGBoost files, saved results, and five figures are present in `main`.
 
 ---
 
@@ -773,7 +761,7 @@ Run all commands from the repository root.
 python -m unittest discover -s tests -v
 ```
 
-The current merged-main suite contains 25 tests.
+The shared suite contains 30 tests, including five tests for the final-evaluation workflow. Member 4 has a separate 17-test suite documented in its README.
 
 ### 2. Optionally rebuild the cleaned dataset
 
@@ -833,13 +821,7 @@ notebooks/05_demand_forecasting/weekly_demand_forecasting.ipynb
 
 ### 7. Access the Member 4 XGBoost work
 
-Member 4’s work must first be merged or checked out from the remote branch:
-
-```bash
-git switch --track origin/Xinghan/xgboost-demand-forecasting
-```
-
-Then follow:
+Member 4’s work is already in `main`. Follow:
 
 ```text
 notebooks/04_resolution_regression/README.md
@@ -918,14 +900,14 @@ results/member3_random_forest/random_forest_validation_predictions.csv
 reports/figures/member3_random_forest/random_forest_feature_removal.png
 ```
 
-### Member 4 XGBoost branch
+### Member 4 XGBoost
 
 ```text
 results/member4_xgboost/
 reports/figures/member4_xgboost/
 ```
 
-These paths are available on the Member 4 branch and are not currently merged into `main`.
+These paths are available in `main`.
 
 ### Member 5 shared forecasting
 
@@ -970,8 +952,8 @@ reports/figures/demand_forecasting/district_mae.png
 9. **2024 is development validation.**  
    Repeated comparisons on 2024 may influence model-selection decisions.
 
-10. **2025 remains reserved.**  
-    No current result reports final 2025 performance.
+10. **2025 final evaluation.**  
+    Member 5 reports held-out Poisson and baseline results in results/demand_forecasting_final/.
 
 11. **Feature importance is not causal evidence.**  
     Model importance values do not explain why reports occur.
@@ -1002,7 +984,7 @@ reports/figures/demand_forecasting/district_mae.png
 - Random Forest feature-removal experiments.
 - Shared tests, metrics, predictions, figures, and documentation.
 
-### Completed but not merged into `main`
+### Also completed and merged into `main`
 
 - XGBoost demand forecasting.
 - XGBoost feature-set comparison.
@@ -1010,6 +992,17 @@ reports/figures/demand_forecasting/district_mae.png
 - Busy-week error analysis.
 - Feature-importance analysis.
 - Member 4 tests, notebook, figures, results, and environment specification.
+
+### Final forecasting handoff
+
+[Member 5 final handoff](notebooks/05_demand_forecasting/FINAL_HANDOFF.md) explains the combined validation evidence, documented assumptions, completed final refit, complete 2025 test weeks, reproduction commands, and presentation questions.
+
+```bash
+python src/forecasting_summary.py
+python src/final_evaluation.py check
+```
+
+The summary reconciles six saved configurations on the same 520 validation district-weeks. The frozen 2025 evaluation produced MAE of 12.590 for Poisson, 12.949 for the four-week average and 13.975 for the previous-week baseline. The four-week average had the lowest RMSE. Data assumptions are documented in the protocol lock.
 
 ### Remaining project decisions
 
@@ -1019,7 +1012,6 @@ reports/figures/demand_forecasting/district_mae.png
 - Approve fixed retrospective district geography.
 - Decide whether historical-boundary sensitivity analysis is needed.
 - Review unmatched and excluded coordinates.
-- Review and merge Member 4’s XGBoost branch.
 - Freeze the final model and evaluation protocol.
 - Evaluate 2025 only after the protocol is frozen.
 - Add a repository license if the project will be distributed publicly.

@@ -1,0 +1,14 @@
+{
+  "test_evaluated": false,
+  "rows_per_model": 520,
+  "sources_sha256": {
+    "results/demand_forecasting/validation_predictions.csv": "4cc256226783dcce1947fd119cf0bdd9df764c68d4319a9da441b6ec548ee9a4",
+    "results/member2/feature_comparison_predictions.csv": "9988ebc8735bd98a490205c16fc8dce584865c64e36dadcff6a236f6d95e05cf",
+    "results/member3_random_forest/random_forest_validation_predictions.csv": "def5001c2e9f41e9715b6f1c6c58778743fe42daab8d225069c29bb298a2710e",
+    "results/member4_xgboost/validation_predictions.csv": "9767acf250dd5e5e871e3e7ca6a3b47b6e487d1097a3697d0af19aac8d951288"
+  },
+  "metrics_recomputed_from": "committed validation predictions",
+  "xgboost_note": "Saved Windows run; rounded CSV predictions can differ from stored full-precision metrics by less than 1e-5. Different platforms produced different XGBoost scores during prior review.",
+  "selection_note": "Configurations were compared on 2024; small differences do not establish statistical significance.",
+  "wape_definition": "100 * sum(abs(prediction - count)) / sum(count); descriptive error relative to volume, not accuracy or a population adjustment"
+}

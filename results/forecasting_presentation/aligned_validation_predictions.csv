@@ -1,0 +1,3121 @@
+district,week_start,count,prediction,model
+1,2024-01-01,59,36.0,Previous week
+1,2024-01-08,133,59.0,Previous week
+1,2024-01-15,83,133.0,Previous week
+1,2024-01-22,100,83.0,Previous week
+1,2024-01-29,77,100.0,Previous week
+1,2024-02-05,32,77.0,Previous week
+1,2024-02-12,53,32.0,Previous week
+1,2024-02-19,22,53.0,Previous week
+1,2024-02-26,55,22.0,Previous week
+1,2024-03-04,83,55.0,Previous week
+1,2024-03-11,83,83.0,Previous week
+1,2024-03-18,83,83.0,Previous week
+1,2024-03-25,50,83.0,Previous week
+1,2024-04-01,81,50.0,Previous week
+1,2024-04-08,79,81.0,Previous week
+1,2024-04-15,84,79.0,Previous week
+1,2024-04-22,54,84.0,Previous week
+1,2024-04-29,68,54.0,Previous week
+1,2024-05-06,62,68.0,Previous week
+1,2024-05-13,47,62.0,Previous week
+1,2024-05-20,64,47.0,Previous week
+1,2024-05-27,44,64.0,Previous week
+1,2024-06-03,67,44.0,Previous week
+1,2024-06-10,76,67.0,Previous week
+1,2024-06-17,45,76.0,Previous week
+1,2024-06-24,100,45.0,Previous week
+1,2024-07-01,32,100.0,Previous week
+1,2024-07-08,74,32.0,Previous week
+1,2024-07-15,78,74.0,Previous week
+1,2024-07-22,77,78.0,Previous week
+1,2024-07-29,57,77.0,Previous week
+1,2024-08-05,45,57.0,Previous week
+1,2024-08-12,67,45.0,Previous week
+1,2024-08-19,55,67.0,Previous week
+1,2024-08-26,70,55.0,Previous week
+1,2024-09-02,88,70.0,Previous week
+1,2024-09-09,64,88.0,Previous week
+1,2024-09-16,49,64.0,Previous week
+1,2024-09-23,78,49.0,Previous week
+1,2024-09-30,86,78.0,Previous week
+1,2024-10-07,44,86.0,Previous week
+1,2024-10-14,53,44.0,Previous week
+1,2024-10-21,66,53.0,Previous week
+1,2024-10-28,45,66.0,Previous week
+1,2024-11-04,56,45.0,Previous week
+1,2024-11-11,78,56.0,Previous week
+1,2024-11-18,72,78.0,Previous week
+1,2024-11-25,40,72.0,Previous week
+1,2024-12-02,50,40.0,Previous week
+1,2024-12-09,79,50.0,Previous week
+1,2024-12-16,65,79.0,Previous week
+1,2024-12-23,29,65.0,Previous week
+2,2024-01-01,69,38.0,Previous week
+2,2024-01-08,55,69.0,Previous week
+2,2024-01-15,94,55.0,Previous week
+2,2024-01-22,114,94.0,Previous week
+2,2024-01-29,46,114.0,Previous week
+2,2024-02-05,15,46.0,Previous week
+2,2024-02-12,40,15.0,Previous week
+2,2024-02-19,31,40.0,Previous week
+2,2024-02-26,59,31.0,Previous week
+2,2024-03-04,108,59.0,Previous week
+2,2024-03-11,77,108.0,Previous week
+2,2024-03-18,60,77.0,Previous week
+2,2024-03-25,70,60.0,Previous week
+2,2024-04-01,61,70.0,Previous week
+2,2024-04-08,83,61.0,Previous week
+2,2024-04-15,75,83.0,Previous week
+2,2024-04-22,55,75.0,Previous week
+2,2024-04-29,41,55.0,Previous week
+2,2024-05-06,27,41.0,Previous week
+2,2024-05-13,54,27.0,Previous week
+2,2024-05-20,69,54.0,Previous week
+2,2024-05-27,46,69.0,Previous week
+2,2024-06-03,57,46.0,Previous week
+2,2024-06-10,38,57.0,Previous week
+2,2024-06-17,39,38.0,Previous week
+2,2024-06-24,57,39.0,Previous week
+2,2024-07-01,59,57.0,Previous week
+2,2024-07-08,69,59.0,Previous week
+2,2024-07-15,52,69.0,Previous week
+2,2024-07-22,51,52.0,Previous week
+2,2024-07-29,76,51.0,Previous week
+2,2024-08-05,41,76.0,Previous week
+2,2024-08-12,38,41.0,Previous week
+2,2024-08-19,54,38.0,Previous week
+2,2024-08-26,59,54.0,Previous week
+2,2024-09-02,60,59.0,Previous week
+2,2024-09-09,38,60.0,Previous week
+2,2024-09-16,95,38.0,Previous week
+2,2024-09-23,102,95.0,Previous week
+2,2024-09-30,48,102.0,Previous week
+2,2024-10-07,58,48.0,Previous week
+2,2024-10-14,43,58.0,Previous week
+2,2024-10-21,56,43.0,Previous week
+2,2024-10-28,67,56.0,Previous week
+2,2024-11-04,58,67.0,Previous week
+2,2024-11-11,39,58.0,Previous week
+2,2024-11-18,35,39.0,Previous week
+2,2024-11-25,39,35.0,Previous week
+2,2024-12-02,54,39.0,Previous week
+2,2024-12-09,48,54.0,Previous week
+2,2024-12-16,31,48.0,Previous week
+2,2024-12-23,28,31.0,Previous week
+3,2024-01-01,131,66.0,Previous week
+3,2024-01-08,113,131.0,Previous week
+3,2024-01-15,118,113.0,Previous week
+3,2024-01-22,103,118.0,Previous week
+3,2024-01-29,104,103.0,Previous week
+3,2024-02-05,49,104.0,Previous week
+3,2024-02-12,64,49.0,Previous week
+3,2024-02-19,47,64.0,Previous week
+3,2024-02-26,118,47.0,Previous week
+3,2024-03-04,126,118.0,Previous week
+3,2024-03-11,130,126.0,Previous week
+3,2024-03-18,130,130.0,Previous week
+3,2024-03-25,124,130.0,Previous week
+3,2024-04-01,120,124.0,Previous week
+3,2024-04-08,176,120.0,Previous week
+3,2024-04-15,162,176.0,Previous week
+3,2024-04-22,132,162.0,Previous week
+3,2024-04-29,123,132.0,Previous week
+3,2024-05-06,152,123.0,Previous week
+3,2024-05-13,119,152.0,Previous week
+3,2024-05-20,125,119.0,Previous week
+3,2024-05-27,195,125.0,Previous week
+3,2024-06-03,167,195.0,Previous week
+3,2024-06-10,190,167.0,Previous week
+3,2024-06-17,138,190.0,Previous week
+3,2024-06-24,146,138.0,Previous week
+3,2024-07-01,115,146.0,Previous week
+3,2024-07-08,169,115.0,Previous week
+3,2024-07-15,116,169.0,Previous week
+3,2024-07-22,121,116.0,Previous week
+3,2024-07-29,227,121.0,Previous week
+3,2024-08-05,167,227.0,Previous week
+3,2024-08-12,117,167.0,Previous week
+3,2024-08-19,130,117.0,Previous week
+3,2024-08-26,134,130.0,Previous week
+3,2024-09-02,158,134.0,Previous week
+3,2024-09-09,163,158.0,Previous week
+3,2024-09-16,167,163.0,Previous week
+3,2024-09-23,159,167.0,Previous week
+3,2024-09-30,128,159.0,Previous week
+3,2024-10-07,133,128.0,Previous week
+3,2024-10-14,95,133.0,Previous week
+3,2024-10-21,148,95.0,Previous week
+3,2024-10-28,175,148.0,Previous week
+3,2024-11-04,143,175.0,Previous week
+3,2024-11-11,102,143.0,Previous week
+3,2024-11-18,127,102.0,Previous week
+3,2024-11-25,65,127.0,Previous week
+3,2024-12-02,166,65.0,Previous week
+3,2024-12-09,139,166.0,Previous week
+3,2024-12-16,113,139.0,Previous week
+3,2024-12-23,110,113.0,Previous week
+4,2024-01-01,29,33.0,Previous week
+4,2024-01-08,22,29.0,Previous week
+4,2024-01-15,28,22.0,Previous week
+4,2024-01-22,35,28.0,Previous week
+4,2024-01-29,38,35.0,Previous week
+4,2024-02-05,45,38.0,Previous week
+4,2024-02-12,33,45.0,Previous week
+4,2024-02-19,13,33.0,Previous week
+4,2024-02-26,41,13.0,Previous week
+4,2024-03-04,29,41.0,Previous week
+4,2024-03-11,39,29.0,Previous week
+4,2024-03-18,32,39.0,Previous week
+4,2024-03-25,44,32.0,Previous week
+4,2024-04-01,31,44.0,Previous week
+4,2024-04-08,38,31.0,Previous week
+4,2024-04-15,31,38.0,Previous week
+4,2024-04-22,39,31.0,Previous week
+4,2024-04-29,34,39.0,Previous week
+4,2024-05-06,52,34.0,Previous week
+4,2024-05-13,38,52.0,Previous week
+4,2024-05-20,35,38.0,Previous week
+4,2024-05-27,26,35.0,Previous week
+4,2024-06-03,28,26.0,Previous week
+4,2024-06-10,30,28.0,Previous week
+4,2024-06-17,24,30.0,Previous week
+4,2024-06-24,47,24.0,Previous week
+4,2024-07-01,33,47.0,Previous week
+4,2024-07-08,43,33.0,Previous week
+4,2024-07-15,41,43.0,Previous week
+4,2024-07-22,41,41.0,Previous week
+4,2024-07-29,50,41.0,Previous week
+4,2024-08-05,36,50.0,Previous week
+4,2024-08-12,39,36.0,Previous week
+4,2024-08-19,36,39.0,Previous week
+4,2024-08-26,54,36.0,Previous week
+4,2024-09-02,44,54.0,Previous week
+4,2024-09-09,45,44.0,Previous week
+4,2024-09-16,41,45.0,Previous week
+4,2024-09-23,45,41.0,Previous week
+4,2024-09-30,40,45.0,Previous week
+4,2024-10-07,26,40.0,Previous week
+4,2024-10-14,50,26.0,Previous week
+4,2024-10-21,47,50.0,Previous week
+4,2024-10-28,31,47.0,Previous week
+4,2024-11-04,40,31.0,Previous week
+4,2024-11-11,31,40.0,Previous week
+4,2024-11-18,26,31.0,Previous week
+4,2024-11-25,13,26.0,Previous week
+4,2024-12-02,33,13.0,Previous week
+4,2024-12-09,27,33.0,Previous week
+4,2024-12-16,30,27.0,Previous week
+4,2024-12-23,18,30.0,Previous week
+5,2024-01-01,76,40.0,Previous week
+5,2024-01-08,107,76.0,Previous week
+5,2024-01-15,107,107.0,Previous week
+5,2024-01-22,103,107.0,Previous week
+5,2024-01-29,80,103.0,Previous week
+5,2024-02-05,35,80.0,Previous week
+5,2024-02-12,53,35.0,Previous week
+5,2024-02-19,34,53.0,Previous week
+5,2024-02-26,57,34.0,Previous week
+5,2024-03-04,84,57.0,Previous week
+5,2024-03-11,69,84.0,Previous week
+5,2024-03-18,153,69.0,Previous week
+5,2024-03-25,54,153.0,Previous week
+5,2024-04-01,79,54.0,Previous week
+5,2024-04-08,66,79.0,Previous week
+5,2024-04-15,66,66.0,Previous week
+5,2024-04-22,87,66.0,Previous week
+5,2024-04-29,85,87.0,Previous week
+5,2024-05-06,71,85.0,Previous week
+5,2024-05-13,83,71.0,Previous week
+5,2024-05-20,94,83.0,Previous week
+5,2024-05-27,101,94.0,Previous week
+5,2024-06-03,122,101.0,Previous week
+5,2024-06-10,86,122.0,Previous week
+5,2024-06-17,49,86.0,Previous week
+5,2024-06-24,73,49.0,Previous week
+5,2024-07-01,41,73.0,Previous week
+5,2024-07-08,73,41.0,Previous week
+5,2024-07-15,60,73.0,Previous week
+5,2024-07-22,58,60.0,Previous week
+5,2024-07-29,86,58.0,Previous week
+5,2024-08-05,66,86.0,Previous week
+5,2024-08-12,77,66.0,Previous week
+5,2024-08-19,64,77.0,Previous week
+5,2024-08-26,56,64.0,Previous week
+5,2024-09-02,97,56.0,Previous week
+5,2024-09-09,67,97.0,Previous week
+5,2024-09-16,117,67.0,Previous week
+5,2024-09-23,84,117.0,Previous week
+5,2024-09-30,78,84.0,Previous week
+5,2024-10-07,44,78.0,Previous week
+5,2024-10-14,65,44.0,Previous week
+5,2024-10-21,81,65.0,Previous week
+5,2024-10-28,87,81.0,Previous week
+5,2024-11-04,80,87.0,Previous week
+5,2024-11-11,63,80.0,Previous week
+5,2024-11-18,48,63.0,Previous week
+5,2024-11-25,39,48.0,Previous week
+5,2024-12-02,85,39.0,Previous week
+5,2024-12-09,46,85.0,Previous week
+5,2024-12-16,56,46.0,Previous week
+5,2024-12-23,30,56.0,Previous week
+6,2024-01-01,39,51.0,Previous week
+6,2024-01-08,46,39.0,Previous week
+6,2024-01-15,49,46.0,Previous week
+6,2024-01-22,59,49.0,Previous week
+6,2024-01-29,44,59.0,Previous week
+6,2024-02-05,28,44.0,Previous week
+6,2024-02-12,27,28.0,Previous week
+6,2024-02-19,26,27.0,Previous week
+6,2024-02-26,51,26.0,Previous week
+6,2024-03-04,50,51.0,Previous week
+6,2024-03-11,34,50.0,Previous week
+6,2024-03-18,71,34.0,Previous week
+6,2024-03-25,53,71.0,Previous week
+6,2024-04-01,52,53.0,Previous week
+6,2024-04-08,57,52.0,Previous week
+6,2024-04-15,77,57.0,Previous week
+6,2024-04-22,58,77.0,Previous week
+6,2024-04-29,77,58.0,Previous week
+6,2024-05-06,60,77.0,Previous week
+6,2024-05-13,52,60.0,Previous week
+6,2024-05-20,47,52.0,Previous week
+6,2024-05-27,41,47.0,Previous week
+6,2024-06-03,35,41.0,Previous week
+6,2024-06-10,71,35.0,Previous week
+6,2024-06-17,54,71.0,Previous week
+6,2024-06-24,58,54.0,Previous week
+6,2024-07-01,49,58.0,Previous week
+6,2024-07-08,53,49.0,Previous week
+6,2024-07-15,70,53.0,Previous week
+6,2024-07-22,58,70.0,Previous week
+6,2024-07-29,66,58.0,Previous week
+6,2024-08-05,79,66.0,Previous week
+6,2024-08-12,88,79.0,Previous week
+6,2024-08-19,90,88.0,Previous week
+6,2024-08-26,81,90.0,Previous week
+6,2024-09-02,51,81.0,Previous week
+6,2024-09-09,63,51.0,Previous week
+6,2024-09-16,63,63.0,Previous week
+6,2024-09-23,49,63.0,Previous week
+6,2024-09-30,42,49.0,Previous week
+6,2024-10-07,52,42.0,Previous week
+6,2024-10-14,54,52.0,Previous week
+6,2024-10-21,54,54.0,Previous week
+6,2024-10-28,57,54.0,Previous week
+6,2024-11-04,49,57.0,Previous week
+6,2024-11-11,49,49.0,Previous week
+6,2024-11-18,43,49.0,Previous week
+6,2024-11-25,33,43.0,Previous week
+6,2024-12-02,81,33.0,Previous week
+6,2024-12-09,55,81.0,Previous week
+6,2024-12-16,47,55.0,Previous week
+6,2024-12-23,27,47.0,Previous week
+7,2024-01-01,57,54.0,Previous week
+7,2024-01-08,82,57.0,Previous week
+7,2024-01-15,74,82.0,Previous week
+7,2024-01-22,96,74.0,Previous week
+7,2024-01-29,89,96.0,Previous week
+7,2024-02-05,19,89.0,Previous week
+7,2024-02-12,23,19.0,Previous week
+7,2024-02-19,30,23.0,Previous week
+7,2024-02-26,101,30.0,Previous week
+7,2024-03-04,58,101.0,Previous week
+7,2024-03-11,79,58.0,Previous week
+7,2024-03-18,72,79.0,Previous week
+7,2024-03-25,59,72.0,Previous week
+7,2024-04-01,75,59.0,Previous week
+7,2024-04-08,83,75.0,Previous week
+7,2024-04-15,75,83.0,Previous week
+7,2024-04-22,90,75.0,Previous week
+7,2024-04-29,66,90.0,Previous week
+7,2024-05-06,50,66.0,Previous week
+7,2024-05-13,69,50.0,Previous week
+7,2024-05-20,83,69.0,Previous week
+7,2024-05-27,81,83.0,Previous week
+7,2024-06-03,59,81.0,Previous week
+7,2024-06-10,94,59.0,Previous week
+7,2024-06-17,70,94.0,Previous week
+7,2024-06-24,74,70.0,Previous week
+7,2024-07-01,60,74.0,Previous week
+7,2024-07-08,76,60.0,Previous week
+7,2024-07-15,59,76.0,Previous week
+7,2024-07-22,85,59.0,Previous week
+7,2024-07-29,78,85.0,Previous week
+7,2024-08-05,81,78.0,Previous week
+7,2024-08-12,98,81.0,Previous week
+7,2024-08-19,70,98.0,Previous week
+7,2024-08-26,70,70.0,Previous week
+7,2024-09-02,59,70.0,Previous week
+7,2024-09-09,62,59.0,Previous week
+7,2024-09-16,60,62.0,Previous week
+7,2024-09-23,68,60.0,Previous week
+7,2024-09-30,64,68.0,Previous week
+7,2024-10-07,72,64.0,Previous week
+7,2024-10-14,95,72.0,Previous week
+7,2024-10-21,93,95.0,Previous week
+7,2024-10-28,68,93.0,Previous week
+7,2024-11-04,92,68.0,Previous week
+7,2024-11-11,70,92.0,Previous week
+7,2024-11-18,57,70.0,Previous week
+7,2024-11-25,52,57.0,Previous week
+7,2024-12-02,42,52.0,Previous week
+7,2024-12-09,58,42.0,Previous week
+7,2024-12-16,33,58.0,Previous week
+7,2024-12-23,32,33.0,Previous week
+8,2024-01-01,45,43.0,Previous week
+8,2024-01-08,52,45.0,Previous week
+8,2024-01-15,33,52.0,Previous week
+8,2024-01-22,55,33.0,Previous week
+8,2024-01-29,38,55.0,Previous week
+8,2024-02-05,21,38.0,Previous week
+8,2024-02-12,12,21.0,Previous week
+8,2024-02-19,15,12.0,Previous week
+8,2024-02-26,47,15.0,Previous week
+8,2024-03-04,51,47.0,Previous week
+8,2024-03-11,53,51.0,Previous week
+8,2024-03-18,58,53.0,Previous week
+8,2024-03-25,53,58.0,Previous week
+8,2024-04-01,49,53.0,Previous week
+8,2024-04-08,30,49.0,Previous week
+8,2024-04-15,57,30.0,Previous week
+8,2024-04-22,24,57.0,Previous week
+8,2024-04-29,38,24.0,Previous week
+8,2024-05-06,41,38.0,Previous week
+8,2024-05-13,36,41.0,Previous week
+8,2024-05-20,47,36.0,Previous week
+8,2024-05-27,35,47.0,Previous week
+8,2024-06-03,61,35.0,Previous week
+8,2024-06-10,45,61.0,Previous week
+8,2024-06-17,25,45.0,Previous week
+8,2024-06-24,56,25.0,Previous week
+8,2024-07-01,33,56.0,Previous week
+8,2024-07-08,34,33.0,Previous week
+8,2024-07-15,50,34.0,Previous week
+8,2024-07-22,48,50.0,Previous week
+8,2024-07-29,54,48.0,Previous week
+8,2024-08-05,39,54.0,Previous week
+8,2024-08-12,38,39.0,Previous week
+8,2024-08-19,47,38.0,Previous week
+8,2024-08-26,39,47.0,Previous week
+8,2024-09-02,36,39.0,Previous week
+8,2024-09-09,32,36.0,Previous week
+8,2024-09-16,55,32.0,Previous week
+8,2024-09-23,48,55.0,Previous week
+8,2024-09-30,46,48.0,Previous week
+8,2024-10-07,42,46.0,Previous week
+8,2024-10-14,42,42.0,Previous week
+8,2024-10-21,38,42.0,Previous week
+8,2024-10-28,48,38.0,Previous week
+8,2024-11-04,31,48.0,Previous week
+8,2024-11-11,26,31.0,Previous week
+8,2024-11-18,42,26.0,Previous week
+8,2024-11-25,16,42.0,Previous week
+8,2024-12-02,31,16.0,Previous week
+8,2024-12-09,51,31.0,Previous week
+8,2024-12-16,25,51.0,Previous week
+8,2024-12-23,26,25.0,Previous week
+9,2024-01-01,9,7.0,Previous week
+9,2024-01-08,16,9.0,Previous week
+9,2024-01-15,12,16.0,Previous week
+9,2024-01-22,21,12.0,Previous week
+9,2024-01-29,31,21.0,Previous week
+9,2024-02-05,11,31.0,Previous week
+9,2024-02-12,14,11.0,Previous week
+9,2024-02-19,11,14.0,Previous week
+9,2024-02-26,17,11.0,Previous week
+9,2024-03-04,26,17.0,Previous week
+9,2024-03-11,25,26.0,Previous week
+9,2024-03-18,24,25.0,Previous week
+9,2024-03-25,18,24.0,Previous week
+9,2024-04-01,15,18.0,Previous week
+9,2024-04-08,13,15.0,Previous week
+9,2024-04-15,25,13.0,Previous week
+9,2024-04-22,22,25.0,Previous week
+9,2024-04-29,10,22.0,Previous week
+9,2024-05-06,23,10.0,Previous week
+9,2024-05-13,14,23.0,Previous week
+9,2024-05-20,13,14.0,Previous week
+9,2024-05-27,16,13.0,Previous week
+9,2024-06-03,22,16.0,Previous week
+9,2024-06-10,22,22.0,Previous week
+9,2024-06-17,18,22.0,Previous week
+9,2024-06-24,25,18.0,Previous week
+9,2024-07-01,11,25.0,Previous week
+9,2024-07-08,33,11.0,Previous week
+9,2024-07-15,18,33.0,Previous week
+9,2024-07-22,28,18.0,Previous week
+9,2024-07-29,28,28.0,Previous week
+9,2024-08-05,30,28.0,Previous week
+9,2024-08-12,29,30.0,Previous week
+9,2024-08-19,29,29.0,Previous week
+9,2024-08-26,30,29.0,Previous week
+9,2024-09-02,23,30.0,Previous week
+9,2024-09-09,32,23.0,Previous week
+9,2024-09-16,22,32.0,Previous week
+9,2024-09-23,18,22.0,Previous week
+9,2024-09-30,21,18.0,Previous week
+9,2024-10-07,15,21.0,Previous week
+9,2024-10-14,14,15.0,Previous week
+9,2024-10-21,27,14.0,Previous week
+9,2024-10-28,21,27.0,Previous week
+9,2024-11-04,16,21.0,Previous week
+9,2024-11-11,21,16.0,Previous week
+9,2024-11-18,17,21.0,Previous week
+9,2024-11-25,12,17.0,Previous week
+9,2024-12-02,21,12.0,Previous week
+9,2024-12-09,21,21.0,Previous week
+9,2024-12-16,20,21.0,Previous week
+9,2024-12-23,18,20.0,Previous week
+10,2024-01-01,25,18.0,Previous week
+10,2024-01-08,26,25.0,Previous week
+10,2024-01-15,52,26.0,Previous week
+10,2024-01-22,35,52.0,Previous week
+10,2024-01-29,16,35.0,Previous week
+10,2024-02-05,16,16.0,Previous week
+10,2024-02-12,24,16.0,Previous week
+10,2024-02-19,11,24.0,Previous week
+10,2024-02-26,26,11.0,Previous week
+10,2024-03-04,18,26.0,Previous week
+10,2024-03-11,28,18.0,Previous week
+10,2024-03-18,26,28.0,Previous week
+10,2024-03-25,12,26.0,Previous week
+10,2024-04-01,14,12.0,Previous week
+10,2024-04-08,31,14.0,Previous week
+10,2024-04-15,25,31.0,Previous week
+10,2024-04-22,25,25.0,Previous week
+10,2024-04-29,31,25.0,Previous week
+10,2024-05-06,24,31.0,Previous week
+10,2024-05-13,24,24.0,Previous week
+10,2024-05-20,29,24.0,Previous week
+10,2024-05-27,14,29.0,Previous week
+10,2024-06-03,25,14.0,Previous week
+10,2024-06-10,23,25.0,Previous week
+10,2024-06-17,18,23.0,Previous week
+10,2024-06-24,34,18.0,Previous week
+10,2024-07-01,23,34.0,Previous week
+10,2024-07-08,38,23.0,Previous week
+10,2024-07-15,24,38.0,Previous week
+10,2024-07-22,31,24.0,Previous week
+10,2024-07-29,39,31.0,Previous week
+10,2024-08-05,26,39.0,Previous week
+10,2024-08-12,28,26.0,Previous week
+10,2024-08-19,35,28.0,Previous week
+10,2024-08-26,22,35.0,Previous week
+10,2024-09-02,13,22.0,Previous week
+10,2024-09-09,27,13.0,Previous week
+10,2024-09-16,26,27.0,Previous week
+10,2024-09-23,28,26.0,Previous week
+10,2024-09-30,13,28.0,Previous week
+10,2024-10-07,18,13.0,Previous week
+10,2024-10-14,14,18.0,Previous week
+10,2024-10-21,27,14.0,Previous week
+10,2024-10-28,41,27.0,Previous week
+10,2024-11-04,33,41.0,Previous week
+10,2024-11-11,26,33.0,Previous week
+10,2024-11-18,24,26.0,Previous week
+10,2024-11-25,24,24.0,Previous week
+10,2024-12-02,36,24.0,Previous week
+10,2024-12-09,16,36.0,Previous week
+10,2024-12-16,36,16.0,Previous week
+10,2024-12-23,26,36.0,Previous week
+1,2024-01-01,59,51.25,Four-week average
+1,2024-01-08,133,49.5,Four-week average
+1,2024-01-15,83,67.0,Four-week average
+1,2024-01-22,100,77.75,Four-week average
+1,2024-01-29,77,93.75,Four-week average
+1,2024-02-05,32,98.25,Four-week average
+1,2024-02-12,53,73.0,Four-week average
+1,2024-02-19,22,65.5,Four-week average
+1,2024-02-26,55,46.0,Four-week average
+1,2024-03-04,83,40.5,Four-week average
+1,2024-03-11,83,53.25,Four-week average
+1,2024-03-18,83,60.75,Four-week average
+1,2024-03-25,50,76.0,Four-week average
+1,2024-04-01,81,74.75,Four-week average
+1,2024-04-08,79,74.25,Four-week average
+1,2024-04-15,84,73.25,Four-week average
+1,2024-04-22,54,73.5,Four-week average
+1,2024-04-29,68,74.5,Four-week average
+1,2024-05-06,62,71.25,Four-week average
+1,2024-05-13,47,67.0,Four-week average
+1,2024-05-20,64,57.75,Four-week average
+1,2024-05-27,44,60.25,Four-week average
+1,2024-06-03,67,54.25,Four-week average
+1,2024-06-10,76,55.5,Four-week average
+1,2024-06-17,45,62.75,Four-week average
+1,2024-06-24,100,58.0,Four-week average
+1,2024-07-01,32,72.0,Four-week average
+1,2024-07-08,74,63.25,Four-week average
+1,2024-07-15,78,62.75,Four-week average
+1,2024-07-22,77,71.0,Four-week average
+1,2024-07-29,57,65.25,Four-week average
+1,2024-08-05,45,71.5,Four-week average
+1,2024-08-12,67,64.25,Four-week average
+1,2024-08-19,55,61.5,Four-week average
+1,2024-08-26,70,56.0,Four-week average
+1,2024-09-02,88,59.25,Four-week average
+1,2024-09-09,64,70.0,Four-week average
+1,2024-09-16,49,69.25,Four-week average
+1,2024-09-23,78,67.75,Four-week average
+1,2024-09-30,86,69.75,Four-week average
+1,2024-10-07,44,69.25,Four-week average
+1,2024-10-14,53,64.25,Four-week average
+1,2024-10-21,66,65.25,Four-week average
+1,2024-10-28,45,62.25,Four-week average
+1,2024-11-04,56,52.0,Four-week average
+1,2024-11-11,78,55.0,Four-week average
+1,2024-11-18,72,61.25,Four-week average
+1,2024-11-25,40,62.75,Four-week average
+1,2024-12-02,50,61.5,Four-week average
+1,2024-12-09,79,60.0,Four-week average
+1,2024-12-16,65,60.25,Four-week average
+1,2024-12-23,29,58.5,Four-week average
+2,2024-01-01,69,43.0,Four-week average
+2,2024-01-08,55,48.75,Four-week average
+2,2024-01-15,94,52.0,Four-week average
+2,2024-01-22,114,64.0,Four-week average
+2,2024-01-29,46,83.0,Four-week average
+2,2024-02-05,15,77.25,Four-week average
+2,2024-02-12,40,67.25,Four-week average
+2,2024-02-19,31,53.75,Four-week average
+2,2024-02-26,59,33.0,Four-week average
+2,2024-03-04,108,36.25,Four-week average
+2,2024-03-11,77,59.5,Four-week average
+2,2024-03-18,60,68.75,Four-week average
+2,2024-03-25,70,76.0,Four-week average
+2,2024-04-01,61,78.75,Four-week average
+2,2024-04-08,83,67.0,Four-week average
+2,2024-04-15,75,68.5,Four-week average
+2,2024-04-22,55,72.25,Four-week average
+2,2024-04-29,41,68.5,Four-week average
+2,2024-05-06,27,63.5,Four-week average
+2,2024-05-13,54,49.5,Four-week average
+2,2024-05-20,69,44.25,Four-week average
+2,2024-05-27,46,47.75,Four-week average
+2,2024-06-03,57,49.0,Four-week average
+2,2024-06-10,38,56.5,Four-week average
+2,2024-06-17,39,52.5,Four-week average
+2,2024-06-24,57,45.0,Four-week average
+2,2024-07-01,59,47.75,Four-week average
+2,2024-07-08,69,48.25,Four-week average
+2,2024-07-15,52,56.0,Four-week average
+2,2024-07-22,51,59.25,Four-week average
+2,2024-07-29,76,57.75,Four-week average
+2,2024-08-05,41,62.0,Four-week average
+2,2024-08-12,38,55.0,Four-week average
+2,2024-08-19,54,51.5,Four-week average
+2,2024-08-26,59,52.25,Four-week average
+2,2024-09-02,60,48.0,Four-week average
+2,2024-09-09,38,52.75,Four-week average
+2,2024-09-16,95,52.75,Four-week average
+2,2024-09-23,102,63.0,Four-week average
+2,2024-09-30,48,73.75,Four-week average
+2,2024-10-07,58,70.75,Four-week average
+2,2024-10-14,43,75.75,Four-week average
+2,2024-10-21,56,62.75,Four-week average
+2,2024-10-28,67,51.25,Four-week average
+2,2024-11-04,58,56.0,Four-week average
+2,2024-11-11,39,56.0,Four-week average
+2,2024-11-18,35,55.0,Four-week average
+2,2024-11-25,39,49.75,Four-week average
+2,2024-12-02,54,42.75,Four-week average
+2,2024-12-09,48,41.75,Four-week average
+2,2024-12-16,31,44.0,Four-week average
+2,2024-12-23,28,43.0,Four-week average
+3,2024-01-01,131,98.0,Four-week average
+3,2024-01-08,113,100.0,Four-week average
+3,2024-01-15,118,101.5,Four-week average
+3,2024-01-22,103,107.0,Four-week average
+3,2024-01-29,104,116.25,Four-week average
+3,2024-02-05,49,109.5,Four-week average
+3,2024-02-12,64,93.5,Four-week average
+3,2024-02-19,47,80.0,Four-week average
+3,2024-02-26,118,66.0,Four-week average
+3,2024-03-04,126,69.5,Four-week average
+3,2024-03-11,130,88.75,Four-week average
+3,2024-03-18,130,105.25,Four-week average
+3,2024-03-25,124,126.0,Four-week average
+3,2024-04-01,120,127.5,Four-week average
+3,2024-04-08,176,126.0,Four-week average
+3,2024-04-15,162,137.5,Four-week average
+3,2024-04-22,132,145.5,Four-week average
+3,2024-04-29,123,147.5,Four-week average
+3,2024-05-06,152,148.25,Four-week average
+3,2024-05-13,119,142.25,Four-week average
+3,2024-05-20,125,131.5,Four-week average
+3,2024-05-27,195,129.75,Four-week average
+3,2024-06-03,167,147.75,Four-week average
+3,2024-06-10,190,151.5,Four-week average
+3,2024-06-17,138,169.25,Four-week average
+3,2024-06-24,146,172.5,Four-week average
+3,2024-07-01,115,160.25,Four-week average
+3,2024-07-08,169,147.25,Four-week average
+3,2024-07-15,116,142.0,Four-week average
+3,2024-07-22,121,136.5,Four-week average
+3,2024-07-29,227,130.25,Four-week average
+3,2024-08-05,167,158.25,Four-week average
+3,2024-08-12,117,157.75,Four-week average
+3,2024-08-19,130,158.0,Four-week average
+3,2024-08-26,134,160.25,Four-week average
+3,2024-09-02,158,137.0,Four-week average
+3,2024-09-09,163,134.75,Four-week average
+3,2024-09-16,167,146.25,Four-week average
+3,2024-09-23,159,155.5,Four-week average
+3,2024-09-30,128,161.75,Four-week average
+3,2024-10-07,133,154.25,Four-week average
+3,2024-10-14,95,146.75,Four-week average
+3,2024-10-21,148,128.75,Four-week average
+3,2024-10-28,175,126.0,Four-week average
+3,2024-11-04,143,137.75,Four-week average
+3,2024-11-11,102,140.25,Four-week average
+3,2024-11-18,127,142.0,Four-week average
+3,2024-11-25,65,136.75,Four-week average
+3,2024-12-02,166,109.25,Four-week average
+3,2024-12-09,139,115.0,Four-week average
+3,2024-12-16,113,124.25,Four-week average
+3,2024-12-23,110,120.75,Four-week average
+4,2024-01-01,29,31.0,Four-week average
+4,2024-01-08,22,28.5,Four-week average
+4,2024-01-15,28,27.5,Four-week average
+4,2024-01-22,35,28.0,Four-week average
+4,2024-01-29,38,28.5,Four-week average
+4,2024-02-05,45,30.75,Four-week average
+4,2024-02-12,33,36.5,Four-week average
+4,2024-02-19,13,37.75,Four-week average
+4,2024-02-26,41,32.25,Four-week average
+4,2024-03-04,29,33.0,Four-week average
+4,2024-03-11,39,29.0,Four-week average
+4,2024-03-18,32,30.5,Four-week average
+4,2024-03-25,44,35.25,Four-week average
+4,2024-04-01,31,36.0,Four-week average
+4,2024-04-08,38,36.5,Four-week average
+4,2024-04-15,31,36.25,Four-week average
+4,2024-04-22,39,36.0,Four-week average
+4,2024-04-29,34,34.75,Four-week average
+4,2024-05-06,52,35.5,Four-week average
+4,2024-05-13,38,39.0,Four-week average
+4,2024-05-20,35,40.75,Four-week average
+4,2024-05-27,26,39.75,Four-week average
+4,2024-06-03,28,37.75,Four-week average
+4,2024-06-10,30,31.75,Four-week average
+4,2024-06-17,24,29.75,Four-week average
+4,2024-06-24,47,27.0,Four-week average
+4,2024-07-01,33,32.25,Four-week average
+4,2024-07-08,43,33.5,Four-week average
+4,2024-07-15,41,36.75,Four-week average
+4,2024-07-22,41,41.0,Four-week average
+4,2024-07-29,50,39.5,Four-week average
+4,2024-08-05,36,43.75,Four-week average
+4,2024-08-12,39,42.0,Four-week average
+4,2024-08-19,36,41.5,Four-week average
+4,2024-08-26,54,40.25,Four-week average
+4,2024-09-02,44,41.25,Four-week average
+4,2024-09-09,45,43.25,Four-week average
+4,2024-09-16,41,44.75,Four-week average
+4,2024-09-23,45,46.0,Four-week average
+4,2024-09-30,40,43.75,Four-week average
+4,2024-10-07,26,42.75,Four-week average
+4,2024-10-14,50,38.0,Four-week average
+4,2024-10-21,47,40.25,Four-week average
+4,2024-10-28,31,40.75,Four-week average
+4,2024-11-04,40,38.5,Four-week average
+4,2024-11-11,31,42.0,Four-week average
+4,2024-11-18,26,37.25,Four-week average
+4,2024-11-25,13,32.0,Four-week average
+4,2024-12-02,33,27.5,Four-week average
+4,2024-12-09,27,25.75,Four-week average
+4,2024-12-16,30,24.75,Four-week average
+4,2024-12-23,18,25.75,Four-week average
+5,2024-01-01,76,65.0,Four-week average
+5,2024-01-08,107,62.25,Four-week average
+5,2024-01-15,107,71.5,Four-week average
+5,2024-01-22,103,82.5,Four-week average
+5,2024-01-29,80,98.25,Four-week average
+5,2024-02-05,35,99.25,Four-week average
+5,2024-02-12,53,81.25,Four-week average
+5,2024-02-19,34,67.75,Four-week average
+5,2024-02-26,57,50.5,Four-week average
+5,2024-03-04,84,44.75,Four-week average
+5,2024-03-11,69,57.0,Four-week average
+5,2024-03-18,153,61.0,Four-week average
+5,2024-03-25,54,90.75,Four-week average
+5,2024-04-01,79,90.0,Four-week average
+5,2024-04-08,66,88.75,Four-week average
+5,2024-04-15,66,88.0,Four-week average
+5,2024-04-22,87,66.25,Four-week average
+5,2024-04-29,85,74.5,Four-week average
+5,2024-05-06,71,76.0,Four-week average
+5,2024-05-13,83,77.25,Four-week average
+5,2024-05-20,94,81.5,Four-week average
+5,2024-05-27,101,83.25,Four-week average
+5,2024-06-03,122,87.25,Four-week average
+5,2024-06-10,86,100.0,Four-week average
+5,2024-06-17,49,100.75,Four-week average
+5,2024-06-24,73,89.5,Four-week average
+5,2024-07-01,41,82.5,Four-week average
+5,2024-07-08,73,62.25,Four-week average
+5,2024-07-15,60,59.0,Four-week average
+5,2024-07-22,58,61.75,Four-week average
+5,2024-07-29,86,58.0,Four-week average
+5,2024-08-05,66,69.25,Four-week average
+5,2024-08-12,77,67.5,Four-week average
+5,2024-08-19,64,71.75,Four-week average
+5,2024-08-26,56,73.25,Four-week average
+5,2024-09-02,97,65.75,Four-week average
+5,2024-09-09,67,73.5,Four-week average
+5,2024-09-16,117,71.0,Four-week average
+5,2024-09-23,84,84.25,Four-week average
+5,2024-09-30,78,91.25,Four-week average
+5,2024-10-07,44,86.5,Four-week average
+5,2024-10-14,65,80.75,Four-week average
+5,2024-10-21,81,67.75,Four-week average
+5,2024-10-28,87,67.0,Four-week average
+5,2024-11-04,80,69.25,Four-week average
+5,2024-11-11,63,78.25,Four-week average
+5,2024-11-18,48,77.75,Four-week average
+5,2024-11-25,39,69.5,Four-week average
+5,2024-12-02,85,57.5,Four-week average
+5,2024-12-09,46,58.75,Four-week average
+5,2024-12-16,56,54.5,Four-week average
+5,2024-12-23,30,56.5,Four-week average
+6,2024-01-01,39,43.5,Four-week average
+6,2024-01-08,46,42.75,Four-week average
+6,2024-01-15,49,41.5,Four-week average
+6,2024-01-22,59,46.25,Four-week average
+6,2024-01-29,44,48.25,Four-week average
+6,2024-02-05,28,49.5,Four-week average
+6,2024-02-12,27,45.0,Four-week average
+6,2024-02-19,26,39.5,Four-week average
+6,2024-02-26,51,31.25,Four-week average
+6,2024-03-04,50,33.0,Four-week average
+6,2024-03-11,34,38.5,Four-week average
+6,2024-03-18,71,40.25,Four-week average
+6,2024-03-25,53,51.5,Four-week average
+6,2024-04-01,52,52.0,Four-week average
+6,2024-04-08,57,52.5,Four-week average
+6,2024-04-15,77,58.25,Four-week average
+6,2024-04-22,58,59.75,Four-week average
+6,2024-04-29,77,61.0,Four-week average
+6,2024-05-06,60,67.25,Four-week average
+6,2024-05-13,52,68.0,Four-week average
+6,2024-05-20,47,61.75,Four-week average
+6,2024-05-27,41,59.0,Four-week average
+6,2024-06-03,35,50.0,Four-week average
+6,2024-06-10,71,43.75,Four-week average
+6,2024-06-17,54,48.5,Four-week average
+6,2024-06-24,58,50.25,Four-week average
+6,2024-07-01,49,54.5,Four-week average
+6,2024-07-08,53,58.0,Four-week average
+6,2024-07-15,70,53.5,Four-week average
+6,2024-07-22,58,57.5,Four-week average
+6,2024-07-29,66,57.5,Four-week average
+6,2024-08-05,79,61.75,Four-week average
+6,2024-08-12,88,68.25,Four-week average
+6,2024-08-19,90,72.75,Four-week average
+6,2024-08-26,81,80.75,Four-week average
+6,2024-09-02,51,84.5,Four-week average
+6,2024-09-09,63,77.5,Four-week average
+6,2024-09-16,63,71.25,Four-week average
+6,2024-09-23,49,64.5,Four-week average
+6,2024-09-30,42,56.5,Four-week average
+6,2024-10-07,52,54.25,Four-week average
+6,2024-10-14,54,51.5,Four-week average
+6,2024-10-21,54,49.25,Four-week average
+6,2024-10-28,57,50.5,Four-week average
+6,2024-11-04,49,54.25,Four-week average
+6,2024-11-11,49,53.5,Four-week average
+6,2024-11-18,43,52.25,Four-week average
+6,2024-11-25,33,49.5,Four-week average
+6,2024-12-02,81,43.5,Four-week average
+6,2024-12-09,55,51.5,Four-week average
+6,2024-12-16,47,53.0,Four-week average
+6,2024-12-23,27,54.0,Four-week average
+7,2024-01-01,57,46.25,Four-week average
+7,2024-01-08,82,43.75,Four-week average
+7,2024-01-15,74,54.0,Four-week average
+7,2024-01-22,96,66.75,Four-week average
+7,2024-01-29,89,77.25,Four-week average
+7,2024-02-05,19,85.25,Four-week average
+7,2024-02-12,23,69.5,Four-week average
+7,2024-02-19,30,56.75,Four-week average
+7,2024-02-26,101,40.25,Four-week average
+7,2024-03-04,58,43.25,Four-week average
+7,2024-03-11,79,53.0,Four-week average
+7,2024-03-18,72,67.0,Four-week average
+7,2024-03-25,59,77.5,Four-week average
+7,2024-04-01,75,67.0,Four-week average
+7,2024-04-08,83,71.25,Four-week average
+7,2024-04-15,75,72.25,Four-week average
+7,2024-04-22,90,73.0,Four-week average
+7,2024-04-29,66,80.75,Four-week average
+7,2024-05-06,50,78.5,Four-week average
+7,2024-05-13,69,70.25,Four-week average
+7,2024-05-20,83,68.75,Four-week average
+7,2024-05-27,81,67.0,Four-week average
+7,2024-06-03,59,70.75,Four-week average
+7,2024-06-10,94,73.0,Four-week average
+7,2024-06-17,70,79.25,Four-week average
+7,2024-06-24,74,76.0,Four-week average
+7,2024-07-01,60,74.25,Four-week average
+7,2024-07-08,76,74.5,Four-week average
+7,2024-07-15,59,70.0,Four-week average
+7,2024-07-22,85,67.25,Four-week average
+7,2024-07-29,78,70.0,Four-week average
+7,2024-08-05,81,74.5,Four-week average
+7,2024-08-12,98,75.75,Four-week average
+7,2024-08-19,70,85.5,Four-week average
+7,2024-08-26,70,81.75,Four-week average
+7,2024-09-02,59,79.75,Four-week average
+7,2024-09-09,62,74.25,Four-week average
+7,2024-09-16,60,65.25,Four-week average
+7,2024-09-23,68,62.75,Four-week average
+7,2024-09-30,64,62.25,Four-week average
+7,2024-10-07,72,63.5,Four-week average
+7,2024-10-14,95,66.0,Four-week average
+7,2024-10-21,93,74.75,Four-week average
+7,2024-10-28,68,81.0,Four-week average
+7,2024-11-04,92,82.0,Four-week average
+7,2024-11-11,70,87.0,Four-week average
+7,2024-11-18,57,80.75,Four-week average
+7,2024-11-25,52,71.75,Four-week average
+7,2024-12-02,42,67.75,Four-week average
+7,2024-12-09,58,55.25,Four-week average
+7,2024-12-16,33,52.25,Four-week average
+7,2024-12-23,32,46.25,Four-week average
+8,2024-01-01,45,28.5,Four-week average
+8,2024-01-08,52,35.25,Four-week average
+8,2024-01-15,33,41.5,Four-week average
+8,2024-01-22,55,43.25,Four-week average
+8,2024-01-29,38,46.25,Four-week average
+8,2024-02-05,21,44.5,Four-week average
+8,2024-02-12,12,36.75,Four-week average
+8,2024-02-19,15,31.5,Four-week average
+8,2024-02-26,47,21.5,Four-week average
+8,2024-03-04,51,23.75,Four-week average
+8,2024-03-11,53,31.25,Four-week average
+8,2024-03-18,58,41.5,Four-week average
+8,2024-03-25,53,52.25,Four-week average
+8,2024-04-01,49,53.75,Four-week average
+8,2024-04-08,30,53.25,Four-week average
+8,2024-04-15,57,47.5,Four-week average
+8,2024-04-22,24,47.25,Four-week average
+8,2024-04-29,38,40.0,Four-week average
+8,2024-05-06,41,37.25,Four-week average
+8,2024-05-13,36,40.0,Four-week average
+8,2024-05-20,47,34.75,Four-week average
+8,2024-05-27,35,40.5,Four-week average
+8,2024-06-03,61,39.75,Four-week average
+8,2024-06-10,45,44.75,Four-week average
+8,2024-06-17,25,47.0,Four-week average
+8,2024-06-24,56,41.5,Four-week average
+8,2024-07-01,33,46.75,Four-week average
+8,2024-07-08,34,39.75,Four-week average
+8,2024-07-15,50,37.0,Four-week average
+8,2024-07-22,48,43.25,Four-week average
+8,2024-07-29,54,41.25,Four-week average
+8,2024-08-05,39,46.5,Four-week average
+8,2024-08-12,38,47.75,Four-week average
+8,2024-08-19,47,44.75,Four-week average
+8,2024-08-26,39,44.5,Four-week average
+8,2024-09-02,36,40.75,Four-week average
+8,2024-09-09,32,40.0,Four-week average
+8,2024-09-16,55,38.5,Four-week average
+8,2024-09-23,48,40.5,Four-week average
+8,2024-09-30,46,42.75,Four-week average
+8,2024-10-07,42,45.25,Four-week average
+8,2024-10-14,42,47.75,Four-week average
+8,2024-10-21,38,44.5,Four-week average
+8,2024-10-28,48,42.0,Four-week average
+8,2024-11-04,31,42.5,Four-week average
+8,2024-11-11,26,39.75,Four-week average
+8,2024-11-18,42,35.75,Four-week average
+8,2024-11-25,16,36.75,Four-week average
+8,2024-12-02,31,28.75,Four-week average
+8,2024-12-09,51,28.75,Four-week average
+8,2024-12-16,25,35.0,Four-week average
+8,2024-12-23,26,30.75,Four-week average
+9,2024-01-01,9,20.0,Four-week average
+9,2024-01-08,16,13.25,Four-week average
+9,2024-01-15,12,13.0,Four-week average
+9,2024-01-22,21,11.0,Four-week average
+9,2024-01-29,31,14.5,Four-week average
+9,2024-02-05,11,20.0,Four-week average
+9,2024-02-12,14,18.75,Four-week average
+9,2024-02-19,11,19.25,Four-week average
+9,2024-02-26,17,16.75,Four-week average
+9,2024-03-04,26,13.25,Four-week average
+9,2024-03-11,25,17.0,Four-week average
+9,2024-03-18,24,19.75,Four-week average
+9,2024-03-25,18,23.0,Four-week average
+9,2024-04-01,15,23.25,Four-week average
+9,2024-04-08,13,20.5,Four-week average
+9,2024-04-15,25,17.5,Four-week average
+9,2024-04-22,22,17.75,Four-week average
+9,2024-04-29,10,18.75,Four-week average
+9,2024-05-06,23,17.5,Four-week average
+9,2024-05-13,14,20.0,Four-week average
+9,2024-05-20,13,17.25,Four-week average
+9,2024-05-27,16,15.0,Four-week average
+9,2024-06-03,22,16.5,Four-week average
+9,2024-06-10,22,16.25,Four-week average
+9,2024-06-17,18,18.25,Four-week average
+9,2024-06-24,25,19.5,Four-week average
+9,2024-07-01,11,21.75,Four-week average
+9,2024-07-08,33,19.0,Four-week average
+9,2024-07-15,18,21.75,Four-week average
+9,2024-07-22,28,21.75,Four-week average
+9,2024-07-29,28,22.5,Four-week average
+9,2024-08-05,30,26.75,Four-week average
+9,2024-08-12,29,26.0,Four-week average
+9,2024-08-19,29,28.75,Four-week average
+9,2024-08-26,30,29.0,Four-week average
+9,2024-09-02,23,29.5,Four-week average
+9,2024-09-09,32,27.75,Four-week average
+9,2024-09-16,22,28.5,Four-week average
+9,2024-09-23,18,26.75,Four-week average
+9,2024-09-30,21,23.75,Four-week average
+9,2024-10-07,15,23.25,Four-week average
+9,2024-10-14,14,19.0,Four-week average
+9,2024-10-21,27,17.0,Four-week average
+9,2024-10-28,21,19.25,Four-week average
+9,2024-11-04,16,19.25,Four-week average
+9,2024-11-11,21,19.5,Four-week average
+9,2024-11-18,17,21.25,Four-week average
+9,2024-11-25,12,18.75,Four-week average
+9,2024-12-02,21,16.5,Four-week average
+9,2024-12-09,21,17.75,Four-week average
+9,2024-12-16,20,17.75,Four-week average
+9,2024-12-23,18,18.5,Four-week average
+10,2024-01-01,25,20.25,Four-week average
+10,2024-01-08,26,19.0,Four-week average
+10,2024-01-15,52,22.25,Four-week average
+10,2024-01-22,35,30.25,Four-week average
+10,2024-01-29,16,34.5,Four-week average
+10,2024-02-05,16,32.25,Four-week average
+10,2024-02-12,24,29.75,Four-week average
+10,2024-02-19,11,22.75,Four-week average
+10,2024-02-26,26,16.75,Four-week average
+10,2024-03-04,18,19.25,Four-week average
+10,2024-03-11,28,19.75,Four-week average
+10,2024-03-18,26,20.75,Four-week average
+10,2024-03-25,12,24.5,Four-week average
+10,2024-04-01,14,21.0,Four-week average
+10,2024-04-08,31,20.0,Four-week average
+10,2024-04-15,25,20.75,Four-week average
+10,2024-04-22,25,20.5,Four-week average
+10,2024-04-29,31,23.75,Four-week average
+10,2024-05-06,24,28.0,Four-week average
+10,2024-05-13,24,26.25,Four-week average
+10,2024-05-20,29,26.0,Four-week average
+10,2024-05-27,14,27.0,Four-week average
+10,2024-06-03,25,22.75,Four-week average
+10,2024-06-10,23,23.0,Four-week average
+10,2024-06-17,18,22.75,Four-week average
+10,2024-06-24,34,20.0,Four-week average
+10,2024-07-01,23,25.0,Four-week average
+10,2024-07-08,38,24.5,Four-week average
+10,2024-07-15,24,28.25,Four-week average
+10,2024-07-22,31,29.75,Four-week average
+10,2024-07-29,39,29.0,Four-week average
+10,2024-08-05,26,33.0,Four-week average
+10,2024-08-12,28,30.0,Four-week average
+10,2024-08-19,35,31.0,Four-week average
+10,2024-08-26,22,32.0,Four-week average
+10,2024-09-02,13,27.75,Four-week average
+10,2024-09-09,27,24.5,Four-week average
+10,2024-09-16,26,24.25,Four-week average
+10,2024-09-23,28,22.0,Four-week average
+10,2024-09-30,13,23.5,Four-week average
+10,2024-10-07,18,23.5,Four-week average
+10,2024-10-14,14,21.25,Four-week average
+10,2024-10-21,27,18.25,Four-week average
+10,2024-10-28,41,18.0,Four-week average
+10,2024-11-04,33,25.0,Four-week average
+10,2024-11-11,26,28.75,Four-week average
+10,2024-11-18,24,31.75,Four-week average
+10,2024-11-25,24,31.0,Four-week average
+10,2024-12-02,36,26.75,Four-week average
+10,2024-12-09,16,27.5,Four-week average
+10,2024-12-16,36,25.0,Four-week average
+10,2024-12-23,26,28.0,Four-week average
+1,2024-01-01,59,45.35996810131156,Shared Poisson
+1,2024-01-08,133,49.06100069973671,Shared Poisson
+1,2024-01-15,83,67.59903442835626,Shared Poisson
+1,2024-01-22,100,62.43699366206831,Shared Poisson
+1,2024-01-29,77,64.00793765404414,Shared Poisson
+1,2024-02-05,32,62.847076196817234,Shared Poisson
+1,2024-02-12,53,50.885022441752696,Shared Poisson
+1,2024-02-19,22,52.65888369860684,Shared Poisson
+1,2024-02-26,55,47.61860964034148,Shared Poisson
+1,2024-03-04,83,51.03413317936644,Shared Poisson
+1,2024-03-11,83,60.046483441869086,Shared Poisson
+1,2024-03-18,83,61.703476621260386,Shared Poisson
+1,2024-03-25,50,63.73907386972073,Shared Poisson
+1,2024-04-01,81,57.62752218783837,Shared Poisson
+1,2024-04-08,79,62.43261093208326,Shared Poisson
+1,2024-04-15,84,63.239739611086414,Shared Poisson
+1,2024-04-22,54,63.079524903678134,Shared Poisson
+1,2024-04-29,68,56.81101102264983,Shared Poisson
+1,2024-05-06,62,57.22999772246081,Shared Poisson
+1,2024-05-13,47,57.43671829443796,Shared Poisson
+1,2024-05-20,64,52.797280754033714,Shared Poisson
+1,2024-05-27,44,56.020615220253546,Shared Poisson
+1,2024-06-03,67,52.5170617191252,Shared Poisson
+1,2024-06-10,76,54.68804614630624,Shared Poisson
+1,2024-06-17,45,58.137448975747645,Shared Poisson
+1,2024-06-24,100,50.9632381095009,Shared Poisson
+1,2024-07-01,32,61.255704864795106,Shared Poisson
+1,2024-07-08,74,50.190338778218376,Shared Poisson
+1,2024-07-15,78,52.52263078463216,Shared Poisson
+1,2024-07-22,77,57.234541640190386,Shared Poisson
+1,2024-07-29,57,55.35998608994846,Shared Poisson
+1,2024-08-05,45,52.00131238243596,Shared Poisson
+1,2024-08-12,67,48.11440074273703,Shared Poisson
+1,2024-08-19,55,51.411916308801835,Shared Poisson
+1,2024-08-26,70,49.649112944697045,Shared Poisson
+1,2024-09-02,88,51.5725169442263,Shared Poisson
+1,2024-09-09,64,56.93127284148652,Shared Poisson
+1,2024-09-16,49,52.63395589840032,Shared Poisson
+1,2024-09-23,78,48.722307988152416,Shared Poisson
+1,2024-09-30,86,53.25538643325915,Shared Poisson
+1,2024-10-07,44,57.09008983209397,Shared Poisson
+1,2024-10-14,53,48.62029284756269,Shared Poisson
+1,2024-10-21,66,48.129191711888446,Shared Poisson
+1,2024-10-28,45,51.18979184117613,Shared Poisson
+1,2024-11-04,56,47.09828193826875,Shared Poisson
+1,2024-11-11,78,48.3592227211894,Shared Poisson
+1,2024-11-18,72,53.91519559032867,Shared Poisson
+1,2024-11-25,40,54.17020740919292,Shared Poisson
+1,2024-12-02,50,47.914909480427816,Shared Poisson
+1,2024-12-09,79,48.04537948165652,Shared Poisson
+1,2024-12-16,65,54.533080035417775,Shared Poisson
+1,2024-12-23,29,53.43829525802351,Shared Poisson
+2,2024-01-01,69,49.3866560239866,Shared Poisson
+2,2024-01-08,55,55.33189102619059,Shared Poisson
+2,2024-01-15,94,54.895631587945665,Shared Poisson
+2,2024-01-22,114,63.08024600621995,Shared Poisson
+2,2024-01-29,46,73.36059631286382,Shared Poisson
+2,2024-02-05,15,57.87734808670107,Shared Poisson
+2,2024-02-12,40,47.60363841292955,Shared Poisson
+2,2024-02-19,31,50.68228834172724,Shared Poisson
+2,2024-02-26,59,48.79902854982681,Shared Poisson
+2,2024-03-04,108,52.933159439430355,Shared Poisson
+2,2024-03-11,77,67.94373973660674,Shared Poisson
+2,2024-03-18,60,65.00227901018437,Shared Poisson
+2,2024-03-25,70,60.02635254332495,Shared Poisson
+2,2024-04-01,61,63.250863169232325,Shared Poisson
+2,2024-04-08,83,60.831855612988406,Shared Poisson
+2,2024-04-15,75,65.16788871938273,Shared Poisson
+2,2024-04-22,55,64.86063648980891,Shared Poisson
+2,2024-04-29,41,58.168389979567635,Shared Poisson
+2,2024-05-06,27,54.28499891080357,Shared Poisson
+2,2024-05-13,54,50.49036936974999,Shared Poisson
+2,2024-05-20,69,54.2179187973386,Shared Poisson
+2,2024-05-27,46,59.19017793798187,Shared Poisson
+2,2024-06-03,57,54.47937793263303,Shared Poisson
+2,2024-06-10,38,54.6661742662948,Shared Poisson
+2,2024-06-17,39,51.1138735650797,Shared Poisson
+2,2024-06-24,57,48.86164397947863,Shared Poisson
+2,2024-07-01,59,51.96898103161853,Shared Poisson
+2,2024-07-08,69,52.58969182589322,Shared Poisson
+2,2024-07-15,52,54.0808658517735,Shared Poisson
+2,2024-07-22,51,51.1921484736048,Shared Poisson
+2,2024-07-29,76,49.60713161013685,Shared Poisson
+2,2024-08-05,41,54.83903505372397,Shared Poisson
+2,2024-08-12,38,49.24628912377461,Shared Poisson
+2,2024-08-19,54,46.14652017276293,Shared Poisson
+2,2024-08-26,59,48.91406568380835,Shared Poisson
+2,2024-09-02,60,49.89439295290408,Shared Poisson
+2,2024-09-09,38,50.178382867061934,Shared Poisson
+2,2024-09-16,95,46.61334881104237,Shared Poisson
+2,2024-09-23,102,56.93774545892014,Shared Poisson
+2,2024-09-30,48,63.51954909794109,Shared Poisson
+2,2024-10-07,58,51.78739486525873,Shared Poisson
+2,2024-10-14,43,51.6254515988765,Shared Poisson
+2,2024-10-21,56,49.59254893885941,Shared Poisson
+2,2024-10-28,67,49.84988959927163,Shared Poisson
+2,2024-11-04,58,53.016660029221974,Shared Poisson
+2,2024-11-11,39,52.07312748931574,Shared Poisson
+2,2024-11-18,35,48.599968971663934,Shared Poisson
+2,2024-11-25,39,47.01544186089259,Shared Poisson
+2,2024-12-02,54,47.22521013430322,Shared Poisson
+2,2024-12-09,48,49.85591611947045,Shared Poisson
+2,2024-12-16,31,50.05972468259118,Shared Poisson
+2,2024-12-23,28,46.15689443438641,Shared Poisson
+3,2024-01-01,131,83.49412742532355,Shared Poisson
+3,2024-01-08,113,103.27182928408762,Shared Poisson
+3,2024-01-15,118,105.875779824321,Shared Poisson
+3,2024-01-22,103,104.28184438499952,Shared Poisson
+3,2024-01-29,104,104.1949035203164,Shared Poisson
+3,2024-02-05,49,101.58283869580684,Shared Poisson
+3,2024-02-12,64,82.47837430910758,Shared Poisson
+3,2024-02-19,47,80.37828842180028,Shared Poisson
+3,2024-02-26,118,77.13732802754183,Shared Poisson
+3,2024-03-04,126,95.1370050371477,Shared Poisson
+3,2024-03-11,130,108.17546998286764,Shared Poisson
+3,2024-03-18,130,110.95416195380982,Shared Poisson
+3,2024-03-25,124,117.1285983019451,Shared Poisson
+3,2024-04-01,120,117.32528599627366,Shared Poisson
+3,2024-04-08,176,114.62306980862728,Shared Poisson
+3,2024-04-15,162,142.73449436219585,Shared Poisson
+3,2024-04-22,132,146.6209874012782,Shared Poisson
+3,2024-04-29,123,129.74675421872192,Shared Poisson
+3,2024-05-06,152,124.92826671945777,Shared Poisson
+3,2024-05-13,119,140.42631001217308,Shared Poisson
+3,2024-05-20,125,128.65168472644532,Shared Poisson
+3,2024-05-27,195,128.19875627368688,Shared Poisson
+3,2024-06-03,167,172.58635017880005,Shared Poisson
+3,2024-06-10,190,168.03570055442933,Shared Poisson
+3,2024-06-17,138,179.36278730327336,Shared Poisson
+3,2024-06-24,146,157.4899592811148,Shared Poisson
+3,2024-07-01,115,149.96312892998984,Shared Poisson
+3,2024-07-08,169,135.66932998811046,Shared Poisson
+3,2024-07-15,116,153.48454293862704,Shared Poisson
+3,2024-07-22,121,132.76807376461417,Shared Poisson
+3,2024-07-29,227,123.4141675345394,Shared Poisson
+3,2024-08-05,167,193.3059580881462,Shared Poisson
+3,2024-08-12,117,171.7939089891437,Shared Poisson
+3,2024-08-19,130,132.42256506452716,Shared Poisson
+3,2024-08-26,134,137.53923762103716,Shared Poisson
+3,2024-09-02,158,134.29943371321548,Shared Poisson
+3,2024-09-09,163,142.67711892637124,Shared Poisson
+3,2024-09-16,167,148.95658683351078,Shared Poisson
+3,2024-09-23,159,153.50857166995698,Shared Poisson
+3,2024-09-30,128,152.14767536218247,Shared Poisson
+3,2024-10-07,133,135.39237681419874,Shared Poisson
+3,2024-10-14,95,131.59085650370486,Shared Poisson
+3,2024-10-21,148,114.16225682237076,Shared Poisson
+3,2024-10-28,175,131.60432049484615,Shared Poisson
+3,2024-11-04,143,153.3479424780213,Shared Poisson
+3,2024-11-11,102,137.7077552593082,Shared Poisson
+3,2024-11-18,127,117.08554339190265,Shared Poisson
+3,2024-11-25,65,124.2508548329432,Shared Poisson
+3,2024-12-02,166,98.83951350926596,Shared Poisson
+3,2024-12-09,139,130.88847534852832,Shared Poisson
+3,2024-12-16,113,135.82744953013685,Shared Poisson
+3,2024-12-23,110,114.47869246959704,Shared Poisson
+4,2024-01-01,29,34.29508504252402,Shared Poisson
+4,2024-01-08,22,33.69998051267672,Shared Poisson
+4,2024-01-15,28,32.67616017938183,Shared Poisson
+4,2024-01-22,35,33.40157481546047,Shared Poisson
+4,2024-01-29,38,34.55851958467966,Shared Poisson
+4,2024-02-05,45,35.369138722078276,Shared Poisson
+4,2024-02-12,33,36.73547598211745,Shared Poisson
+4,2024-02-19,13,35.507045514796005,Shared Poisson
+4,2024-02-26,41,32.57997489652661,Shared Poisson
+4,2024-03-04,29,35.69837457328215,Shared Poisson
+4,2024-03-11,39,35.15014235334913,Shared Poisson
+4,2024-03-18,32,35.79639482303799,Shared Poisson
+4,2024-03-25,44,35.97124376373697,Shared Poisson
+4,2024-04-01,31,37.19955114990308,Shared Poisson
+4,2024-04-08,38,36.21299404828219,Shared Poisson
+4,2024-04-15,31,36.59179167602328,Shared Poisson
+4,2024-04-22,39,36.17776613390227,Shared Poisson
+4,2024-04-29,34,36.64577817914735,Shared Poisson
+4,2024-05-06,52,36.30740680417847,Shared Poisson
+4,2024-05-13,38,38.337454920624594,Shared Poisson
+4,2024-05-20,35,37.280068780247205,Shared Poisson
+4,2024-05-27,26,36.21669862058041,Shared Poisson
+4,2024-06-03,28,34.87412466054642,Shared Poisson
+4,2024-06-10,30,34.27170450367979,Shared Poisson
+4,2024-06-17,24,34.231637581809096,Shared Poisson
+4,2024-06-24,47,33.10332195936162,Shared Poisson
+4,2024-07-01,33,35.56574805403083,Shared Poisson
+4,2024-07-08,43,34.57053286285514,Shared Poisson
+4,2024-07-15,41,34.945572858353565,Shared Poisson
+4,2024-07-22,41,35.4080662473027,Shared Poisson
+4,2024-07-29,50,34.855090397163245,Shared Poisson
+4,2024-08-05,36,36.1634092301059,Shared Poisson
+4,2024-08-12,39,34.322958419956095,Shared Poisson
+4,2024-08-19,36,33.93665045911906,Shared Poisson
+4,2024-08-26,54,33.69624269101189,Shared Poisson
+4,2024-09-02,44,35.76896213093619,Shared Poisson
+4,2024-09-09,45,35.367126519224726,Shared Poisson
+4,2024-09-16,41,35.081145666942504,Shared Poisson
+4,2024-09-23,45,35.06215458467593,Shared Poisson
+4,2024-09-30,40,35.162928705338864,Shared Poisson
+4,2024-10-07,26,34.78432085860311,Shared Poisson
+4,2024-10-14,50,32.6213729408724,Shared Poisson
+4,2024-10-21,47,35.23426325216694,Shared Poisson
+4,2024-10-28,31,35.951096059764254,Shared Poisson
+4,2024-11-04,40,33.43726052453127,Shared Poisson
+4,2024-11-11,31,34.48296872553682,Shared Poisson
+4,2024-11-18,26,33.752569117194746,Shared Poisson
+4,2024-11-25,13,32.570083112794904,Shared Poisson
+4,2024-12-02,33,30.78350907100869,Shared Poisson
+4,2024-12-09,27,32.531185914150484,Shared Poisson
+4,2024-12-16,30,32.55767435805599,Shared Poisson
+4,2024-12-23,18,32.56166276034443,Shared Poisson
+5,2024-01-01,76,58.068634174257056,Shared Poisson
+5,2024-01-08,107,63.65767050028801,Shared Poisson
+5,2024-01-15,107,74.99375371414752,Shared Poisson
+5,2024-01-22,103,77.6744105040693,Shared Poisson
+5,2024-01-29,80,78.8678079649144,Shared Poisson
+5,2024-02-05,35,73.87115645584602,Shared Poisson
+5,2024-02-12,53,60.09709638946936,Shared Poisson
+5,2024-02-19,34,59.9058632422488,Shared Poisson
+5,2024-02-26,57,56.701678636672995,Shared Poisson
+5,2024-03-04,84,59.5122233468654,Shared Poisson
+5,2024-03-11,69,68.36820145975574,Shared Poisson
+5,2024-03-18,153,66.39102832345024,Shared Poisson
+5,2024-03-25,54,92.4533564867444,Shared Poisson
+5,2024-04-01,79,72.75046863830632,Shared Poisson
+5,2024-04-08,66,70.11571217393383,Shared Poisson
+5,2024-04-15,66,71.0318717295842,Shared Poisson
+5,2024-04-22,87,65.45745167765965,Shared Poisson
+5,2024-04-29,85,71.06950906667517,Shared Poisson
+5,2024-05-06,71,71.79570705820088,Shared Poisson
+5,2024-05-13,83,68.55931906315331,Shared Poisson
+5,2024-05-20,94,71.54114979936985,Shared Poisson
+5,2024-05-27,101,76.57093283914449,Shared Poisson
+5,2024-06-03,122,79.70781291168146,Shared Poisson
+5,2024-06-10,86,87.86937729770462,Shared Poisson
+5,2024-06-17,49,79.3967830510346,Shared Poisson
+5,2024-06-24,73,63.97503644518276,Shared Poisson
+5,2024-07-01,41,67.42114121301465,Shared Poisson
+5,2024-07-08,73,59.48497117035814,Shared Poisson
+5,2024-07-15,60,62.77531052021374,Shared Poisson
+5,2024-07-22,58,62.48465492908325,Shared Poisson
+5,2024-07-29,86,59.09298336823472,Shared Poisson
+5,2024-08-05,66,65.99572967018811,Shared Poisson
+5,2024-08-12,77,62.58673311719255,Shared Poisson
+5,2024-08-19,64,63.04164692126073,Shared Poisson
+5,2024-08-26,56,60.93668157828008,Shared Poisson
+5,2024-09-02,97,56.58460457096011,Shared Poisson
+5,2024-09-09,67,64.7253728196206,Shared Poisson
+5,2024-09-16,117,60.05477012752852,Shared Poisson
+5,2024-09-23,84,70.59055087032769,Shared Poisson
+5,2024-09-30,78,68.1157238195733,Shared Poisson
+5,2024-10-07,44,63.73683629882331,Shared Poisson
+5,2024-10-14,65,56.845991834592525,Shared Poisson
+5,2024-10-21,81,58.06485155199589,Shared Poisson
+5,2024-10-28,87,63.593128680641115,Shared Poisson
+5,2024-11-04,80,65.3563622054841,Shared Poisson
+5,2024-11-11,63,65.4098997523533,Shared Poisson
+5,2024-11-18,48,61.44776489569019,Shared Poisson
+5,2024-11-25,39,57.1474881730072,Shared Poisson
+5,2024-12-02,85,54.11123949395658,Shared Poisson
+5,2024-12-09,46,62.91898895888923,Shared Poisson
+5,2024-12-16,56,57.26633089594352,Shared Poisson
+5,2024-12-23,30,55.64389349756892,Shared Poisson
+6,2024-01-01,39,44.95113103560647,Shared Poisson
+6,2024-01-08,46,44.58077920889967,Shared Poisson
+6,2024-01-15,49,44.59418831451803,Shared Poisson
+6,2024-01-22,59,46.48218591572423,Shared Poisson
+6,2024-01-29,44,48.27308018104771,Shared Poisson
+6,2024-02-05,28,46.25983107196066,Shared Poisson
+6,2024-02-12,27,42.80999856642718,Shared Poisson
+6,2024-02-19,26,41.640224330771126,Shared Poisson
+6,2024-02-26,51,41.09372209691692,Shared Poisson
+6,2024-03-04,50,44.67312372719325,Shared Poisson
+6,2024-03-11,34,46.1453029234847,Shared Poisson
+6,2024-03-18,71,43.32076154482308,Shared Poisson
+6,2024-03-25,53,50.006120440860606,Shared Poisson
+6,2024-04-01,52,49.04979846672237,Shared Poisson
+6,2024-04-08,57,47.60836977491804,Shared Poisson
+6,2024-04-15,77,49.50206733834218,Shared Poisson
+6,2024-04-22,58,53.4850255275469,Shared Poisson
+6,2024-04-29,77,50.96822263413687,Shared Poisson
+6,2024-05-06,60,53.908496553091425,Shared Poisson
+6,2024-05-13,52,52.72671273423472,Shared Poisson
+6,2024-05-20,47,49.827710157246834,Shared Poisson
+6,2024-05-27,41,49.00216198559608,Shared Poisson
+6,2024-06-03,35,46.81194400881241,Shared Poisson
+6,2024-06-10,71,44.77998168088318,Shared Poisson
+6,2024-06-17,54,50.845142009534406,Shared Poisson
+6,2024-06-24,58,49.176522321689674,Shared Poisson
+6,2024-07-01,49,48.452123571910896,Shared Poisson
+6,2024-07-08,53,47.61591446059706,Shared Poisson
+6,2024-07-15,70,46.97758316299714,Shared Poisson
+6,2024-07-22,58,49.884208109836976,Shared Poisson
+6,2024-07-29,66,48.19854369199308,Shared Poisson
+6,2024-08-05,79,48.5219915583469,Shared Poisson
+6,2024-08-12,88,51.848608411140205,Shared Poisson
+6,2024-08-19,90,54.43713685178739,Shared Poisson
+6,2024-08-26,81,56.16954305918934,Shared Poisson
+6,2024-09-02,51,55.32269127687904,Shared Poisson
+6,2024-09-09,63,49.33924203616704,Shared Poisson
+6,2024-09-16,63,49.48409343987822,Shared Poisson
+6,2024-09-23,49,50.04007175609899,Shared Poisson
+6,2024-09-30,42,46.62682689613187,Shared Poisson
+6,2024-10-07,52,44.84245877010437,Shared Poisson
+6,2024-10-14,54,46.13274821531643,Shared Poisson
+6,2024-10-21,54,46.53820630761775,Shared Poisson
+6,2024-10-28,57,46.530095199908864,Shared Poisson
+6,2024-11-04,49,47.29620446906292,Shared Poisson
+6,2024-11-11,49,45.88434926589427,Shared Poisson
+6,2024-11-18,43,45.07647560588827,Shared Poisson
+6,2024-11-25,33,43.73349006762237,Shared Poisson
+6,2024-12-02,81,41.28125853332012,Shared Poisson
+6,2024-12-09,55,49.37534250428729,Shared Poisson
+6,2024-12-16,47,47.66077685330774,Shared Poisson
+6,2024-12-23,27,44.67107912503936,Shared Poisson
+7,2024-01-01,57,51.64440086526331,Shared Poisson
+7,2024-01-08,82,53.96644980219955,Shared Poisson
+7,2024-01-15,74,59.21032970538328,Shared Poisson
+7,2024-01-22,96,61.38465348678532,Shared Poisson
+7,2024-01-29,89,67.63443669890914,Shared Poisson
+7,2024-02-05,19,69.99678754719291,Shared Poisson
+7,2024-02-12,23,53.505306943383275,Shared Poisson
+7,2024-02-19,30,50.20317226929988,Shared Poisson
+7,2024-02-26,101,51.78305636206708,Shared Poisson
+7,2024-03-04,58,66.48998384002343,Shared Poisson
+7,2024-03-11,79,62.13877039595627,Shared Poisson
+7,2024-03-18,72,64.81640800161234,Shared Poisson
+7,2024-03-25,59,68.43906413078666,Shared Poisson
+7,2024-04-01,75,63.443341565107744,Shared Poisson
+7,2024-04-08,83,67.32069197488781,Shared Poisson
+7,2024-04-15,75,70.41336927954684,Shared Poisson
+7,2024-04-22,90,68.50661347737488,Shared Poisson
+7,2024-04-29,66,71.94567517085177,Shared Poisson
+7,2024-05-06,50,66.69813733323504,Shared Poisson
+7,2024-05-13,69,61.195434997422176,Shared Poisson
+7,2024-05-20,83,65.49016460442041,Shared Poisson
+7,2024-05-27,81,70.51500108844289,Shared Poisson
+7,2024-06-03,59,69.77194174195742,Shared Poisson
+7,2024-06-10,94,64.46997637373562,Shared Poisson
+7,2024-06-17,70,71.71539044518089,Shared Poisson
+7,2024-06-24,74,67.99459813522141,Shared Poisson
+7,2024-07-01,60,66.08604677594067,Shared Poisson
+7,2024-07-08,76,63.49368723953554,Shared Poisson
+7,2024-07-15,59,64.75652890467741,Shared Poisson
+7,2024-07-22,85,61.4470602106072,Shared Poisson
+7,2024-07-29,78,65.16205330892974,Shared Poisson
+7,2024-08-05,81,65.95376298066093,Shared Poisson
+7,2024-08-12,98,65.78959881102624,Shared Poisson
+7,2024-08-19,70,71.49266264894925,Shared Poisson
+7,2024-08-26,70,65.06759217640767,Shared Poisson
+7,2024-09-02,59,62.48315618137118,Shared Poisson
+7,2024-09-09,62,60.34530581177294,Shared Poisson
+7,2024-09-16,60,58.56976255083994,Shared Poisson
+7,2024-09-23,68,58.06369149584172,Shared Poisson
+7,2024-09-30,64,59.12711194967603,Shared Poisson
+7,2024-10-07,72,58.99713774107724,Shared Poisson
+7,2024-10-14,95,60.34893404740357,Shared Poisson
+7,2024-10-21,93,67.43661319350035,Shared Poisson
+7,2024-10-28,68,69.0498179443238,Shared Poisson
+7,2024-11-04,92,63.109549250965486,Shared Poisson
+7,2024-11-11,70,68.11588149132231,Shared Poisson
+7,2024-11-18,57,64.38011113932251,Shared Poisson
+7,2024-11-25,52,59.04456374809189,Shared Poisson
+7,2024-12-02,42,57.76956833368619,Shared Poisson
+7,2024-12-09,58,54.772241108124355,Shared Poisson
+7,2024-12-16,33,57.28283637524714,Shared Poisson
+7,2024-12-23,32,53.08095299557286,Shared Poisson
+8,2024-01-01,45,35.218589096296,Shared Poisson
+8,2024-01-08,52,36.62746830669183,Shared Poisson
+8,2024-01-15,33,37.888850150039914,Shared Poisson
+8,2024-01-22,55,35.958454410593596,Shared Poisson
+8,2024-01-29,38,38.158619697948865,Shared Poisson
+8,2024-02-05,21,37.24415527780985,Shared Poisson
+8,2024-02-12,12,34.02063124210725,Shared Poisson
+8,2024-02-19,15,32.46248246975621,Shared Poisson
+8,2024-02-26,47,32.230266298515055,Shared Poisson
+8,2024-03-04,51,36.36005380801208,Shared Poisson
+8,2024-03-11,53,38.72971137486704,Shared Poisson
+8,2024-03-18,58,39.69301693997895,Shared Poisson
+8,2024-03-25,53,41.697232634169914,Shared Poisson
+8,2024-04-01,49,41.45086439190779,Shared Poisson
+8,2024-04-08,30,40.69783015791635,Shared Poisson
+8,2024-04-15,57,37.58622717598737,Shared Poisson
+8,2024-04-22,24,40.67623723772198,Shared Poisson
+8,2024-04-29,38,36.737085304649575,Shared Poisson
+8,2024-05-06,41,36.652506360678096,Shared Poisson
+8,2024-05-13,36,38.327278154449,Shared Poisson
+8,2024-05-20,47,37.24730277354266,Shared Poisson
+8,2024-05-27,35,39.01411093476481,Shared Poisson
+8,2024-06-03,61,37.54448331901442,Shared Poisson
+8,2024-06-10,45,40.45931894980626,Shared Poisson
+8,2024-06-17,25,39.26227551797703,Shared Poisson
+8,2024-06-24,56,34.94777815582982,Shared Poisson
+8,2024-07-01,33,38.48028970164392,Shared Poisson
+8,2024-07-08,34,36.00578712189667,Shared Poisson
+8,2024-07-15,50,34.56889374887833,Shared Poisson
+8,2024-07-22,48,36.95234652470289,Shared Poisson
+8,2024-07-29,54,37.0053121174747,Shared Poisson
+8,2024-08-05,39,37.7043732367374,Shared Poisson
+8,2024-08-12,38,36.01621417489721,Shared Poisson
+8,2024-08-19,47,35.026181629920295,Shared Poisson
+8,2024-08-26,39,36.09332948078748,Shared Poisson
+8,2024-09-02,36,35.06683379136757,Shared Poisson
+8,2024-09-09,32,33.9361559649123,Shared Poisson
+8,2024-09-16,55,33.24816187475301,Shared Poisson
+8,2024-09-23,48,36.11814447015007,Shared Poisson
+8,2024-09-30,46,36.02605999479745,Shared Poisson
+8,2024-10-07,42,35.521511160379674,Shared Poisson
+8,2024-10-14,42,35.450580419097605,Shared Poisson
+8,2024-10-21,38,35.11262047819707,Shared Poisson
+8,2024-10-28,48,34.536678047008444,Shared Poisson
+8,2024-11-04,31,35.616128785457825,Shared Poisson
+8,2024-11-11,26,33.92563983439137,Shared Poisson
+8,2024-11-18,42,32.57763737345787,Shared Poisson
+8,2024-11-25,16,34.63181515670008,Shared Poisson
+8,2024-12-02,31,31.78150621916818,Shared Poisson
+8,2024-12-09,51,32.582671164500056,Shared Poisson
+8,2024-12-16,25,36.461345711007866,Shared Poisson
+8,2024-12-23,26,33.42927028291647,Shared Poisson
+9,2024-01-01,9,24.64221342210305,Shared Poisson
+9,2024-01-08,16,24.278379139052618,Shared Poisson
+9,2024-01-15,12,25.20953325134514,Shared Poisson
+9,2024-01-22,21,25.03791057485807,Shared Poisson
+9,2024-01-29,31,25.94689578409025,Shared Poisson
+9,2024-02-05,11,27.615595663105022,Shared Poisson
+9,2024-02-12,14,26.00788178875028,Shared Poisson
+9,2024-02-19,11,25.865387042752893,Shared Poisson
+9,2024-02-26,17,25.88599807904517,Shared Poisson
+9,2024-03-04,26,26.241851258396288,Shared Poisson
+9,2024-03-11,25,27.36818539933194,Shared Poisson
+9,2024-03-18,24,27.670433807619418,Shared Poisson
+9,2024-03-25,18,27.70556582893922,Shared Poisson
+9,2024-04-01,15,27.31961027177594,Shared Poisson
+9,2024-04-08,13,26.864833900183974,Shared Poisson
+9,2024-04-15,25,26.513667338543115,Shared Poisson
+9,2024-04-22,22,27.621986571123184,Shared Poisson
+9,2024-04-29,10,27.62601009047187,Shared Poisson
+9,2024-05-06,23,26.056089850534672,Shared Poisson
+9,2024-05-13,14,27.091697044656566,Shared Poisson
+9,2024-05-20,13,26.474315092079955,Shared Poisson
+9,2024-05-27,16,25.80841375240735,Shared Poisson
+9,2024-06-03,22,26.07922111033859,Shared Poisson
+9,2024-06-10,22,26.434317696829837,Shared Poisson
+9,2024-06-17,18,26.41633859741631,Shared Poisson
+9,2024-06-24,25,25.845567327059097,Shared Poisson
+9,2024-07-01,11,26.34220729376956,Shared Poisson
+9,2024-07-08,33,25.033711981929898,Shared Poisson
+9,2024-07-15,18,26.596683174531577,Shared Poisson
+9,2024-07-22,28,25.72385944138607,Shared Poisson
+9,2024-07-29,28,25.881978538636655,Shared Poisson
+9,2024-08-05,30,26.485960343238347,Shared Poisson
+9,2024-08-12,29,26.376458439702745,Shared Poisson
+9,2024-08-19,29,26.464382280815084,Shared Poisson
+9,2024-08-26,30,26.439221176015856,Shared Poisson
+9,2024-09-02,23,26.571499222203585,Shared Poisson
+9,2024-09-09,32,25.837041163529296,Shared Poisson
+9,2024-09-16,22,26.486662772867035,Shared Poisson
+9,2024-09-23,18,25.8169844615989,Shared Poisson
+9,2024-09-30,21,24.958345184923317,Shared Poisson
+9,2024-10-07,15,25.303458626030217,Shared Poisson
+9,2024-10-14,14,24.592075772807704,Shared Poisson
+9,2024-10-21,27,24.27729551605828,Shared Poisson
+9,2024-10-28,21,25.51868656481673,Shared Poisson
+9,2024-11-04,16,25.309073292585428,Shared Poisson
+9,2024-11-11,21,24.638518685226774,Shared Poisson
+9,2024-11-18,17,25.157413542208783,Shared Poisson
+9,2024-11-25,12,24.900292483676125,Shared Poisson
+9,2024-12-02,21,24.264715059360487,Shared Poisson
+9,2024-12-09,21,25.126150896953103,Shared Poisson
+9,2024-12-16,20,25.429345775279607,Shared Poisson
+9,2024-12-23,18,25.42657892592629,Shared Poisson
+10,2024-01-01,25,24.021168244959547,Shared Poisson
+10,2024-01-08,26,24.5648893547062,Shared Poisson
+10,2024-01-15,52,25.205834590472175,Shared Poisson
+10,2024-01-22,35,28.230381648229717,Shared Poisson
+10,2024-01-29,16,27.80282646387327,Shared Poisson
+10,2024-02-05,16,25.393808835817605,Shared Poisson
+10,2024-02-12,24,25.229430127057736,Shared Poisson
+10,2024-02-19,11,25.867457177912456,Shared Poisson
+10,2024-02-26,26,24.674065081891285,Shared Poisson
+10,2024-03-04,18,25.74187299464051,Shared Poisson
+10,2024-03-11,28,25.558800087961288,Shared Poisson
+10,2024-03-18,26,26.269332555200688,Shared Poisson
+10,2024-03-25,12,26.7047871843727,Shared Poisson
+10,2024-04-01,14,25.18104636824892,Shared Poisson
+10,2024-04-08,31,24.9788405763518,Shared Poisson
+10,2024-04-15,25,26.643867110080915,Shared Poisson
+10,2024-04-22,25,26.155148187236303,Shared Poisson
+10,2024-04-29,31,25.844270036107215,Shared Poisson
+10,2024-05-06,24,26.694512438574076,Shared Poisson
+10,2024-05-13,24,26.09601511716843,Shared Poisson
+10,2024-05-20,29,25.75442808774612,Shared Poisson
+10,2024-05-27,14,26.326544307066474,Shared Poisson
+10,2024-06-03,25,24.746382882927797,Shared Poisson
+10,2024-06-10,23,25.19277572125781,Shared Poisson
+10,2024-06-17,18,25.20938436866162,Shared Poisson
+10,2024-06-24,34,24.272042090230897,Shared Poisson
+10,2024-07-01,23,25.724036340095218,Shared Poisson
+10,2024-07-08,38,25.06835147666416,Shared Poisson
+10,2024-07-15,24,25.9336578918685,Shared Poisson
+10,2024-07-22,31,25.12331752055245,Shared Poisson
+10,2024-07-29,39,25.072024316365475,Shared Poisson
+10,2024-08-05,26,26.14331001582313,Shared Poisson
+10,2024-08-12,28,24.861685713594433,Shared Poisson
+10,2024-08-19,35,24.634524007198728,Shared Poisson
+10,2024-08-26,22,25.367379586830445,Shared Poisson
+10,2024-09-02,13,24.195616753871448,Shared Poisson
+10,2024-09-09,27,22.89761072289688,Shared Poisson
+10,2024-09-16,26,23.88967701604551,Shared Poisson
+10,2024-09-23,28,24.069590832004796,Shared Poisson
+10,2024-09-30,13,24.031574972007764,Shared Poisson
+10,2024-10-07,18,22.891795819450753,Shared Poisson
+10,2024-10-14,14,22.746368661449665,Shared Poisson
+10,2024-10-21,27,22.539774264589056,Shared Poisson
+10,2024-10-28,41,23.363892232742003,Shared Poisson
+10,2024-11-04,33,25.144687393605313,Shared Poisson
+10,2024-11-11,26,24.940682223459977,Shared Poisson
+10,2024-11-18,24,24.32771732406869,Shared Poisson
+10,2024-11-25,24,24.15741831395759,Shared Poisson
+10,2024-12-02,36,24.151898150013984,Shared Poisson
+10,2024-12-09,16,25.486317600007077,Shared Poisson
+10,2024-12-16,36,24.087201819757315,Shared Poisson
+10,2024-12-23,26,25.540327677350657,Shared Poisson
+1,2024-01-01,59,49.002800929126096,Member 2 Poisson + lags
+1,2024-01-08,133,55.0766156692534,Member 2 Poisson + lags
+1,2024-01-15,83,73.30115873165425,Member 2 Poisson + lags
+1,2024-01-22,100,65.90315826987371,Member 2 Poisson + lags
+1,2024-01-29,77,69.53547282373029,Member 2 Poisson + lags
+1,2024-02-05,32,71.68652221565681,Member 2 Poisson + lags
+1,2024-02-12,53,50.863006792334545,Member 2 Poisson + lags
+1,2024-02-19,22,52.365968330727064,Member 2 Poisson + lags
+1,2024-02-26,55,46.991159649589555,Member 2 Poisson + lags
+1,2024-03-04,83,51.89074557243156,Member 2 Poisson + lags
+1,2024-03-11,83,59.64576329659443,Member 2 Poisson + lags
+1,2024-03-18,83,60.61333820597832,Member 2 Poisson + lags
+1,2024-03-25,50,61.82053378470143,Member 2 Poisson + lags
+1,2024-04-01,81,52.5957844983213,Member 2 Poisson + lags
+1,2024-04-08,79,58.15047183227265,Member 2 Poisson + lags
+1,2024-04-15,84,58.31442400076579,Member 2 Poisson + lags
+1,2024-04-22,54,58.70595539580286,Member 2 Poisson + lags
+1,2024-04-29,68,56.698417461452856,Member 2 Poisson + lags
+1,2024-05-06,62,56.643050900556474,Member 2 Poisson + lags
+1,2024-05-13,47,56.992104592284086,Member 2 Poisson + lags
+1,2024-05-20,64,48.46330512190231,Member 2 Poisson + lags
+1,2024-05-27,44,54.028007989299304,Member 2 Poisson + lags
+1,2024-06-03,67,50.183519792028896,Member 2 Poisson + lags
+1,2024-06-10,76,52.61522741192586,Member 2 Poisson + lags
+1,2024-06-17,45,56.21975331698053,Member 2 Poisson + lags
+1,2024-06-24,100,49.41735211790326,Member 2 Poisson + lags
+1,2024-07-01,32,60.56050465223651,Member 2 Poisson + lags
+1,2024-07-08,74,49.59592552098604,Member 2 Poisson + lags
+1,2024-07-15,78,51.44056276777974,Member 2 Poisson + lags
+1,2024-07-22,77,59.674545175051065,Member 2 Poisson + lags
+1,2024-07-29,57,55.31333499066768,Member 2 Poisson + lags
+1,2024-08-05,45,54.42150307009223,Member 2 Poisson + lags
+1,2024-08-12,67,48.330265908699985,Member 2 Poisson + lags
+1,2024-08-19,55,55.54474756054913,Member 2 Poisson + lags
+1,2024-08-26,70,48.5823952551002,Member 2 Poisson + lags
+1,2024-09-02,88,52.00585907280781,Member 2 Poisson + lags
+1,2024-09-09,64,59.66691935272035,Member 2 Poisson + lags
+1,2024-09-16,49,54.22579487654982,Member 2 Poisson + lags
+1,2024-09-23,78,48.568683613337704,Member 2 Poisson + lags
+1,2024-09-30,86,53.96388489444888,Member 2 Poisson + lags
+1,2024-10-07,44,57.31377628030986,Member 2 Poisson + lags
+1,2024-10-14,53,46.48607517662884,Member 2 Poisson + lags
+1,2024-10-21,66,47.68300832047858,Member 2 Poisson + lags
+1,2024-10-28,45,52.60454915946186,Member 2 Poisson + lags
+1,2024-11-04,56,44.03933008823876,Member 2 Poisson + lags
+1,2024-11-11,78,43.97195821973306,Member 2 Poisson + lags
+1,2024-11-18,72,51.625261233401375,Member 2 Poisson + lags
+1,2024-11-25,40,50.610526211319424,Member 2 Poisson + lags
+1,2024-12-02,50,41.58170218701532,Member 2 Poisson + lags
+1,2024-12-09,79,42.674215519806545,Member 2 Poisson + lags
+1,2024-12-16,65,48.977509694476744,Member 2 Poisson + lags
+1,2024-12-23,29,44.48628731076111,Member 2 Poisson + lags
+2,2024-01-01,69,56.0010651108621,Member 2 Poisson + lags
+2,2024-01-08,55,59.69298357779104,Member 2 Poisson + lags
+2,2024-01-15,94,58.19578539826022,Member 2 Poisson + lags
+2,2024-01-22,114,66.11173036602011,Member 2 Poisson + lags
+2,2024-01-29,46,79.35960216148689,Member 2 Poisson + lags
+2,2024-02-05,15,59.1092000347894,Member 2 Poisson + lags
+2,2024-02-12,40,49.11717146455496,Member 2 Poisson + lags
+2,2024-02-19,31,52.635568825654865,Member 2 Poisson + lags
+2,2024-02-26,59,49.11593297538649,Member 2 Poisson + lags
+2,2024-03-04,108,50.383166460318215,Member 2 Poisson + lags
+2,2024-03-11,77,70.69985119092289,Member 2 Poisson + lags
+2,2024-03-18,60,67.83410539917548,Member 2 Poisson + lags
+2,2024-03-25,70,57.28145940876981,Member 2 Poisson + lags
+2,2024-04-01,61,59.77148169841827,Member 2 Poisson + lags
+2,2024-04-08,83,57.40658493171381,Member 2 Poisson + lags
+2,2024-04-15,75,59.650448342788934,Member 2 Poisson + lags
+2,2024-04-22,55,62.91642076840327,Member 2 Poisson + lags
+2,2024-04-29,41,59.809183112322,Member 2 Poisson + lags
+2,2024-05-06,27,53.89364878337267,Member 2 Poisson + lags
+2,2024-05-13,54,47.958616361930375,Member 2 Poisson + lags
+2,2024-05-20,69,51.55702990882066,Member 2 Poisson + lags
+2,2024-05-27,46,55.6257571482904,Member 2 Poisson + lags
+2,2024-06-03,57,51.75933826566002,Member 2 Poisson + lags
+2,2024-06-10,38,53.933705034158606,Member 2 Poisson + lags
+2,2024-06-17,39,50.65151906957909,Member 2 Poisson + lags
+2,2024-06-24,57,46.72045082026232,Member 2 Poisson + lags
+2,2024-07-01,59,50.18344555448301,Member 2 Poisson + lags
+2,2024-07-08,69,52.411136307680785,Member 2 Poisson + lags
+2,2024-07-15,52,56.0112867650025,Member 2 Poisson + lags
+2,2024-07-22,51,52.95715583073946,Member 2 Poisson + lags
+2,2024-07-29,76,52.10771894790908,Member 2 Poisson + lags
+2,2024-08-05,41,56.91553319107451,Member 2 Poisson + lags
+2,2024-08-12,38,49.82810143953515,Member 2 Poisson + lags
+2,2024-08-19,54,47.299030558266,Member 2 Poisson + lags
+2,2024-08-26,59,52.38220834039464,Member 2 Poisson + lags
+2,2024-09-02,60,52.17483371873305,Member 2 Poisson + lags
+2,2024-09-09,38,51.2841990842042,Member 2 Poisson + lags
+2,2024-09-16,95,47.73966654315284,Member 2 Poisson + lags
+2,2024-09-23,102,60.62921347515631,Member 2 Poisson + lags
+2,2024-09-30,48,65.4942692916422,Member 2 Poisson + lags
+2,2024-10-07,58,50.12354624283821,Member 2 Poisson + lags
+2,2024-10-14,43,52.974978901129624,Member 2 Poisson + lags
+2,2024-10-21,56,51.09457919650278,Member 2 Poisson + lags
+2,2024-10-28,67,48.06366772407999,Member 2 Poisson + lags
+2,2024-11-04,58,50.12565265052445,Member 2 Poisson + lags
+2,2024-11-11,39,51.190485533358256,Member 2 Poisson + lags
+2,2024-11-18,35,47.52011070710967,Member 2 Poisson + lags
+2,2024-11-25,39,42.63906522576568,Member 2 Poisson + lags
+2,2024-12-02,54,42.364807890860504,Member 2 Poisson + lags
+2,2024-12-09,48,42.900008127616395,Member 2 Poisson + lags
+2,2024-12-16,31,42.953890588910895,Member 2 Poisson + lags
+2,2024-12-23,28,40.0341693565698,Member 2 Poisson + lags
+3,2024-01-01,131,95.2634865059423,Member 2 Poisson + lags
+3,2024-01-08,113,114.74611097056066,Member 2 Poisson + lags
+3,2024-01-15,118,109.62836886990536,Member 2 Poisson + lags
+3,2024-01-22,103,113.37573673606347,Member 2 Poisson + lags
+3,2024-01-29,104,116.50823170491634,Member 2 Poisson + lags
+3,2024-02-05,49,107.23262622683028,Member 2 Poisson + lags
+3,2024-02-12,64,84.06263950012564,Member 2 Poisson + lags
+3,2024-02-19,47,76.34191923684277,Member 2 Poisson + lags
+3,2024-02-26,118,78.8118410890851,Member 2 Poisson + lags
+3,2024-03-04,126,91.66711532966568,Member 2 Poisson + lags
+3,2024-03-11,130,109.60160509847296,Member 2 Poisson + lags
+3,2024-03-18,130,107.53246081059706,Member 2 Poisson + lags
+3,2024-03-25,124,120.83621417046454,Member 2 Poisson + lags
+3,2024-04-01,120,110.26642150537285,Member 2 Poisson + lags
+3,2024-04-08,176,109.86406332117068,Member 2 Poisson + lags
+3,2024-04-15,162,135.15337504899864,Member 2 Poisson + lags
+3,2024-04-22,132,151.51536828011825,Member 2 Poisson + lags
+3,2024-04-29,123,130.78979571801904,Member 2 Poisson + lags
+3,2024-05-06,152,130.53877889689642,Member 2 Poisson + lags
+3,2024-05-13,119,142.21933099959728,Member 2 Poisson + lags
+3,2024-05-20,125,122.98482963602696,Member 2 Poisson + lags
+3,2024-05-27,195,117.15327383025074,Member 2 Poisson + lags
+3,2024-06-03,167,177.76736560747597,Member 2 Poisson + lags
+3,2024-06-10,190,165.78170238571474,Member 2 Poisson + lags
+3,2024-06-17,138,169.57119674648814,Member 2 Poisson + lags
+3,2024-06-24,146,156.2504475938378,Member 2 Poisson + lags
+3,2024-07-01,115,146.18125776638053,Member 2 Poisson + lags
+3,2024-07-08,169,129.28085866409936,Member 2 Poisson + lags
+3,2024-07-15,116,143.21668293263323,Member 2 Poisson + lags
+3,2024-07-22,121,138.64770776241804,Member 2 Poisson + lags
+3,2024-07-29,227,119.03229536860518,Member 2 Poisson + lags
+3,2024-08-05,167,209.09795212868352,Member 2 Poisson + lags
+3,2024-08-12,117,166.69422590349782,Member 2 Poisson + lags
+3,2024-08-19,130,123.97631956815772,Member 2 Poisson + lags
+3,2024-08-26,134,136.4936528149152,Member 2 Poisson + lags
+3,2024-09-02,158,136.92808962908532,Member 2 Poisson + lags
+3,2024-09-09,163,131.40304787339196,Member 2 Poisson + lags
+3,2024-09-16,167,142.92628587768772,Member 2 Poisson + lags
+3,2024-09-23,159,167.9249701072664,Member 2 Poisson + lags
+3,2024-09-30,128,156.4673851872988,Member 2 Poisson + lags
+3,2024-10-07,133,126.524385415946,Member 2 Poisson + lags
+3,2024-10-14,95,124.71058660534489,Member 2 Poisson + lags
+3,2024-10-21,148,105.5625609432096,Member 2 Poisson + lags
+3,2024-10-28,175,120.79530452705616,Member 2 Poisson + lags
+3,2024-11-04,143,148.0038863516351,Member 2 Poisson + lags
+3,2024-11-11,102,127.03539085332704,Member 2 Poisson + lags
+3,2024-11-18,127,108.02462232239272,Member 2 Poisson + lags
+3,2024-11-25,65,111.5033914044256,Member 2 Poisson + lags
+3,2024-12-02,166,84.31439679428509,Member 2 Poisson + lags
+3,2024-12-09,139,103.17011293925512,Member 2 Poisson + lags
+3,2024-12-16,113,120.23169895683704,Member 2 Poisson + lags
+3,2024-12-23,110,95.78728733072036,Member 2 Poisson + lags
+4,2024-01-01,29,38.85385423234763,Member 2 Poisson + lags
+4,2024-01-08,22,38.08514505989248,Member 2 Poisson + lags
+4,2024-01-15,28,35.07444799160905,Member 2 Poisson + lags
+4,2024-01-22,35,35.49406115419128,Member 2 Poisson + lags
+4,2024-01-29,38,37.177846121116296,Member 2 Poisson + lags
+4,2024-02-05,45,36.57029039909012,Member 2 Poisson + lags
+4,2024-02-12,33,37.97473405239224,Member 2 Poisson + lags
+4,2024-02-19,13,37.03643938006806,Member 2 Poisson + lags
+4,2024-02-26,41,33.16421639538181,Member 2 Poisson + lags
+4,2024-03-04,29,35.77180478810811,Member 2 Poisson + lags
+4,2024-03-11,39,35.088696881576226,Member 2 Poisson + lags
+4,2024-03-18,32,34.94575644543372,Member 2 Poisson + lags
+4,2024-03-25,44,36.080829381798736,Member 2 Poisson + lags
+4,2024-04-01,31,36.80754895295572,Member 2 Poisson + lags
+4,2024-04-08,38,35.495659320399376,Member 2 Poisson + lags
+4,2024-04-15,31,34.44597531035122,Member 2 Poisson + lags
+4,2024-04-22,39,35.691319813573934,Member 2 Poisson + lags
+4,2024-04-29,34,35.19096367871146,Member 2 Poisson + lags
+4,2024-05-06,52,35.51785914910126,Member 2 Poisson + lags
+4,2024-05-13,38,37.265367214019975,Member 2 Poisson + lags
+4,2024-05-20,35,37.23601420564021,Member 2 Poisson + lags
+4,2024-05-27,26,35.0718660993492,Member 2 Poisson + lags
+4,2024-06-03,28,34.66494675105531,Member 2 Poisson + lags
+4,2024-06-10,30,33.416317354499014,Member 2 Poisson + lags
+4,2024-06-17,24,34.02640907562957,Member 2 Poisson + lags
+4,2024-06-24,47,32.63582381577501,Member 2 Poisson + lags
+4,2024-07-01,33,36.33208879041627,Member 2 Poisson + lags
+4,2024-07-08,43,35.09096862014578,Member 2 Poisson + lags
+4,2024-07-15,41,35.293865085934364,Member 2 Poisson + lags
+4,2024-07-22,41,36.47750625911894,Member 2 Poisson + lags
+4,2024-07-29,50,35.63541423914209,Member 2 Poisson + lags
+4,2024-08-05,36,37.41989386125866,Member 2 Poisson + lags
+4,2024-08-12,39,35.37243876951047,Member 2 Poisson + lags
+4,2024-08-19,36,35.95855130812581,Member 2 Poisson + lags
+4,2024-08-26,54,35.470082928870866,Member 2 Poisson + lags
+4,2024-09-02,44,37.37049106712931,Member 2 Poisson + lags
+4,2024-09-09,45,36.86987538239299,Member 2 Poisson + lags
+4,2024-09-16,41,36.08846727609386,Member 2 Poisson + lags
+4,2024-09-23,45,36.808803957697926,Member 2 Poisson + lags
+4,2024-09-30,40,35.77260799239949,Member 2 Poisson + lags
+4,2024-10-07,26,35.01379646943992,Member 2 Poisson + lags
+4,2024-10-14,50,32.191257269476985,Member 2 Poisson + lags
+4,2024-10-21,47,35.58783056007965,Member 2 Poisson + lags
+4,2024-10-28,31,35.57998945115921,Member 2 Poisson + lags
+4,2024-11-04,40,31.94799045453911,Member 2 Poisson + lags
+4,2024-11-11,31,33.11715066794638,Member 2 Poisson + lags
+4,2024-11-18,26,32.11008668801376,Member 2 Poisson + lags
+4,2024-11-25,13,29.753071262320823,Member 2 Poisson + lags
+4,2024-12-02,33,27.407320516984452,Member 2 Poisson + lags
+4,2024-12-09,27,29.40437953878744,Member 2 Poisson + lags
+4,2024-12-16,30,29.047753979537607,Member 2 Poisson + lags
+4,2024-12-23,18,27.720763125414255,Member 2 Poisson + lags
+5,2024-01-01,76,65.23006383798197,Member 2 Poisson + lags
+5,2024-01-08,107,71.55775555243424,Member 2 Poisson + lags
+5,2024-01-15,107,77.71424122127529,Member 2 Poisson + lags
+5,2024-01-22,103,78.34841396312629,Member 2 Poisson + lags
+5,2024-01-29,80,86.33314704098464,Member 2 Poisson + lags
+5,2024-02-05,35,78.88850482961814,Member 2 Poisson + lags
+5,2024-02-12,53,61.79534949826701,Member 2 Poisson + lags
+5,2024-02-19,34,59.33128510117452,Member 2 Poisson + lags
+5,2024-02-26,57,56.65821270427401,Member 2 Poisson + lags
+5,2024-03-04,84,57.94930396146774,Member 2 Poisson + lags
+5,2024-03-11,69,69.1636391186794,Member 2 Poisson + lags
+5,2024-03-18,153,65.34732358980341,Member 2 Poisson + lags
+5,2024-03-25,54,91.27225496488312,Member 2 Poisson + lags
+5,2024-04-01,79,67.52082861813368,Member 2 Poisson + lags
+5,2024-04-08,66,63.39025498285568,Member 2 Poisson + lags
+5,2024-04-15,66,69.6113193677065,Member 2 Poisson + lags
+5,2024-04-22,87,59.94792919063632,Member 2 Poisson + lags
+5,2024-04-29,85,70.47863140193066,Member 2 Poisson + lags
+5,2024-05-06,71,69.12429487838536,Member 2 Poisson + lags
+5,2024-05-13,83,72.23539325953848,Member 2 Poisson + lags
+5,2024-05-20,94,67.71063388679451,Member 2 Poisson + lags
+5,2024-05-27,101,74.52084241882962,Member 2 Poisson + lags
+5,2024-06-03,122,74.8043918628971,Member 2 Poisson + lags
+5,2024-06-10,86,84.36836347833633,Member 2 Poisson + lags
+5,2024-06-17,49,78.48680952299748,Member 2 Poisson + lags
+5,2024-06-24,73,63.771042108480785,Member 2 Poisson + lags
+5,2024-07-01,41,66.96442258294863,Member 2 Poisson + lags
+5,2024-07-08,73,58.44494257197192,Member 2 Poisson + lags
+5,2024-07-15,60,60.6828731034024,Member 2 Poisson + lags
+5,2024-07-22,58,63.48972903316984,Member 2 Poisson + lags
+5,2024-07-29,86,60.12065470456953,Member 2 Poisson + lags
+5,2024-08-05,66,67.26919478042997,Member 2 Poisson + lags
+5,2024-08-12,77,60.4817685073651,Member 2 Poisson + lags
+5,2024-08-19,64,62.84478916875342,Member 2 Poisson + lags
+5,2024-08-26,56,60.65533383651641,Member 2 Poisson + lags
+5,2024-09-02,97,57.344437940345095,Member 2 Poisson + lags
+5,2024-09-09,67,67.11075261468774,Member 2 Poisson + lags
+5,2024-09-16,117,61.62656899197166,Member 2 Poisson + lags
+5,2024-09-23,84,73.73059353499397,Member 2 Poisson + lags
+5,2024-09-30,78,72.1405616066984,Member 2 Poisson + lags
+5,2024-10-07,44,63.57480798621787,Member 2 Poisson + lags
+5,2024-10-14,65,57.63926375305416,Member 2 Poisson + lags
+5,2024-10-21,81,55.53950397299728,Member 2 Poisson + lags
+5,2024-10-28,87,63.76830987066464,Member 2 Poisson + lags
+5,2024-11-04,80,60.44694370342842,Member 2 Poisson + lags
+5,2024-11-11,63,64.75702177200802,Member 2 Poisson + lags
+5,2024-11-18,48,58.095914525043206,Member 2 Poisson + lags
+5,2024-11-25,39,52.64074053259343,Member 2 Poisson + lags
+5,2024-12-02,85,46.10809193938752,Member 2 Poisson + lags
+5,2024-12-09,46,54.68670319120859,Member 2 Poisson + lags
+5,2024-12-16,56,49.491013730889115,Member 2 Poisson + lags
+5,2024-12-23,30,47.629057815323186,Member 2 Poisson + lags
+6,2024-01-01,39,49.344821962891615,Member 2 Poisson + lags
+6,2024-01-08,46,50.18884556977563,Member 2 Poisson + lags
+6,2024-01-15,49,46.755058273822385,Member 2 Poisson + lags
+6,2024-01-22,59,50.148492862648936,Member 2 Poisson + lags
+6,2024-01-29,44,50.12847741431047,Member 2 Poisson + lags
+6,2024-02-05,28,48.27504625049829,Member 2 Poisson + lags
+6,2024-02-12,27,42.76758228728711,Member 2 Poisson + lags
+6,2024-02-19,26,42.9983106549032,Member 2 Poisson + lags
+6,2024-02-26,51,40.898417509305176,Member 2 Poisson + lags
+6,2024-03-04,50,44.146440067700894,Member 2 Poisson + lags
+6,2024-03-11,34,45.75206353424569,Member 2 Poisson + lags
+6,2024-03-18,71,43.00579133255518,Member 2 Poisson + lags
+6,2024-03-25,53,49.81242070309316,Member 2 Poisson + lags
+6,2024-04-01,52,47.62228283159669,Member 2 Poisson + lags
+6,2024-04-08,57,44.72144902862661,Member 2 Poisson + lags
+6,2024-04-15,77,48.203299564132536,Member 2 Poisson + lags
+6,2024-04-22,58,53.02600246260542,Member 2 Poisson + lags
+6,2024-04-29,77,50.42968922920455,Member 2 Poisson + lags
+6,2024-05-06,60,51.93287019662371,Member 2 Poisson + lags
+6,2024-05-13,52,53.97077939472355,Member 2 Poisson + lags
+6,2024-05-20,47,48.12526729029413,Member 2 Poisson + lags
+6,2024-05-27,41,47.871083943712165,Member 2 Poisson + lags
+6,2024-06-03,35,45.085510946841154,Member 2 Poisson + lags
+6,2024-06-10,71,44.11163420828309,Member 2 Poisson + lags
+6,2024-06-17,54,49.29649289636447,Member 2 Poisson + lags
+6,2024-06-24,58,49.4901975649539,Member 2 Poisson + lags
+6,2024-07-01,49,47.14854252035554,Member 2 Poisson + lags
+6,2024-07-08,53,47.89089707896707,Member 2 Poisson + lags
+6,2024-07-15,70,46.42579574381118,Member 2 Poisson + lags
+6,2024-07-22,58,50.15128099409751,Member 2 Poisson + lags
+6,2024-07-29,66,47.968278483708616,Member 2 Poisson + lags
+6,2024-08-05,79,50.83964973329928,Member 2 Poisson + lags
+6,2024-08-12,88,54.647336300978395,Member 2 Poisson + lags
+6,2024-08-19,90,57.1144187025457,Member 2 Poisson + lags
+6,2024-08-26,81,58.40243694184456,Member 2 Poisson + lags
+6,2024-09-02,51,57.3182177782867,Member 2 Poisson + lags
+6,2024-09-09,63,51.35428305156128,Member 2 Poisson + lags
+6,2024-09-16,63,50.5500119185759,Member 2 Poisson + lags
+6,2024-09-23,49,51.12865760644375,Member 2 Poisson + lags
+6,2024-09-30,42,46.48359499908465,Member 2 Poisson + lags
+6,2024-10-07,52,44.8763816458773,Member 2 Poisson + lags
+6,2024-10-14,54,46.09283022247381,Member 2 Poisson + lags
+6,2024-10-21,54,45.405705501184855,Member 2 Poisson + lags
+6,2024-10-28,57,43.064798467133386,Member 2 Poisson + lags
+6,2024-11-04,49,44.35126927851745,Member 2 Poisson + lags
+6,2024-11-11,49,42.88403646241404,Member 2 Poisson + lags
+6,2024-11-18,43,41.22639242194629,Member 2 Poisson + lags
+6,2024-11-25,33,39.6891584217065,Member 2 Poisson + lags
+6,2024-12-02,81,37.100267242328464,Member 2 Poisson + lags
+6,2024-12-09,55,44.4212224285828,Member 2 Poisson + lags
+6,2024-12-16,47,42.35655106011568,Member 2 Poisson + lags
+6,2024-12-23,27,38.40060152202838,Member 2 Poisson + lags
+7,2024-01-01,57,59.06179729289492,Member 2 Poisson + lags
+7,2024-01-08,82,61.13526254375136,Member 2 Poisson + lags
+7,2024-01-15,74,64.29300962254808,Member 2 Poisson + lags
+7,2024-01-22,96,69.70901227788158,Member 2 Poisson + lags
+7,2024-01-29,89,76.1559466847696,Member 2 Poisson + lags
+7,2024-02-05,19,76.17717091963067,Member 2 Poisson + lags
+7,2024-02-12,23,53.70058117413573,Member 2 Poisson + lags
+7,2024-02-19,30,51.982449047605066,Member 2 Poisson + lags
+7,2024-02-26,101,53.23208077392925,Member 2 Poisson + lags
+7,2024-03-04,58,66.48045149660322,Member 2 Poisson + lags
+7,2024-03-11,79,61.93507278858557,Member 2 Poisson + lags
+7,2024-03-18,72,65.2364020965276,Member 2 Poisson + lags
+7,2024-03-25,59,72.48923081722829,Member 2 Poisson + lags
+7,2024-04-01,75,57.47102471148413,Member 2 Poisson + lags
+7,2024-04-08,83,62.383117541900425,Member 2 Poisson + lags
+7,2024-04-15,75,66.04752600980197,Member 2 Poisson + lags
+7,2024-04-22,90,69.30234326045107,Member 2 Poisson + lags
+7,2024-04-29,66,70.71453359173384,Member 2 Poisson + lags
+7,2024-05-06,50,67.67961453547639,Member 2 Poisson + lags
+7,2024-05-13,69,59.474242896901615,Member 2 Poisson + lags
+7,2024-05-20,83,63.22097025991987,Member 2 Poisson + lags
+7,2024-05-27,81,68.09342837022916,Member 2 Poisson + lags
+7,2024-06-03,59,67.70117842393476,Member 2 Poisson + lags
+7,2024-06-10,94,62.75957939086595,Member 2 Poisson + lags
+7,2024-06-17,70,73.13788454084384,Member 2 Poisson + lags
+7,2024-06-24,74,67.81555777406112,Member 2 Poisson + lags
+7,2024-07-01,60,62.3437043396325,Member 2 Poisson + lags
+7,2024-07-08,76,64.0569515803303,Member 2 Poisson + lags
+7,2024-07-15,59,65.63641585052655,Member 2 Poisson + lags
+7,2024-07-22,85,62.9728696018938,Member 2 Poisson + lags
+7,2024-07-29,78,64.9585370471807,Member 2 Poisson + lags
+7,2024-08-05,81,70.09225063133123,Member 2 Poisson + lags
+7,2024-08-12,98,66.16774027754646,Member 2 Poisson + lags
+7,2024-08-19,70,74.67996770637696,Member 2 Poisson + lags
+7,2024-08-26,70,66.16133827134512,Member 2 Poisson + lags
+7,2024-09-02,59,64.10735208201517,Member 2 Poisson + lags
+7,2024-09-09,62,61.29311982883164,Member 2 Poisson + lags
+7,2024-09-16,60,60.01705857403386,Member 2 Poisson + lags
+7,2024-09-23,68,59.004155252551726,Member 2 Poisson + lags
+7,2024-09-30,64,59.69780031383176,Member 2 Poisson + lags
+7,2024-10-07,72,60.32113953992583,Member 2 Poisson + lags
+7,2024-10-14,95,59.25454277976745,Member 2 Poisson + lags
+7,2024-10-21,93,66.57448552294686,Member 2 Poisson + lags
+7,2024-10-28,68,66.75036745169754,Member 2 Poisson + lags
+7,2024-11-04,92,59.98234335608657,Member 2 Poisson + lags
+7,2024-11-11,70,65.32018940819945,Member 2 Poisson + lags
+7,2024-11-18,57,61.88268959142736,Member 2 Poisson + lags
+7,2024-11-25,52,53.54137949258814,Member 2 Poisson + lags
+7,2024-12-02,42,52.99676306602328,Member 2 Poisson + lags
+7,2024-12-09,58,49.668127425236214,Member 2 Poisson + lags
+7,2024-12-16,33,50.63088090317811,Member 2 Poisson + lags
+7,2024-12-23,32,44.58790449775723,Member 2 Poisson + lags
+8,2024-01-01,45,38.46119787890265,Member 2 Poisson + lags
+8,2024-01-08,52,40.708906100068425,Member 2 Poisson + lags
+8,2024-01-15,33,40.73194674415122,Member 2 Poisson + lags
+8,2024-01-22,55,39.157370615083494,Member 2 Poisson + lags
+8,2024-01-29,38,40.67454980745707,Member 2 Poisson + lags
+8,2024-02-05,21,39.630629505478595,Member 2 Poisson + lags
+8,2024-02-12,12,34.522169891887984,Member 2 Poisson + lags
+8,2024-02-19,15,33.96332515212901,Member 2 Poisson + lags
+8,2024-02-26,47,32.894333119876805,Member 2 Poisson + lags
+8,2024-03-04,51,36.76213925206539,Member 2 Poisson + lags
+8,2024-03-11,53,37.811839227286,Member 2 Poisson + lags
+8,2024-03-18,58,39.51767112608858,Member 2 Poisson + lags
+8,2024-03-25,53,41.55436603903409,Member 2 Poisson + lags
+8,2024-04-01,49,40.04240169650865,Member 2 Poisson + lags
+8,2024-04-08,30,38.64448126057356,Member 2 Poisson + lags
+8,2024-04-15,57,35.78523172767474,Member 2 Poisson + lags
+8,2024-04-22,24,40.10735006411233,Member 2 Poisson + lags
+8,2024-04-29,38,36.43381100088415,Member 2 Poisson + lags
+8,2024-05-06,41,35.34890826734431,Member 2 Poisson + lags
+8,2024-05-13,36,38.49151003732782,Member 2 Poisson + lags
+8,2024-05-20,47,35.74779451332309,Member 2 Poisson + lags
+8,2024-05-27,35,37.79721839665259,Member 2 Poisson + lags
+8,2024-06-03,61,35.688032478895416,Member 2 Poisson + lags
+8,2024-06-10,45,40.11938497922515,Member 2 Poisson + lags
+8,2024-06-17,25,38.25077367753907,Member 2 Poisson + lags
+8,2024-06-24,56,34.204950918452646,Member 2 Poisson + lags
+8,2024-07-01,33,39.203824057758695,Member 2 Poisson + lags
+8,2024-07-08,34,36.322834315140895,Member 2 Poisson + lags
+8,2024-07-15,50,34.49273818004317,Member 2 Poisson + lags
+8,2024-07-22,48,38.227775819527224,Member 2 Poisson + lags
+8,2024-07-29,54,38.79121709461406,Member 2 Poisson + lags
+8,2024-08-05,39,38.63042262806947,Member 2 Poisson + lags
+8,2024-08-12,38,36.56513604418935,Member 2 Poisson + lags
+8,2024-08-19,47,36.74200774848775,Member 2 Poisson + lags
+8,2024-08-26,39,37.26917096498395,Member 2 Poisson + lags
+8,2024-09-02,36,35.429209355993216,Member 2 Poisson + lags
+8,2024-09-09,32,35.04203002204343,Member 2 Poisson + lags
+8,2024-09-16,55,34.53842510425869,Member 2 Poisson + lags
+8,2024-09-23,48,37.44739521026116,Member 2 Poisson + lags
+8,2024-09-30,46,36.70466630157127,Member 2 Poisson + lags
+8,2024-10-07,42,35.26039149712539,Member 2 Poisson + lags
+8,2024-10-14,42,36.00800778899263,Member 2 Poisson + lags
+8,2024-10-21,38,34.780443867737205,Member 2 Poisson + lags
+8,2024-10-28,48,33.714484676606496,Member 2 Poisson + lags
+8,2024-11-04,31,34.05428450022965,Member 2 Poisson + lags
+8,2024-11-11,26,32.916853610701445,Member 2 Poisson + lags
+8,2024-11-18,42,30.59657784309205,Member 2 Poisson + lags
+8,2024-11-25,16,32.619439838572255,Member 2 Poisson + lags
+8,2024-12-02,31,28.639459081040492,Member 2 Poisson + lags
+8,2024-12-09,51,28.732893127636604,Member 2 Poisson + lags
+8,2024-12-16,25,32.43410305972767,Member 2 Poisson + lags
+8,2024-12-23,26,28.959317872553715,Member 2 Poisson + lags
+9,2024-01-01,9,29.5797205965672,Member 2 Poisson + lags
+9,2024-01-08,16,28.093795976157388,Member 2 Poisson + lags
+9,2024-01-15,12,28.829972709732303,Member 2 Poisson + lags
+9,2024-01-22,21,27.708987910134077,Member 2 Poisson + lags
+9,2024-01-29,31,29.35212414246142,Member 2 Poisson + lags
+9,2024-02-05,11,30.27381084951677,Member 2 Poisson + lags
+9,2024-02-12,14,28.03821578899351,Member 2 Poisson + lags
+9,2024-02-19,11,27.235005587772086,Member 2 Poisson + lags
+9,2024-02-26,17,27.37875357731773,Member 2 Poisson + lags
+9,2024-03-04,26,27.00896525351296,Member 2 Poisson + lags
+9,2024-03-11,25,28.21177136817586,Member 2 Poisson + lags
+9,2024-03-18,24,28.606961416883713,Member 2 Poisson + lags
+9,2024-03-25,18,28.985208491133495,Member 2 Poisson + lags
+9,2024-04-01,15,27.646315032223757,Member 2 Poisson + lags
+9,2024-04-08,13,27.031240703376056,Member 2 Poisson + lags
+9,2024-04-15,25,26.48733059764511,Member 2 Poisson + lags
+9,2024-04-22,22,27.69487784997791,Member 2 Poisson + lags
+9,2024-04-29,10,28.073460866683728,Member 2 Poisson + lags
+9,2024-05-06,23,26.256245992837453,Member 2 Poisson + lags
+9,2024-05-13,14,27.675328578516257,Member 2 Poisson + lags
+9,2024-05-20,13,26.907245128595875,Member 2 Poisson + lags
+9,2024-05-27,16,25.816714362980868,Member 2 Poisson + lags
+9,2024-06-03,22,26.42193349719436,Member 2 Poisson + lags
+9,2024-06-10,22,27.289624693469353,Member 2 Poisson + lags
+9,2024-06-17,18,27.441607098880255,Member 2 Poisson + lags
+9,2024-06-24,25,26.72109694878165,Member 2 Poisson + lags
+9,2024-07-01,11,27.893129974694254,Member 2 Poisson + lags
+9,2024-07-08,33,26.310428383422508,Member 2 Poisson + lags
+9,2024-07-15,18,27.99907747851343,Member 2 Poisson + lags
+9,2024-07-22,28,27.669433612723243,Member 2 Poisson + lags
+9,2024-07-29,28,27.73036991800225,Member 2 Poisson + lags
+9,2024-08-05,30,28.97548967351643,Member 2 Poisson + lags
+9,2024-08-12,29,28.355893319937277,Member 2 Poisson + lags
+9,2024-08-19,29,28.98152747562989,Member 2 Poisson + lags
+9,2024-08-26,30,28.35479766579251,Member 2 Poisson + lags
+9,2024-09-02,23,29.092985770268992,Member 2 Poisson + lags
+9,2024-09-09,32,27.616413691493612,Member 2 Poisson + lags
+9,2024-09-16,22,28.595623984750738,Member 2 Poisson + lags
+9,2024-09-23,18,27.74077908807516,Member 2 Poisson + lags
+9,2024-09-30,21,26.454776072868828,Member 2 Poisson + lags
+9,2024-10-07,15,26.62723951779195,Member 2 Poisson + lags
+9,2024-10-14,14,25.521175168748123,Member 2 Poisson + lags
+9,2024-10-21,27,24.862524593049496,Member 2 Poisson + lags
+9,2024-10-28,21,25.92649288845561,Member 2 Poisson + lags
+9,2024-11-04,16,25.51999776361573,Member 2 Poisson + lags
+9,2024-11-11,21,24.191904901038228,Member 2 Poisson + lags
+9,2024-11-18,17,24.677932249342255,Member 2 Poisson + lags
+9,2024-11-25,12,24.12539600366198,Member 2 Poisson + lags
+9,2024-12-02,21,22.7545373263112,Member 2 Poisson + lags
+9,2024-12-09,21,23.39089512311829,Member 2 Poisson + lags
+9,2024-12-16,20,23.78165895894516,Member 2 Poisson + lags
+9,2024-12-23,18,23.116877896380156,Member 2 Poisson + lags
+10,2024-01-01,25,27.499046717288977,Member 2 Poisson + lags
+10,2024-01-08,26,27.36228629420682,Member 2 Poisson + lags
+10,2024-01-15,52,27.81579431295936,Member 2 Poisson + lags
+10,2024-01-22,35,30.88355601893489,Member 2 Poisson + lags
+10,2024-01-29,16,30.210266719345228,Member 2 Poisson + lags
+10,2024-02-05,16,26.2036782470966,Member 2 Poisson + lags
+10,2024-02-12,24,26.506943525942624,Member 2 Poisson + lags
+10,2024-02-19,11,26.471501091700876,Member 2 Poisson + lags
+10,2024-02-26,26,24.7325457750204,Member 2 Poisson + lags
+10,2024-03-04,18,25.525673050718563,Member 2 Poisson + lags
+10,2024-03-11,28,26.372652533353115,Member 2 Poisson + lags
+10,2024-03-18,26,25.934219336038655,Member 2 Poisson + lags
+10,2024-03-25,12,26.058489714335515,Member 2 Poisson + lags
+10,2024-04-01,14,23.953660737397943,Member 2 Poisson + lags
+10,2024-04-08,31,24.167174825287923,Member 2 Poisson + lags
+10,2024-04-15,25,25.51284616068343,Member 2 Poisson + lags
+10,2024-04-22,25,25.49078325604472,Member 2 Poisson + lags
+10,2024-04-29,31,25.045929009894035,Member 2 Poisson + lags
+10,2024-05-06,24,26.543939828503085,Member 2 Poisson + lags
+10,2024-05-13,24,25.724584410759597,Member 2 Poisson + lags
+10,2024-05-20,29,24.988073330929883,Member 2 Poisson + lags
+10,2024-05-27,14,25.84630804476363,Member 2 Poisson + lags
+10,2024-06-03,25,24.578402823768194,Member 2 Poisson + lags
+10,2024-06-10,23,24.94030302550744,Member 2 Poisson + lags
+10,2024-06-17,18,25.41175254455532,Member 2 Poisson + lags
+10,2024-06-24,34,24.422366878769687,Member 2 Poisson + lags
+10,2024-07-01,23,25.980472635744743,Member 2 Poisson + lags
+10,2024-07-08,38,25.405779557571663,Member 2 Poisson + lags
+10,2024-07-15,24,26.53953578108048,Member 2 Poisson + lags
+10,2024-07-22,31,25.806686711178752,Member 2 Poisson + lags
+10,2024-07-29,39,25.8646733354418,Member 2 Poisson + lags
+10,2024-08-05,26,27.44148468960155,Member 2 Poisson + lags
+10,2024-08-12,28,25.552133734782565,Member 2 Poisson + lags
+10,2024-08-19,35,25.964995068347132,Member 2 Poisson + lags
+10,2024-08-26,22,26.733594014059637,Member 2 Poisson + lags
+10,2024-09-02,13,25.321965109839404,Member 2 Poisson + lags
+10,2024-09-09,27,23.42078904341543,Member 2 Poisson + lags
+10,2024-09-16,26,24.86537636869243,Member 2 Poisson + lags
+10,2024-09-23,28,24.9703503380191,Member 2 Poisson + lags
+10,2024-09-30,13,24.25320998969832,Member 2 Poisson + lags
+10,2024-10-07,18,23.118774352193388,Member 2 Poisson + lags
+10,2024-10-14,14,23.04802440269113,Member 2 Poisson + lags
+10,2024-10-21,27,22.396460965171876,Member 2 Poisson + lags
+10,2024-10-28,41,22.531445813308373,Member 2 Poisson + lags
+10,2024-11-04,33,24.713607908481105,Member 2 Poisson + lags
+10,2024-11-11,26,24.081866250342024,Member 2 Poisson + lags
+10,2024-11-18,24,23.40992667568111,Member 2 Poisson + lags
+10,2024-11-25,24,22.817068456851153,Member 2 Poisson + lags
+10,2024-12-02,36,22.25864191744304,Member 2 Poisson + lags
+10,2024-12-09,16,22.844392387150027,Member 2 Poisson + lags
+10,2024-12-16,36,21.517267059744704,Member 2 Poisson + lags
+10,2024-12-23,26,22.850797740771096,Member 2 Poisson + lags
+1,2024-01-01,59,39.86403174603176,"Random Forest, no rolling"
+1,2024-01-08,133,50.25719841269841,"Random Forest, no rolling"
+1,2024-01-15,83,82.71464682539681,"Random Forest, no rolling"
+1,2024-01-22,100,66.35779761904763,"Random Forest, no rolling"
+1,2024-01-29,77,75.98248015873017,"Random Forest, no rolling"
+1,2024-02-05,32,70.86319444444446,"Random Forest, no rolling"
+1,2024-02-12,53,51.563154761904755,"Random Forest, no rolling"
+1,2024-02-19,22,53.916300264550266,"Random Forest, no rolling"
+1,2024-02-26,55,35.61881746031745,"Random Forest, no rolling"
+1,2024-03-04,83,47.304361111111106,"Random Forest, no rolling"
+1,2024-03-11,83,59.77823809523812,"Random Forest, no rolling"
+1,2024-03-18,83,60.39078306878307,"Random Forest, no rolling"
+1,2024-03-25,50,65.06718650793653,"Random Forest, no rolling"
+1,2024-04-01,81,60.34972619047621,"Random Forest, no rolling"
+1,2024-04-08,79,66.8376335978836,"Random Forest, no rolling"
+1,2024-04-15,84,70.02846296296303,"Random Forest, no rolling"
+1,2024-04-22,54,67.6279563492064,"Random Forest, no rolling"
+1,2024-04-29,68,64.52859523809525,"Random Forest, no rolling"
+1,2024-05-06,62,62.658120370370376,"Random Forest, no rolling"
+1,2024-05-13,47,64.4622579365079,"Random Forest, no rolling"
+1,2024-05-20,64,54.301461038961016,"Random Forest, no rolling"
+1,2024-05-27,44,56.11310714285714,"Random Forest, no rolling"
+1,2024-06-03,67,53.335517195767174,"Random Forest, no rolling"
+1,2024-06-10,76,58.16522522847527,"Random Forest, no rolling"
+1,2024-06-17,45,60.27425793650793,"Random Forest, no rolling"
+1,2024-06-24,100,55.69557539682541,"Random Forest, no rolling"
+1,2024-07-01,32,86.69372354497354,"Random Forest, no rolling"
+1,2024-07-08,74,40.6924603174603,"Random Forest, no rolling"
+1,2024-07-15,78,49.6387857142857,"Random Forest, no rolling"
+1,2024-07-22,77,79.4210740740741,"Random Forest, no rolling"
+1,2024-07-29,57,54.96936111111108,"Random Forest, no rolling"
+1,2024-08-05,45,62.304285714285726,"Random Forest, no rolling"
+1,2024-08-12,67,50.236392857142846,"Random Forest, no rolling"
+1,2024-08-19,55,56.21337830687828,"Random Forest, no rolling"
+1,2024-08-26,70,56.213047619047614,"Random Forest, no rolling"
+1,2024-09-02,88,48.64559126984129,"Random Forest, no rolling"
+1,2024-09-09,64,85.13576851851852,"Random Forest, no rolling"
+1,2024-09-16,49,56.25728703703706,"Random Forest, no rolling"
+1,2024-09-23,78,52.829428571428565,"Random Forest, no rolling"
+1,2024-09-30,86,61.471003968254,"Random Forest, no rolling"
+1,2024-10-07,44,75.05511640211638,"Random Forest, no rolling"
+1,2024-10-14,53,54.941989177489184,"Random Forest, no rolling"
+1,2024-10-21,66,58.07948809523812,"Random Forest, no rolling"
+1,2024-10-28,45,57.358301587301575,"Random Forest, no rolling"
+1,2024-11-04,56,44.558665852665875,"Random Forest, no rolling"
+1,2024-11-11,78,46.67414682539685,"Random Forest, no rolling"
+1,2024-11-18,72,50.746051587301594,"Random Forest, no rolling"
+1,2024-11-25,40,49.48006532356536,"Random Forest, no rolling"
+1,2024-12-02,50,55.50144444444448,"Random Forest, no rolling"
+1,2024-12-09,79,48.38457539682541,"Random Forest, no rolling"
+1,2024-12-16,65,58.01691666666666,"Random Forest, no rolling"
+1,2024-12-23,29,47.11555820105823,"Random Forest, no rolling"
+2,2024-01-01,69,41.859829004328994,"Random Forest, no rolling"
+2,2024-01-08,55,43.423345238095266,"Random Forest, no rolling"
+2,2024-01-15,94,58.29275183150187,"Random Forest, no rolling"
+2,2024-01-22,114,68.16357671957675,"Random Forest, no rolling"
+2,2024-01-29,46,77.94067989417988,"Random Forest, no rolling"
+2,2024-02-05,15,61.91998544973544,"Random Forest, no rolling"
+2,2024-02-12,40,31.25992328042328,"Random Forest, no rolling"
+2,2024-02-19,31,51.15738227513228,"Random Forest, no rolling"
+2,2024-02-26,59,39.70560317460318,"Random Forest, no rolling"
+2,2024-03-04,108,50.21077380952381,"Random Forest, no rolling"
+2,2024-03-11,77,65.35645502645502,"Random Forest, no rolling"
+2,2024-03-18,60,72.42326719576717,"Random Forest, no rolling"
+2,2024-03-25,70,61.09559391534394,"Random Forest, no rolling"
+2,2024-04-01,61,70.91874206349209,"Random Forest, no rolling"
+2,2024-04-08,83,64.10547486772485,"Random Forest, no rolling"
+2,2024-04-15,75,65.85532142857147,"Random Forest, no rolling"
+2,2024-04-22,55,69.54362698412697,"Random Forest, no rolling"
+2,2024-04-29,41,62.91179894179895,"Random Forest, no rolling"
+2,2024-05-06,27,52.162677248677255,"Random Forest, no rolling"
+2,2024-05-13,54,44.50068650793648,"Random Forest, no rolling"
+2,2024-05-20,69,46.06451058201059,"Random Forest, no rolling"
+2,2024-05-27,46,56.2363068783069,"Random Forest, no rolling"
+2,2024-06-03,57,52.15108333333335,"Random Forest, no rolling"
+2,2024-06-10,38,56.16089285714286,"Random Forest, no rolling"
+2,2024-06-17,39,48.426821428571415,"Random Forest, no rolling"
+2,2024-06-24,57,41.080914021164006,"Random Forest, no rolling"
+2,2024-07-01,59,55.43223809523808,"Random Forest, no rolling"
+2,2024-07-08,69,52.370007936507925,"Random Forest, no rolling"
+2,2024-07-15,52,56.81562962962962,"Random Forest, no rolling"
+2,2024-07-22,51,64.71948015873018,"Random Forest, no rolling"
+2,2024-07-29,76,56.56355423280426,"Random Forest, no rolling"
+2,2024-08-05,41,58.801980158730125,"Random Forest, no rolling"
+2,2024-08-12,38,51.97194444444443,"Random Forest, no rolling"
+2,2024-08-19,54,42.49815476190474,"Random Forest, no rolling"
+2,2024-08-26,59,53.42834656084653,"Random Forest, no rolling"
+2,2024-09-02,60,48.83950396825396,"Random Forest, no rolling"
+2,2024-09-09,38,50.586182539682554,"Random Forest, no rolling"
+2,2024-09-16,95,49.04628174603173,"Random Forest, no rolling"
+2,2024-09-23,102,75.53718783068778,"Random Forest, no rolling"
+2,2024-09-30,48,81.45017989417984,"Random Forest, no rolling"
+2,2024-10-07,58,58.20361904761903,"Random Forest, no rolling"
+2,2024-10-14,43,68.37486772486773,"Random Forest, no rolling"
+2,2024-10-21,56,62.358412698412685,"Random Forest, no rolling"
+2,2024-10-28,67,46.66494576719579,"Random Forest, no rolling"
+2,2024-11-04,58,53.5291031746032,"Random Forest, no rolling"
+2,2024-11-11,39,48.03077299552302,"Random Forest, no rolling"
+2,2024-11-18,35,46.5178015873016,"Random Forest, no rolling"
+2,2024-11-25,39,43.54264634439631,"Random Forest, no rolling"
+2,2024-12-02,54,46.84295502645502,"Random Forest, no rolling"
+2,2024-12-09,48,47.23639682539683,"Random Forest, no rolling"
+2,2024-12-16,31,42.92848412698414,"Random Forest, no rolling"
+2,2024-12-23,28,38.531063131313125,"Random Forest, no rolling"
+3,2024-01-01,131,75.60709126984126,"Random Forest, no rolling"
+3,2024-01-08,113,104.84420502645504,"Random Forest, no rolling"
+3,2024-01-15,118,97.73246560846565,"Random Forest, no rolling"
+3,2024-01-22,103,111.70157142857148,"Random Forest, no rolling"
+3,2024-01-29,104,101.1796702741703,"Random Forest, no rolling"
+3,2024-02-05,49,104.16176322751322,"Random Forest, no rolling"
+3,2024-02-12,64,94.72255952380952,"Random Forest, no rolling"
+3,2024-02-19,47,93.6264285714286,"Random Forest, no rolling"
+3,2024-02-26,118,88.61173809523815,"Random Forest, no rolling"
+3,2024-03-04,126,89.92956349206345,"Random Forest, no rolling"
+3,2024-03-11,130,104.36444708994708,"Random Forest, no rolling"
+3,2024-03-18,130,97.69688888888884,"Random Forest, no rolling"
+3,2024-03-25,124,115.07171957671952,"Random Forest, no rolling"
+3,2024-04-01,120,115.20881481481484,"Random Forest, no rolling"
+3,2024-04-08,176,113.72425264550272,"Random Forest, no rolling"
+3,2024-04-15,162,170.37000000000012,"Random Forest, no rolling"
+3,2024-04-22,132,162.361257936508,"Random Forest, no rolling"
+3,2024-04-29,123,139.32968374218373,"Random Forest, no rolling"
+3,2024-05-06,152,133.37673268398274,"Random Forest, no rolling"
+3,2024-05-13,119,141.06048809523807,"Random Forest, no rolling"
+3,2024-05-20,125,127.49053823953832,"Random Forest, no rolling"
+3,2024-05-27,195,117.58286772486784,"Random Forest, no rolling"
+3,2024-06-03,167,173.6341878306879,"Random Forest, no rolling"
+3,2024-06-10,190,173.9273650793652,"Random Forest, no rolling"
+3,2024-06-17,138,169.9665158730159,"Random Forest, no rolling"
+3,2024-06-24,146,144.75628835978836,"Random Forest, no rolling"
+3,2024-07-01,115,135.40574603174605,"Random Forest, no rolling"
+3,2024-07-08,169,130.2896296296296,"Random Forest, no rolling"
+3,2024-07-15,116,150.80809523809518,"Random Forest, no rolling"
+3,2024-07-22,121,113.93086772486777,"Random Forest, no rolling"
+3,2024-07-29,227,124.82440644540654,"Random Forest, no rolling"
+3,2024-08-05,167,187.00349999999997,"Random Forest, no rolling"
+3,2024-08-12,117,159.73145634920635,"Random Forest, no rolling"
+3,2024-08-19,130,112.84035714285712,"Random Forest, no rolling"
+3,2024-08-26,134,115.78296031746034,"Random Forest, no rolling"
+3,2024-09-02,158,111.0350079365079,"Random Forest, no rolling"
+3,2024-09-09,163,106.7490634920635,"Random Forest, no rolling"
+3,2024-09-16,167,124.44638492063496,"Random Forest, no rolling"
+3,2024-09-23,159,145.74051190476192,"Random Forest, no rolling"
+3,2024-09-30,128,127.34216005291007,"Random Forest, no rolling"
+3,2024-10-07,133,106.67287085137085,"Random Forest, no rolling"
+3,2024-10-14,95,109.16063672438672,"Random Forest, no rolling"
+3,2024-10-21,148,107.92383116883116,"Random Forest, no rolling"
+3,2024-10-28,175,107.77097486772485,"Random Forest, no rolling"
+3,2024-11-04,143,142.5342394179894,"Random Forest, no rolling"
+3,2024-11-11,102,106.19120634920638,"Random Forest, no rolling"
+3,2024-11-18,127,95.0826883116883,"Random Forest, no rolling"
+3,2024-11-25,65,120.78650709475708,"Random Forest, no rolling"
+3,2024-12-02,166,95.55835028860024,"Random Forest, no rolling"
+3,2024-12-09,139,145.8065925925926,"Random Forest, no rolling"
+3,2024-12-16,113,128.83437566137576,"Random Forest, no rolling"
+3,2024-12-23,110,93.09943650793652,"Random Forest, no rolling"
+4,2024-01-01,29,30.133630230880225,"Random Forest, no rolling"
+4,2024-01-08,22,28.79168783068784,"Random Forest, no rolling"
+4,2024-01-15,28,29.85458862433861,"Random Forest, no rolling"
+4,2024-01-22,35,32.08352777777779,"Random Forest, no rolling"
+4,2024-01-29,38,29.265341269841265,"Random Forest, no rolling"
+4,2024-02-05,45,32.04656216931219,"Random Forest, no rolling"
+4,2024-02-12,33,38.49512698412696,"Random Forest, no rolling"
+4,2024-02-19,13,35.468499639249664,"Random Forest, no rolling"
+4,2024-02-26,41,31.776972222222188,"Random Forest, no rolling"
+4,2024-03-04,29,37.50636507936508,"Random Forest, no rolling"
+4,2024-03-11,39,35.58594444444446,"Random Forest, no rolling"
+4,2024-03-18,32,31.480797619047618,"Random Forest, no rolling"
+4,2024-03-25,44,38.578966931216925,"Random Forest, no rolling"
+4,2024-04-01,31,39.736085978835966,"Random Forest, no rolling"
+4,2024-04-08,38,40.31369047619048,"Random Forest, no rolling"
+4,2024-04-15,31,30.6910357142857,"Random Forest, no rolling"
+4,2024-04-22,39,35.605031746031756,"Random Forest, no rolling"
+4,2024-04-29,34,30.96283730158729,"Random Forest, no rolling"
+4,2024-05-06,52,35.48794973544972,"Random Forest, no rolling"
+4,2024-05-13,38,40.6233994708995,"Random Forest, no rolling"
+4,2024-05-20,35,35.56733730158729,"Random Forest, no rolling"
+4,2024-05-27,26,37.59677116402113,"Random Forest, no rolling"
+4,2024-06-03,28,37.56433333333334,"Random Forest, no rolling"
+4,2024-06-10,30,38.232115079365094,"Random Forest, no rolling"
+4,2024-06-17,24,36.25398737373737,"Random Forest, no rolling"
+4,2024-06-24,47,29.469694444444432,"Random Forest, no rolling"
+4,2024-07-01,33,36.52628968253968,"Random Forest, no rolling"
+4,2024-07-08,43,36.715654761904766,"Random Forest, no rolling"
+4,2024-07-15,41,39.45514947089947,"Random Forest, no rolling"
+4,2024-07-22,41,40.26544179894182,"Random Forest, no rolling"
+4,2024-07-29,50,38.532449855699866,"Random Forest, no rolling"
+4,2024-08-05,36,38.779250000000005,"Random Forest, no rolling"
+4,2024-08-12,39,38.2088214285714,"Random Forest, no rolling"
+4,2024-08-19,36,36.994539682539674,"Random Forest, no rolling"
+4,2024-08-26,54,39.3497976190476,"Random Forest, no rolling"
+4,2024-09-02,44,42.70450661375663,"Random Forest, no rolling"
+4,2024-09-09,45,42.099658730158744,"Random Forest, no rolling"
+4,2024-09-16,41,39.977952380952395,"Random Forest, no rolling"
+4,2024-09-23,45,46.660162698412705,"Random Forest, no rolling"
+4,2024-09-30,40,46.38375396825396,"Random Forest, no rolling"
+4,2024-10-07,26,45.811873015873026,"Random Forest, no rolling"
+4,2024-10-14,50,35.97019083694086,"Random Forest, no rolling"
+4,2024-10-21,47,43.18430266955269,"Random Forest, no rolling"
+4,2024-10-28,31,35.95521031746033,"Random Forest, no rolling"
+4,2024-11-04,40,32.20812566137567,"Random Forest, no rolling"
+4,2024-11-11,31,33.16869648869648,"Random Forest, no rolling"
+4,2024-11-18,26,37.76405820105821,"Random Forest, no rolling"
+4,2024-11-25,13,30.30377116402117,"Random Forest, no rolling"
+4,2024-12-02,33,29.91759126984125,"Random Forest, no rolling"
+4,2024-12-09,27,25.35830555555556,"Random Forest, no rolling"
+4,2024-12-16,30,28.166388888888868,"Random Forest, no rolling"
+4,2024-12-23,18,31.29721825396824,"Random Forest, no rolling"
+5,2024-01-01,76,46.12459920634918,"Random Forest, no rolling"
+5,2024-01-08,107,62.38976587301588,"Random Forest, no rolling"
+5,2024-01-15,107,77.35861640211638,"Random Forest, no rolling"
+5,2024-01-22,103,78.04075925925922,"Random Forest, no rolling"
+5,2024-01-29,80,79.89025793650787,"Random Forest, no rolling"
+5,2024-02-05,35,80.20767989417986,"Random Forest, no rolling"
+5,2024-02-12,53,53.9462222222222,"Random Forest, no rolling"
+5,2024-02-19,34,58.60231216931216,"Random Forest, no rolling"
+5,2024-02-26,57,48.73052380952382,"Random Forest, no rolling"
+5,2024-03-04,84,48.83879761904762,"Random Forest, no rolling"
+5,2024-03-11,69,64.66123544973547,"Random Forest, no rolling"
+5,2024-03-18,153,61.07062830687829,"Random Forest, no rolling"
+5,2024-03-25,54,126.07251322751328,"Random Forest, no rolling"
+5,2024-04-01,79,60.56079761904759,"Random Forest, no rolling"
+5,2024-04-08,66,68.61416666666673,"Random Forest, no rolling"
+5,2024-04-15,66,78.4371931216932,"Random Forest, no rolling"
+5,2024-04-22,87,65.10324206349205,"Random Forest, no rolling"
+5,2024-04-29,85,87.13892857142856,"Random Forest, no rolling"
+5,2024-05-06,71,78.63120370370369,"Random Forest, no rolling"
+5,2024-05-13,83,67.59855158730156,"Random Forest, no rolling"
+5,2024-05-20,94,90.517246031746,"Random Forest, no rolling"
+5,2024-05-27,101,104.29751984126982,"Random Forest, no rolling"
+5,2024-06-03,122,94.6612341269841,"Random Forest, no rolling"
+5,2024-06-10,86,104.96494444444444,"Random Forest, no rolling"
+5,2024-06-17,49,105.01140740740745,"Random Forest, no rolling"
+5,2024-06-24,73,62.76592063492058,"Random Forest, no rolling"
+5,2024-07-01,41,73.1125515873016,"Random Forest, no rolling"
+5,2024-07-08,73,53.53773544973544,"Random Forest, no rolling"
+5,2024-07-15,60,62.367376984127006,"Random Forest, no rolling"
+5,2024-07-22,58,72.33542592592592,"Random Forest, no rolling"
+5,2024-07-29,86,51.035760582010575,"Random Forest, no rolling"
+5,2024-08-05,66,79.99849999999995,"Random Forest, no rolling"
+5,2024-08-12,77,56.72615343915341,"Random Forest, no rolling"
+5,2024-08-19,64,52.71574338624338,"Random Forest, no rolling"
+5,2024-08-26,56,67.52932142857144,"Random Forest, no rolling"
+5,2024-09-02,97,54.03328306878307,"Random Forest, no rolling"
+5,2024-09-09,67,94.54571957671956,"Random Forest, no rolling"
+5,2024-09-16,117,59.718634920634905,"Random Forest, no rolling"
+5,2024-09-23,84,88.09694841269835,"Random Forest, no rolling"
+5,2024-09-30,78,91.90133994708994,"Random Forest, no rolling"
+5,2024-10-07,44,63.9895476190476,"Random Forest, no rolling"
+5,2024-10-14,65,64.49215343915343,"Random Forest, no rolling"
+5,2024-10-21,81,69.3973253968254,"Random Forest, no rolling"
+5,2024-10-28,87,79.41563095238097,"Random Forest, no rolling"
+5,2024-11-04,80,72.57830291005294,"Random Forest, no rolling"
+5,2024-11-11,63,70.23172619047621,"Random Forest, no rolling"
+5,2024-11-18,48,61.46899074074075,"Random Forest, no rolling"
+5,2024-11-25,39,50.77013095238098,"Random Forest, no rolling"
+5,2024-12-02,85,54.95688095238093,"Random Forest, no rolling"
+5,2024-12-09,46,64.2698902116402,"Random Forest, no rolling"
+5,2024-12-16,56,53.512579365079375,"Random Forest, no rolling"
+5,2024-12-23,30,39.938809523809546,"Random Forest, no rolling"
+6,2024-01-01,39,37.35403968253969,"Random Forest, no rolling"
+6,2024-01-08,46,44.0165992063492,"Random Forest, no rolling"
+6,2024-01-15,49,45.7381746031746,"Random Forest, no rolling"
+6,2024-01-22,59,49.39161772486773,"Random Forest, no rolling"
+6,2024-01-29,44,52.397205026455026,"Random Forest, no rolling"
+6,2024-02-05,28,53.292757936507925,"Random Forest, no rolling"
+6,2024-02-12,27,43.27319444444444,"Random Forest, no rolling"
+6,2024-02-19,26,42.21175793650793,"Random Forest, no rolling"
+6,2024-02-26,51,34.9203544973545,"Random Forest, no rolling"
+6,2024-03-04,50,40.914116402116406,"Random Forest, no rolling"
+6,2024-03-11,34,49.408337301587295,"Random Forest, no rolling"
+6,2024-03-18,71,38.41522619047621,"Random Forest, no rolling"
+6,2024-03-25,53,49.5955873015873,"Random Forest, no rolling"
+6,2024-04-01,52,56.942087301587286,"Random Forest, no rolling"
+6,2024-04-08,57,49.21304797979796,"Random Forest, no rolling"
+6,2024-04-15,77,55.53813227513228,"Random Forest, no rolling"
+6,2024-04-22,58,55.52404629629627,"Random Forest, no rolling"
+6,2024-04-29,77,64.94245105820106,"Random Forest, no rolling"
+6,2024-05-06,60,58.40312566137566,"Random Forest, no rolling"
+6,2024-05-13,52,71.34733730158726,"Random Forest, no rolling"
+6,2024-05-20,47,54.06150793650793,"Random Forest, no rolling"
+6,2024-05-27,41,52.15832539682539,"Random Forest, no rolling"
+6,2024-06-03,35,43.52885052910052,"Random Forest, no rolling"
+6,2024-06-10,71,43.06864947089948,"Random Forest, no rolling"
+6,2024-06-17,54,52.35833333333333,"Random Forest, no rolling"
+6,2024-06-24,58,47.574708994709,"Random Forest, no rolling"
+6,2024-07-01,49,48.1366759259259,"Random Forest, no rolling"
+6,2024-07-08,53,53.11834391534395,"Random Forest, no rolling"
+6,2024-07-15,70,51.87036640211641,"Random Forest, no rolling"
+6,2024-07-22,58,58.005420634920654,"Random Forest, no rolling"
+6,2024-07-29,66,58.20109126984127,"Random Forest, no rolling"
+6,2024-08-05,79,53.79824206349208,"Random Forest, no rolling"
+6,2024-08-12,88,60.16070899470896,"Random Forest, no rolling"
+6,2024-08-19,90,73.39361375661375,"Random Forest, no rolling"
+6,2024-08-26,81,74.60971825396821,"Random Forest, no rolling"
+6,2024-09-02,51,76.15084920634922,"Random Forest, no rolling"
+6,2024-09-09,63,59.202257936507934,"Random Forest, no rolling"
+6,2024-09-16,63,68.4301851851852,"Random Forest, no rolling"
+6,2024-09-23,49,63.741404761904754,"Random Forest, no rolling"
+6,2024-09-30,42,50.46115091390091,"Random Forest, no rolling"
+6,2024-10-07,52,45.47813816738816,"Random Forest, no rolling"
+6,2024-10-14,54,53.52301984126984,"Random Forest, no rolling"
+6,2024-10-21,54,46.6938502886003,"Random Forest, no rolling"
+6,2024-10-28,57,46.27543966218967,"Random Forest, no rolling"
+6,2024-11-04,49,46.264911495911505,"Random Forest, no rolling"
+6,2024-11-11,49,43.50009523809526,"Random Forest, no rolling"
+6,2024-11-18,43,42.48079497354501,"Random Forest, no rolling"
+6,2024-11-25,33,45.48280820105822,"Random Forest, no rolling"
+6,2024-12-02,81,46.5402208994709,"Random Forest, no rolling"
+6,2024-12-09,55,50.21501587301588,"Random Forest, no rolling"
+6,2024-12-16,47,57.23849786324789,"Random Forest, no rolling"
+6,2024-12-23,27,39.903893217893234,"Random Forest, no rolling"
+7,2024-01-01,57,51.20344312169311,"Random Forest, no rolling"
+7,2024-01-08,82,50.526369047619035,"Random Forest, no rolling"
+7,2024-01-15,74,58.931174603174625,"Random Forest, no rolling"
+7,2024-01-22,96,62.953599206349246,"Random Forest, no rolling"
+7,2024-01-29,89,76.18970238095241,"Random Forest, no rolling"
+7,2024-02-05,19,80.31530952380953,"Random Forest, no rolling"
+7,2024-02-12,23,38.90287301587301,"Random Forest, no rolling"
+7,2024-02-19,30,39.81213095238097,"Random Forest, no rolling"
+7,2024-02-26,101,46.92838359788359,"Random Forest, no rolling"
+7,2024-03-04,58,59.078857142857146,"Random Forest, no rolling"
+7,2024-03-11,79,68.00478042328041,"Random Forest, no rolling"
+7,2024-03-18,72,54.190301587301605,"Random Forest, no rolling"
+7,2024-03-25,59,71.19498412698418,"Random Forest, no rolling"
+7,2024-04-01,75,65.18504894179893,"Random Forest, no rolling"
+7,2024-04-08,83,66.93682275132275,"Random Forest, no rolling"
+7,2024-04-15,75,83.65241666666667,"Random Forest, no rolling"
+7,2024-04-22,90,71.77467460317459,"Random Forest, no rolling"
+7,2024-04-29,66,82.95396428571428,"Random Forest, no rolling"
+7,2024-05-06,50,71.54558333333334,"Random Forest, no rolling"
+7,2024-05-13,69,71.90809523809524,"Random Forest, no rolling"
+7,2024-05-20,83,71.22043783068789,"Random Forest, no rolling"
+7,2024-05-27,81,71.93195767195765,"Random Forest, no rolling"
+7,2024-06-03,59,70.36446031746031,"Random Forest, no rolling"
+7,2024-06-10,94,70.63135317460316,"Random Forest, no rolling"
+7,2024-06-17,70,91.20881746031746,"Random Forest, no rolling"
+7,2024-06-24,74,66.8347208994709,"Random Forest, no rolling"
+7,2024-07-01,60,55.58515608465608,"Random Forest, no rolling"
+7,2024-07-08,76,70.9733148148148,"Random Forest, no rolling"
+7,2024-07-15,59,63.91765476190473,"Random Forest, no rolling"
+7,2024-07-22,85,74.87517989417988,"Random Forest, no rolling"
+7,2024-07-29,78,70.17941931216927,"Random Forest, no rolling"
+7,2024-08-05,81,65.6635661375661,"Random Forest, no rolling"
+7,2024-08-12,98,60.32853703703704,"Random Forest, no rolling"
+7,2024-08-19,70,81.87972222222224,"Random Forest, no rolling"
+7,2024-08-26,70,62.663087301587304,"Random Forest, no rolling"
+7,2024-09-02,59,60.94387566137564,"Random Forest, no rolling"
+7,2024-09-09,62,76.98076851851852,"Random Forest, no rolling"
+7,2024-09-16,60,62.226535714285696,"Random Forest, no rolling"
+7,2024-09-23,68,63.87941666666667,"Random Forest, no rolling"
+7,2024-09-30,64,60.045857142857145,"Random Forest, no rolling"
+7,2024-10-07,72,58.77902116402117,"Random Forest, no rolling"
+7,2024-10-14,95,53.95989417989416,"Random Forest, no rolling"
+7,2024-10-21,93,81.5311560846561,"Random Forest, no rolling"
+7,2024-10-28,68,75.31723677248678,"Random Forest, no rolling"
+7,2024-11-04,92,62.9498783068783,"Random Forest, no rolling"
+7,2024-11-11,70,75.16787962962967,"Random Forest, no rolling"
+7,2024-11-18,57,59.16731746031744,"Random Forest, no rolling"
+7,2024-11-25,52,57.841158730158725,"Random Forest, no rolling"
+7,2024-12-02,42,56.13355423280424,"Random Forest, no rolling"
+7,2024-12-09,58,55.953845238095234,"Random Forest, no rolling"
+7,2024-12-16,33,52.73980026455024,"Random Forest, no rolling"
+7,2024-12-23,32,42.914358465608466,"Random Forest, no rolling"
+8,2024-01-01,45,33.400727513227515,"Random Forest, no rolling"
+8,2024-01-08,52,36.65884920634918,"Random Forest, no rolling"
+8,2024-01-15,33,44.43467063492064,"Random Forest, no rolling"
+8,2024-01-22,55,45.3209470899471,"Random Forest, no rolling"
+8,2024-01-29,38,40.8982222222222,"Random Forest, no rolling"
+8,2024-02-05,21,46.15125,"Random Forest, no rolling"
+8,2024-02-12,12,31.796849206349215,"Random Forest, no rolling"
+8,2024-02-19,15,27.991228835978855,"Random Forest, no rolling"
+8,2024-02-26,47,29.247806878306868,"Random Forest, no rolling"
+8,2024-03-04,51,35.755776455026464,"Random Forest, no rolling"
+8,2024-03-11,53,45.475710317460305,"Random Forest, no rolling"
+8,2024-03-18,58,49.31176455026455,"Random Forest, no rolling"
+8,2024-03-25,53,52.43475396825396,"Random Forest, no rolling"
+8,2024-04-01,49,54.57380555555555,"Random Forest, no rolling"
+8,2024-04-08,30,57.97009126984126,"Random Forest, no rolling"
+8,2024-04-15,57,37.82442460317459,"Random Forest, no rolling"
+8,2024-04-22,24,44.94981746031745,"Random Forest, no rolling"
+8,2024-04-29,38,36.25092460317459,"Random Forest, no rolling"
+8,2024-05-06,41,33.99351839826839,"Random Forest, no rolling"
+8,2024-05-13,36,37.91951984126984,"Random Forest, no rolling"
+8,2024-05-20,47,36.767498677248696,"Random Forest, no rolling"
+8,2024-05-27,35,37.52837433862434,"Random Forest, no rolling"
+8,2024-06-03,61,41.561726190476186,"Random Forest, no rolling"
+8,2024-06-10,45,42.12418915343917,"Random Forest, no rolling"
+8,2024-06-17,25,46.72357142857145,"Random Forest, no rolling"
+8,2024-06-24,56,36.6237394179894,"Random Forest, no rolling"
+8,2024-07-01,33,42.701162698412695,"Random Forest, no rolling"
+8,2024-07-08,34,44.30673941798942,"Random Forest, no rolling"
+8,2024-07-15,50,31.67896031746032,"Random Forest, no rolling"
+8,2024-07-22,48,41.40504737854737,"Random Forest, no rolling"
+8,2024-07-29,54,44.29721464646466,"Random Forest, no rolling"
+8,2024-08-05,39,47.525623376623386,"Random Forest, no rolling"
+8,2024-08-12,38,41.77052248677251,"Random Forest, no rolling"
+8,2024-08-19,47,37.24501851851851,"Random Forest, no rolling"
+8,2024-08-26,39,37.51546031746032,"Random Forest, no rolling"
+8,2024-09-02,36,37.41191137566139,"Random Forest, no rolling"
+8,2024-09-09,32,38.68980952380953,"Random Forest, no rolling"
+8,2024-09-16,55,39.0734600769601,"Random Forest, no rolling"
+8,2024-09-23,48,43.76508333333333,"Random Forest, no rolling"
+8,2024-09-30,46,49.75451984126984,"Random Forest, no rolling"
+8,2024-10-07,42,47.56987169312172,"Random Forest, no rolling"
+8,2024-10-14,42,42.25546428571428,"Random Forest, no rolling"
+8,2024-10-21,38,41.6466283068783,"Random Forest, no rolling"
+8,2024-10-28,48,39.92373412698412,"Random Forest, no rolling"
+8,2024-11-04,31,32.65185954785955,"Random Forest, no rolling"
+8,2024-11-11,26,42.349677248677274,"Random Forest, no rolling"
+8,2024-11-18,42,26.736345238095232,"Random Forest, no rolling"
+8,2024-11-25,16,36.324750000000016,"Random Forest, no rolling"
+8,2024-12-02,31,29.171164021164017,"Random Forest, no rolling"
+8,2024-12-09,51,28.93675396825396,"Random Forest, no rolling"
+8,2024-12-16,25,34.195973304473306,"Random Forest, no rolling"
+8,2024-12-23,26,32.83453306878307,"Random Forest, no rolling"
+9,2024-01-01,9,25.90813492063492,"Random Forest, no rolling"
+9,2024-01-08,16,15.932634920634912,"Random Forest, no rolling"
+9,2024-01-15,12,20.930633597883595,"Random Forest, no rolling"
+9,2024-01-22,21,20.620904761904765,"Random Forest, no rolling"
+9,2024-01-29,31,21.757396825396828,"Random Forest, no rolling"
+9,2024-02-05,11,20.781968253968273,"Random Forest, no rolling"
+9,2024-02-12,14,23.132297619047623,"Random Forest, no rolling"
+9,2024-02-19,11,21.873238095238086,"Random Forest, no rolling"
+9,2024-02-26,17,21.940671957671963,"Random Forest, no rolling"
+9,2024-03-04,26,21.69526587301587,"Random Forest, no rolling"
+9,2024-03-11,25,20.100044973544975,"Random Forest, no rolling"
+9,2024-03-18,24,21.36432407407409,"Random Forest, no rolling"
+9,2024-03-25,18,20.57168097643098,"Random Forest, no rolling"
+9,2024-04-01,15,21.04371500721501,"Random Forest, no rolling"
+9,2024-04-08,13,19.518194444444458,"Random Forest, no rolling"
+9,2024-04-15,25,22.171095238095248,"Random Forest, no rolling"
+9,2024-04-22,22,23.71658862433863,"Random Forest, no rolling"
+9,2024-04-29,10,26.2015992063492,"Random Forest, no rolling"
+9,2024-05-06,23,21.197091269841263,"Random Forest, no rolling"
+9,2024-05-13,14,24.263658730158728,"Random Forest, no rolling"
+9,2024-05-20,13,22.352886243386234,"Random Forest, no rolling"
+9,2024-05-27,16,20.477136243386234,"Random Forest, no rolling"
+9,2024-06-03,22,20.967916666666667,"Random Forest, no rolling"
+9,2024-06-10,22,23.604107142857146,"Random Forest, no rolling"
+9,2024-06-17,18,23.490478835978827,"Random Forest, no rolling"
+9,2024-06-24,25,22.92982142857141,"Random Forest, no rolling"
+9,2024-07-01,11,22.056949735449745,"Random Forest, no rolling"
+9,2024-07-08,33,21.270706349206343,"Random Forest, no rolling"
+9,2024-07-15,18,24.264593915343937,"Random Forest, no rolling"
+9,2024-07-22,28,22.298130952380948,"Random Forest, no rolling"
+9,2024-07-29,28,24.621641534391525,"Random Forest, no rolling"
+9,2024-08-05,30,21.74935449735451,"Random Forest, no rolling"
+9,2024-08-12,29,20.924571428571436,"Random Forest, no rolling"
+9,2024-08-19,29,21.622882275132273,"Random Forest, no rolling"
+9,2024-08-26,30,21.741469576719577,"Random Forest, no rolling"
+9,2024-09-02,23,21.5501164021164,"Random Forest, no rolling"
+9,2024-09-09,32,23.544242063492064,"Random Forest, no rolling"
+9,2024-09-16,22,24.10449627224627,"Random Forest, no rolling"
+9,2024-09-23,18,22.25202380952381,"Random Forest, no rolling"
+9,2024-09-30,21,21.701297619047615,"Random Forest, no rolling"
+9,2024-10-07,15,20.898217291967295,"Random Forest, no rolling"
+9,2024-10-14,14,19.24626322751323,"Random Forest, no rolling"
+9,2024-10-21,27,18.27168253968254,"Random Forest, no rolling"
+9,2024-10-28,21,19.49699603174603,"Random Forest, no rolling"
+9,2024-11-04,16,21.734162698412696,"Random Forest, no rolling"
+9,2024-11-11,21,18.26640608465609,"Random Forest, no rolling"
+9,2024-11-18,17,21.281551587301575,"Random Forest, no rolling"
+9,2024-11-25,12,14.728083333333318,"Random Forest, no rolling"
+9,2024-12-02,21,21.30045634920635,"Random Forest, no rolling"
+9,2024-12-09,21,15.62955423280423,"Random Forest, no rolling"
+9,2024-12-16,20,16.245002645502645,"Random Forest, no rolling"
+9,2024-12-23,18,13.836984126984122,"Random Forest, no rolling"
+10,2024-01-01,25,24.722875661375664,"Random Forest, no rolling"
+10,2024-01-08,26,19.791429894179903,"Random Forest, no rolling"
+10,2024-01-15,52,20.05761640211641,"Random Forest, no rolling"
+10,2024-01-22,35,49.11404894179892,"Random Forest, no rolling"
+10,2024-01-29,16,32.37727380952381,"Random Forest, no rolling"
+10,2024-02-05,16,23.717964285714288,"Random Forest, no rolling"
+10,2024-02-12,24,31.080876984126977,"Random Forest, no rolling"
+10,2024-02-19,11,32.405096560846545,"Random Forest, no rolling"
+10,2024-02-26,26,17.083914021164023,"Random Forest, no rolling"
+10,2024-03-04,18,20.6962619047619,"Random Forest, no rolling"
+10,2024-03-11,28,22.93254232804232,"Random Forest, no rolling"
+10,2024-03-18,26,18.84024603174604,"Random Forest, no rolling"
+10,2024-03-25,12,21.108611111111102,"Random Forest, no rolling"
+10,2024-04-01,14,17.24595634920635,"Random Forest, no rolling"
+10,2024-04-08,31,19.756390211640213,"Random Forest, no rolling"
+10,2024-04-15,25,22.43866137566138,"Random Forest, no rolling"
+10,2024-04-22,25,22.854410052910055,"Random Forest, no rolling"
+10,2024-04-29,31,22.238992063492052,"Random Forest, no rolling"
+10,2024-05-06,24,24.3930978835979,"Random Forest, no rolling"
+10,2024-05-13,24,25.3062037037037,"Random Forest, no rolling"
+10,2024-05-20,29,25.310365079365067,"Random Forest, no rolling"
+10,2024-05-27,14,26.494960317460325,"Random Forest, no rolling"
+10,2024-06-03,25,21.362523809523807,"Random Forest, no rolling"
+10,2024-06-10,23,25.412915343915348,"Random Forest, no rolling"
+10,2024-06-17,18,28.833264550264552,"Random Forest, no rolling"
+10,2024-06-24,34,20.38623544973545,"Random Forest, no rolling"
+10,2024-07-01,23,22.283915343915343,"Random Forest, no rolling"
+10,2024-07-08,38,26.63782936507937,"Random Forest, no rolling"
+10,2024-07-15,24,24.948238095238104,"Random Forest, no rolling"
+10,2024-07-22,31,32.082244708994715,"Random Forest, no rolling"
+10,2024-07-29,39,26.41206746031746,"Random Forest, no rolling"
+10,2024-08-05,26,32.05386111111111,"Random Forest, no rolling"
+10,2024-08-12,28,27.72986087061087,"Random Forest, no rolling"
+10,2024-08-19,35,23.77952645502645,"Random Forest, no rolling"
+10,2024-08-26,22,32.82476455026456,"Random Forest, no rolling"
+10,2024-09-02,13,26.350744708994707,"Random Forest, no rolling"
+10,2024-09-09,27,19.700624939874945,"Random Forest, no rolling"
+10,2024-09-16,26,32.212208994709,"Random Forest, no rolling"
+10,2024-09-23,28,22.645671957671976,"Random Forest, no rolling"
+10,2024-09-30,13,21.53476587301589,"Random Forest, no rolling"
+10,2024-10-07,18,21.8333783068783,"Random Forest, no rolling"
+10,2024-10-14,14,19.7819595959596,"Random Forest, no rolling"
+10,2024-10-21,27,20.5936984126984,"Random Forest, no rolling"
+10,2024-10-28,41,21.59331878306879,"Random Forest, no rolling"
+10,2024-11-04,33,24.228300264550267,"Random Forest, no rolling"
+10,2024-11-11,26,32.670244708994716,"Random Forest, no rolling"
+10,2024-11-18,24,25.019216931216935,"Random Forest, no rolling"
+10,2024-11-25,24,28.598885401635386,"Random Forest, no rolling"
+10,2024-12-02,36,27.992863756613744,"Random Forest, no rolling"
+10,2024-12-09,16,22.52682407407409,"Random Forest, no rolling"
+10,2024-12-16,36,20.601699615199617,"Random Forest, no rolling"
+10,2024-12-23,26,22.97043386243387,"Random Forest, no rolling"
+1,2024-01-01,59,45.607063,XGBoost + Member 2 lags
+1,2024-01-08,133,53.359222,XGBoost + Member 2 lags
+1,2024-01-15,83,84.14684,XGBoost + Member 2 lags
+1,2024-01-22,100,66.03437,XGBoost + Member 2 lags
+1,2024-01-29,77,82.29744,XGBoost + Member 2 lags
+1,2024-02-05,32,77.90043,XGBoost + Member 2 lags
+1,2024-02-12,53,53.770035,XGBoost + Member 2 lags
+1,2024-02-19,22,50.686703,XGBoost + Member 2 lags
+1,2024-02-26,55,43.58646,XGBoost + Member 2 lags
+1,2024-03-04,83,51.025932,XGBoost + Member 2 lags
+1,2024-03-11,83,67.42428,XGBoost + Member 2 lags
+1,2024-03-18,83,58.177704,XGBoost + Member 2 lags
+1,2024-03-25,50,65.958176,XGBoost + Member 2 lags
+1,2024-04-01,81,54.00505,XGBoost + Member 2 lags
+1,2024-04-08,79,64.382515,XGBoost + Member 2 lags
+1,2024-04-15,84,60.360943,XGBoost + Member 2 lags
+1,2024-04-22,54,72.65357,XGBoost + Member 2 lags
+1,2024-04-29,68,67.00586,XGBoost + Member 2 lags
+1,2024-05-06,62,67.07943,XGBoost + Member 2 lags
+1,2024-05-13,47,65.48385,XGBoost + Member 2 lags
+1,2024-05-20,64,54.55996,XGBoost + Member 2 lags
+1,2024-05-27,44,63.15344,XGBoost + Member 2 lags
+1,2024-06-03,67,57.65753,XGBoost + Member 2 lags
+1,2024-06-10,76,58.926693,XGBoost + Member 2 lags
+1,2024-06-17,45,61.50913,XGBoost + Member 2 lags
+1,2024-06-24,100,53.839718,XGBoost + Member 2 lags
+1,2024-07-01,32,77.79199,XGBoost + Member 2 lags
+1,2024-07-08,74,47.74898,XGBoost + Member 2 lags
+1,2024-07-15,78,52.99926,XGBoost + Member 2 lags
+1,2024-07-22,77,73.55376,XGBoost + Member 2 lags
+1,2024-07-29,57,63.93242,XGBoost + Member 2 lags
+1,2024-08-05,45,64.90299,XGBoost + Member 2 lags
+1,2024-08-12,67,47.942787,XGBoost + Member 2 lags
+1,2024-08-19,55,60.680546,XGBoost + Member 2 lags
+1,2024-08-26,70,51.102108,XGBoost + Member 2 lags
+1,2024-09-02,88,55.770325,XGBoost + Member 2 lags
+1,2024-09-09,64,77.88348,XGBoost + Member 2 lags
+1,2024-09-16,49,57.031757,XGBoost + Member 2 lags
+1,2024-09-23,78,61.598858,XGBoost + Member 2 lags
+1,2024-09-30,86,61.403496,XGBoost + Member 2 lags
+1,2024-10-07,44,78.69019,XGBoost + Member 2 lags
+1,2024-10-14,53,46.88231,XGBoost + Member 2 lags
+1,2024-10-21,66,59.49064,XGBoost + Member 2 lags
+1,2024-10-28,45,62.63697,XGBoost + Member 2 lags
+1,2024-11-04,56,48.18208,XGBoost + Member 2 lags
+1,2024-11-11,78,51.69996,XGBoost + Member 2 lags
+1,2024-11-18,72,52.546856,XGBoost + Member 2 lags
+1,2024-11-25,40,58.982414,XGBoost + Member 2 lags
+1,2024-12-02,50,53.95969,XGBoost + Member 2 lags
+1,2024-12-09,79,55.522537,XGBoost + Member 2 lags
+1,2024-12-16,65,56.815357,XGBoost + Member 2 lags
+1,2024-12-23,29,42.026604,XGBoost + Member 2 lags
+2,2024-01-01,69,50.722088,XGBoost + Member 2 lags
+2,2024-01-08,55,47.024662,XGBoost + Member 2 lags
+2,2024-01-15,94,65.3625,XGBoost + Member 2 lags
+2,2024-01-22,114,73.98701,XGBoost + Member 2 lags
+2,2024-01-29,46,84.579346,XGBoost + Member 2 lags
+2,2024-02-05,15,59.995163,XGBoost + Member 2 lags
+2,2024-02-12,40,40.239555,XGBoost + Member 2 lags
+2,2024-02-19,31,47.19506,XGBoost + Member 2 lags
+2,2024-02-26,59,47.312954,XGBoost + Member 2 lags
+2,2024-03-04,108,47.183376,XGBoost + Member 2 lags
+2,2024-03-11,77,72.45372,XGBoost + Member 2 lags
+2,2024-03-18,60,58.07431,XGBoost + Member 2 lags
+2,2024-03-25,70,60.340702,XGBoost + Member 2 lags
+2,2024-04-01,61,59.54222,XGBoost + Member 2 lags
+2,2024-04-08,83,59.93858,XGBoost + Member 2 lags
+2,2024-04-15,75,61.036446,XGBoost + Member 2 lags
+2,2024-04-22,55,67.95069,XGBoost + Member 2 lags
+2,2024-04-29,41,67.181786,XGBoost + Member 2 lags
+2,2024-05-06,27,52.99497,XGBoost + Member 2 lags
+2,2024-05-13,54,49.136368,XGBoost + Member 2 lags
+2,2024-05-20,69,53.121616,XGBoost + Member 2 lags
+2,2024-05-27,46,53.605255,XGBoost + Member 2 lags
+2,2024-06-03,57,54.731323,XGBoost + Member 2 lags
+2,2024-06-10,38,57.418583,XGBoost + Member 2 lags
+2,2024-06-17,39,49.605255,XGBoost + Member 2 lags
+2,2024-06-24,57,42.63913,XGBoost + Member 2 lags
+2,2024-07-01,59,51.342537,XGBoost + Member 2 lags
+2,2024-07-08,69,52.856983,XGBoost + Member 2 lags
+2,2024-07-15,52,58.789722,XGBoost + Member 2 lags
+2,2024-07-22,51,59.955696,XGBoost + Member 2 lags
+2,2024-07-29,76,57.68097,XGBoost + Member 2 lags
+2,2024-08-05,41,55.167923,XGBoost + Member 2 lags
+2,2024-08-12,38,47.998913,XGBoost + Member 2 lags
+2,2024-08-19,54,46.621998,XGBoost + Member 2 lags
+2,2024-08-26,59,55.186665,XGBoost + Member 2 lags
+2,2024-09-02,60,51.642937,XGBoost + Member 2 lags
+2,2024-09-09,38,52.522636,XGBoost + Member 2 lags
+2,2024-09-16,95,46.156994,XGBoost + Member 2 lags
+2,2024-09-23,102,78.987404,XGBoost + Member 2 lags
+2,2024-09-30,48,79.33288,XGBoost + Member 2 lags
+2,2024-10-07,58,57.562527,XGBoost + Member 2 lags
+2,2024-10-14,43,58.391125,XGBoost + Member 2 lags
+2,2024-10-21,56,57.923798,XGBoost + Member 2 lags
+2,2024-10-28,67,52.663326,XGBoost + Member 2 lags
+2,2024-11-04,58,52.259964,XGBoost + Member 2 lags
+2,2024-11-11,39,51.307243,XGBoost + Member 2 lags
+2,2024-11-18,35,39.54665,XGBoost + Member 2 lags
+2,2024-11-25,39,46.410748,XGBoost + Member 2 lags
+2,2024-12-02,54,49.29907,XGBoost + Member 2 lags
+2,2024-12-09,48,42.707066,XGBoost + Member 2 lags
+2,2024-12-16,31,36.465366,XGBoost + Member 2 lags
+2,2024-12-23,28,30.348967,XGBoost + Member 2 lags
+3,2024-01-01,131,102.401276,XGBoost + Member 2 lags
+3,2024-01-08,113,103.26056,XGBoost + Member 2 lags
+3,2024-01-15,118,110.65896,XGBoost + Member 2 lags
+3,2024-01-22,103,118.344246,XGBoost + Member 2 lags
+3,2024-01-29,104,118.64184,XGBoost + Member 2 lags
+3,2024-02-05,49,120.08657,XGBoost + Member 2 lags
+3,2024-02-12,64,91.37906,XGBoost + Member 2 lags
+3,2024-02-19,47,87.38885,XGBoost + Member 2 lags
+3,2024-02-26,118,81.76369,XGBoost + Member 2 lags
+3,2024-03-04,126,82.30213,XGBoost + Member 2 lags
+3,2024-03-11,130,108.18912,XGBoost + Member 2 lags
+3,2024-03-18,130,95.607956,XGBoost + Member 2 lags
+3,2024-03-25,124,120.164925,XGBoost + Member 2 lags
+3,2024-04-01,120,108.313,XGBoost + Member 2 lags
+3,2024-04-08,176,104.494705,XGBoost + Member 2 lags
+3,2024-04-15,162,142.74773,XGBoost + Member 2 lags
+3,2024-04-22,132,174.24603,XGBoost + Member 2 lags
+3,2024-04-29,123,136.87714,XGBoost + Member 2 lags
+3,2024-05-06,152,141.59831,XGBoost + Member 2 lags
+3,2024-05-13,119,183.31541,XGBoost + Member 2 lags
+3,2024-05-20,125,116.03912,XGBoost + Member 2 lags
+3,2024-05-27,195,128.35628,XGBoost + Member 2 lags
+3,2024-06-03,167,188.86816,XGBoost + Member 2 lags
+3,2024-06-10,190,170.53902,XGBoost + Member 2 lags
+3,2024-06-17,138,159.50894,XGBoost + Member 2 lags
+3,2024-06-24,146,157.49893,XGBoost + Member 2 lags
+3,2024-07-01,115,144.192,XGBoost + Member 2 lags
+3,2024-07-08,169,141.19598,XGBoost + Member 2 lags
+3,2024-07-15,116,144.39,XGBoost + Member 2 lags
+3,2024-07-22,121,120.71931,XGBoost + Member 2 lags
+3,2024-07-29,227,115.20084,XGBoost + Member 2 lags
+3,2024-08-05,167,148.98398,XGBoost + Member 2 lags
+3,2024-08-12,117,129.84251,XGBoost + Member 2 lags
+3,2024-08-19,130,109.294495,XGBoost + Member 2 lags
+3,2024-08-26,134,122.61101,XGBoost + Member 2 lags
+3,2024-09-02,158,96.012886,XGBoost + Member 2 lags
+3,2024-09-09,163,105.63223,XGBoost + Member 2 lags
+3,2024-09-16,167,111.14675,XGBoost + Member 2 lags
+3,2024-09-23,159,115.37736,XGBoost + Member 2 lags
+3,2024-09-30,128,114.46375,XGBoost + Member 2 lags
+3,2024-10-07,133,101.19676,XGBoost + Member 2 lags
+3,2024-10-14,95,104.66601,XGBoost + Member 2 lags
+3,2024-10-21,148,109.10314,XGBoost + Member 2 lags
+3,2024-10-28,175,102.96219,XGBoost + Member 2 lags
+3,2024-11-04,143,113.025566,XGBoost + Member 2 lags
+3,2024-11-11,102,86.28011,XGBoost + Member 2 lags
+3,2024-11-18,127,79.8814,XGBoost + Member 2 lags
+3,2024-11-25,65,114.39629,XGBoost + Member 2 lags
+3,2024-12-02,166,99.080696,XGBoost + Member 2 lags
+3,2024-12-09,139,115.90299,XGBoost + Member 2 lags
+3,2024-12-16,113,112.05889,XGBoost + Member 2 lags
+3,2024-12-23,110,71.74479,XGBoost + Member 2 lags
+4,2024-01-01,29,39.983692,XGBoost + Member 2 lags
+4,2024-01-08,22,34.900837,XGBoost + Member 2 lags
+4,2024-01-15,28,29.55128,XGBoost + Member 2 lags
+4,2024-01-22,35,32.660576,XGBoost + Member 2 lags
+4,2024-01-29,38,34.101265,XGBoost + Member 2 lags
+4,2024-02-05,45,34.272545,XGBoost + Member 2 lags
+4,2024-02-12,33,36.323685,XGBoost + Member 2 lags
+4,2024-02-19,13,36.807526,XGBoost + Member 2 lags
+4,2024-02-26,41,28.704815,XGBoost + Member 2 lags
+4,2024-03-04,29,36.730927,XGBoost + Member 2 lags
+4,2024-03-11,39,35.480988,XGBoost + Member 2 lags
+4,2024-03-18,32,24.126488,XGBoost + Member 2 lags
+4,2024-03-25,44,38.841106,XGBoost + Member 2 lags
+4,2024-04-01,31,35.02467,XGBoost + Member 2 lags
+4,2024-04-08,38,38.457928,XGBoost + Member 2 lags
+4,2024-04-15,31,22.886932,XGBoost + Member 2 lags
+4,2024-04-22,39,40.45395,XGBoost + Member 2 lags
+4,2024-04-29,34,32.372215,XGBoost + Member 2 lags
+4,2024-05-06,52,38.412224,XGBoost + Member 2 lags
+4,2024-05-13,38,42.393642,XGBoost + Member 2 lags
+4,2024-05-20,35,38.848396,XGBoost + Member 2 lags
+4,2024-05-27,26,36.1107,XGBoost + Member 2 lags
+4,2024-06-03,28,38.21507,XGBoost + Member 2 lags
+4,2024-06-10,30,34.382137,XGBoost + Member 2 lags
+4,2024-06-17,24,34.70704,XGBoost + Member 2 lags
+4,2024-06-24,47,29.229103,XGBoost + Member 2 lags
+4,2024-07-01,33,39.812946,XGBoost + Member 2 lags
+4,2024-07-08,43,34.583797,XGBoost + Member 2 lags
+4,2024-07-15,41,36.722607,XGBoost + Member 2 lags
+4,2024-07-22,41,45.427692,XGBoost + Member 2 lags
+4,2024-07-29,50,37.79617,XGBoost + Member 2 lags
+4,2024-08-05,36,42.5709,XGBoost + Member 2 lags
+4,2024-08-12,39,37.913864,XGBoost + Member 2 lags
+4,2024-08-19,36,38.06742,XGBoost + Member 2 lags
+4,2024-08-26,54,42.668377,XGBoost + Member 2 lags
+4,2024-09-02,44,42.014256,XGBoost + Member 2 lags
+4,2024-09-09,45,42.39999,XGBoost + Member 2 lags
+4,2024-09-16,41,39.899136,XGBoost + Member 2 lags
+4,2024-09-23,45,50.170483,XGBoost + Member 2 lags
+4,2024-09-30,40,45.688274,XGBoost + Member 2 lags
+4,2024-10-07,26,44.022366,XGBoost + Member 2 lags
+4,2024-10-14,50,33.888294,XGBoost + Member 2 lags
+4,2024-10-21,47,46.23074,XGBoost + Member 2 lags
+4,2024-10-28,31,43.479935,XGBoost + Member 2 lags
+4,2024-11-04,40,33.970394,XGBoost + Member 2 lags
+4,2024-11-11,31,39.62088,XGBoost + Member 2 lags
+4,2024-11-18,26,38.126377,XGBoost + Member 2 lags
+4,2024-11-25,13,27.93969,XGBoost + Member 2 lags
+4,2024-12-02,33,29.389048,XGBoost + Member 2 lags
+4,2024-12-09,27,26.37669,XGBoost + Member 2 lags
+4,2024-12-16,30,26.476704,XGBoost + Member 2 lags
+4,2024-12-23,18,21.170765,XGBoost + Member 2 lags
+5,2024-01-01,76,62.829975,XGBoost + Member 2 lags
+5,2024-01-08,107,63.05539,XGBoost + Member 2 lags
+5,2024-01-15,107,84.92184,XGBoost + Member 2 lags
+5,2024-01-22,103,73.79366,XGBoost + Member 2 lags
+5,2024-01-29,80,95.18334,XGBoost + Member 2 lags
+5,2024-02-05,35,90.84208,XGBoost + Member 2 lags
+5,2024-02-12,53,59.09597,XGBoost + Member 2 lags
+5,2024-02-19,34,55.93789,XGBoost + Member 2 lags
+5,2024-02-26,57,55.83061,XGBoost + Member 2 lags
+5,2024-03-04,84,50.559067,XGBoost + Member 2 lags
+5,2024-03-11,69,70.04699,XGBoost + Member 2 lags
+5,2024-03-18,153,57.234802,XGBoost + Member 2 lags
+5,2024-03-25,54,100.64363,XGBoost + Member 2 lags
+5,2024-04-01,79,69.215546,XGBoost + Member 2 lags
+5,2024-04-08,66,64.303154,XGBoost + Member 2 lags
+5,2024-04-15,66,71.57647,XGBoost + Member 2 lags
+5,2024-04-22,87,65.10282,XGBoost + Member 2 lags
+5,2024-04-29,85,91.55455,XGBoost + Member 2 lags
+5,2024-05-06,71,82.25388,XGBoost + Member 2 lags
+5,2024-05-13,83,72.16143,XGBoost + Member 2 lags
+5,2024-05-20,94,81.275055,XGBoost + Member 2 lags
+5,2024-05-27,101,97.8911,XGBoost + Member 2 lags
+5,2024-06-03,122,91.77232,XGBoost + Member 2 lags
+5,2024-06-10,86,104.14883,XGBoost + Member 2 lags
+5,2024-06-17,49,100.058914,XGBoost + Member 2 lags
+5,2024-06-24,73,70.71486,XGBoost + Member 2 lags
+5,2024-07-01,41,74.27878,XGBoost + Member 2 lags
+5,2024-07-08,73,60.986557,XGBoost + Member 2 lags
+5,2024-07-15,60,64.08119,XGBoost + Member 2 lags
+5,2024-07-22,58,77.850296,XGBoost + Member 2 lags
+5,2024-07-29,86,57.716972,XGBoost + Member 2 lags
+5,2024-08-05,66,83.673065,XGBoost + Member 2 lags
+5,2024-08-12,77,56.996086,XGBoost + Member 2 lags
+5,2024-08-19,64,62.964657,XGBoost + Member 2 lags
+5,2024-08-26,56,65.13038,XGBoost + Member 2 lags
+5,2024-09-02,97,62.73437,XGBoost + Member 2 lags
+5,2024-09-09,67,80.37332,XGBoost + Member 2 lags
+5,2024-09-16,117,65.26719,XGBoost + Member 2 lags
+5,2024-09-23,84,87.36561,XGBoost + Member 2 lags
+5,2024-09-30,78,85.6674,XGBoost + Member 2 lags
+5,2024-10-07,44,72.85074,XGBoost + Member 2 lags
+5,2024-10-14,65,62.093075,XGBoost + Member 2 lags
+5,2024-10-21,81,65.29005,XGBoost + Member 2 lags
+5,2024-10-28,87,75.76231,XGBoost + Member 2 lags
+5,2024-11-04,80,75.18652,XGBoost + Member 2 lags
+5,2024-11-11,63,69.53277,XGBoost + Member 2 lags
+5,2024-11-18,48,66.44175,XGBoost + Member 2 lags
+5,2024-11-25,39,63.1606,XGBoost + Member 2 lags
+5,2024-12-02,85,53.970413,XGBoost + Member 2 lags
+5,2024-12-09,46,64.76953,XGBoost + Member 2 lags
+5,2024-12-16,56,47.90035,XGBoost + Member 2 lags
+5,2024-12-23,30,44.81843,XGBoost + Member 2 lags
+6,2024-01-01,39,51.34735,XGBoost + Member 2 lags
+6,2024-01-08,46,51.917816,XGBoost + Member 2 lags
+6,2024-01-15,49,48.100906,XGBoost + Member 2 lags
+6,2024-01-22,59,55.21055,XGBoost + Member 2 lags
+6,2024-01-29,44,51.471577,XGBoost + Member 2 lags
+6,2024-02-05,28,54.53627,XGBoost + Member 2 lags
+6,2024-02-12,27,43.18533,XGBoost + Member 2 lags
+6,2024-02-19,26,39.56684,XGBoost + Member 2 lags
+6,2024-02-26,51,32.845486,XGBoost + Member 2 lags
+6,2024-03-04,50,42.39629,XGBoost + Member 2 lags
+6,2024-03-11,34,47.55372,XGBoost + Member 2 lags
+6,2024-03-18,71,30.336575,XGBoost + Member 2 lags
+6,2024-03-25,53,42.96752,XGBoost + Member 2 lags
+6,2024-04-01,52,51.84478,XGBoost + Member 2 lags
+6,2024-04-08,57,47.440937,XGBoost + Member 2 lags
+6,2024-04-15,77,49.375103,XGBoost + Member 2 lags
+6,2024-04-22,58,59.565937,XGBoost + Member 2 lags
+6,2024-04-29,77,61.664318,XGBoost + Member 2 lags
+6,2024-05-06,60,53.771236,XGBoost + Member 2 lags
+6,2024-05-13,52,73.08361,XGBoost + Member 2 lags
+6,2024-05-20,47,55.726345,XGBoost + Member 2 lags
+6,2024-05-27,41,56.03854,XGBoost + Member 2 lags
+6,2024-06-03,35,47.785793,XGBoost + Member 2 lags
+6,2024-06-10,71,49.517117,XGBoost + Member 2 lags
+6,2024-06-17,54,50.527283,XGBoost + Member 2 lags
+6,2024-06-24,58,53.517414,XGBoost + Member 2 lags
+6,2024-07-01,49,50.4543,XGBoost + Member 2 lags
+6,2024-07-08,53,55.18778,XGBoost + Member 2 lags
+6,2024-07-15,70,54.0091,XGBoost + Member 2 lags
+6,2024-07-22,58,56.74646,XGBoost + Member 2 lags
+6,2024-07-29,66,55.60956,XGBoost + Member 2 lags
+6,2024-08-05,79,57.691048,XGBoost + Member 2 lags
+6,2024-08-12,88,60.115982,XGBoost + Member 2 lags
+6,2024-08-19,90,70.471924,XGBoost + Member 2 lags
+6,2024-08-26,81,71.95579,XGBoost + Member 2 lags
+6,2024-09-02,51,71.192924,XGBoost + Member 2 lags
+6,2024-09-09,63,66.22457,XGBoost + Member 2 lags
+6,2024-09-16,63,61.73376,XGBoost + Member 2 lags
+6,2024-09-23,49,67.40149,XGBoost + Member 2 lags
+6,2024-09-30,42,58.011032,XGBoost + Member 2 lags
+6,2024-10-07,52,52.683125,XGBoost + Member 2 lags
+6,2024-10-14,54,54.427086,XGBoost + Member 2 lags
+6,2024-10-21,54,55.44594,XGBoost + Member 2 lags
+6,2024-10-28,57,49.577904,XGBoost + Member 2 lags
+6,2024-11-04,49,51.982872,XGBoost + Member 2 lags
+6,2024-11-11,49,52.05922,XGBoost + Member 2 lags
+6,2024-11-18,43,43.08821,XGBoost + Member 2 lags
+6,2024-11-25,33,46.30817,XGBoost + Member 2 lags
+6,2024-12-02,81,49.797134,XGBoost + Member 2 lags
+6,2024-12-09,55,47.895245,XGBoost + Member 2 lags
+6,2024-12-16,47,48.91103,XGBoost + Member 2 lags
+6,2024-12-23,27,32.944668,XGBoost + Member 2 lags
+7,2024-01-01,57,53.718422,XGBoost + Member 2 lags
+7,2024-01-08,82,59.68509,XGBoost + Member 2 lags
+7,2024-01-15,74,62.448063,XGBoost + Member 2 lags
+7,2024-01-22,96,71.27527,XGBoost + Member 2 lags
+7,2024-01-29,89,89.28728,XGBoost + Member 2 lags
+7,2024-02-05,19,77.84142,XGBoost + Member 2 lags
+7,2024-02-12,23,42.54907,XGBoost + Member 2 lags
+7,2024-02-19,30,41.10657,XGBoost + Member 2 lags
+7,2024-02-26,101,47.8692,XGBoost + Member 2 lags
+7,2024-03-04,58,68.11609,XGBoost + Member 2 lags
+7,2024-03-11,79,67.81236,XGBoost + Member 2 lags
+7,2024-03-18,72,49.22823,XGBoost + Member 2 lags
+7,2024-03-25,59,72.682365,XGBoost + Member 2 lags
+7,2024-04-01,75,55.928757,XGBoost + Member 2 lags
+7,2024-04-08,83,58.03913,XGBoost + Member 2 lags
+7,2024-04-15,75,69.764984,XGBoost + Member 2 lags
+7,2024-04-22,90,68.76686,XGBoost + Member 2 lags
+7,2024-04-29,66,81.0893,XGBoost + Member 2 lags
+7,2024-05-06,50,72.57638,XGBoost + Member 2 lags
+7,2024-05-13,69,66.559235,XGBoost + Member 2 lags
+7,2024-05-20,83,66.81967,XGBoost + Member 2 lags
+7,2024-05-27,81,75.20242,XGBoost + Member 2 lags
+7,2024-06-03,59,78.944,XGBoost + Member 2 lags
+7,2024-06-10,94,72.7235,XGBoost + Member 2 lags
+7,2024-06-17,70,88.35678,XGBoost + Member 2 lags
+7,2024-06-24,74,73.77019,XGBoost + Member 2 lags
+7,2024-07-01,60,61.264797,XGBoost + Member 2 lags
+7,2024-07-08,76,74.36153,XGBoost + Member 2 lags
+7,2024-07-15,59,70.27991,XGBoost + Member 2 lags
+7,2024-07-22,85,76.02059,XGBoost + Member 2 lags
+7,2024-07-29,78,71.7673,XGBoost + Member 2 lags
+7,2024-08-05,81,66.314224,XGBoost + Member 2 lags
+7,2024-08-12,98,65.16776,XGBoost + Member 2 lags
+7,2024-08-19,70,83.07213,XGBoost + Member 2 lags
+7,2024-08-26,70,64.41332,XGBoost + Member 2 lags
+7,2024-09-02,59,64.77748,XGBoost + Member 2 lags
+7,2024-09-09,62,64.26508,XGBoost + Member 2 lags
+7,2024-09-16,60,63.532166,XGBoost + Member 2 lags
+7,2024-09-23,68,72.83998,XGBoost + Member 2 lags
+7,2024-09-30,64,68.409615,XGBoost + Member 2 lags
+7,2024-10-07,72,63.729137,XGBoost + Member 2 lags
+7,2024-10-14,95,56.53818,XGBoost + Member 2 lags
+7,2024-10-21,93,76.850586,XGBoost + Member 2 lags
+7,2024-10-28,68,74.87832,XGBoost + Member 2 lags
+7,2024-11-04,92,65.39994,XGBoost + Member 2 lags
+7,2024-11-11,70,75.35545,XGBoost + Member 2 lags
+7,2024-11-18,57,57.45307,XGBoost + Member 2 lags
+7,2024-11-25,52,58.51947,XGBoost + Member 2 lags
+7,2024-12-02,42,69.15152,XGBoost + Member 2 lags
+7,2024-12-09,58,50.517235,XGBoost + Member 2 lags
+7,2024-12-16,33,51.012405,XGBoost + Member 2 lags
+7,2024-12-23,32,34.879738,XGBoost + Member 2 lags
+8,2024-01-01,45,38.022144,XGBoost + Member 2 lags
+8,2024-01-08,52,42.59719,XGBoost + Member 2 lags
+8,2024-01-15,33,48.139248,XGBoost + Member 2 lags
+8,2024-01-22,55,46.076775,XGBoost + Member 2 lags
+8,2024-01-29,38,43.25023,XGBoost + Member 2 lags
+8,2024-02-05,21,48.872864,XGBoost + Member 2 lags
+8,2024-02-12,12,28.379793,XGBoost + Member 2 lags
+8,2024-02-19,15,28.10743,XGBoost + Member 2 lags
+8,2024-02-26,47,28.578976,XGBoost + Member 2 lags
+8,2024-03-04,51,40.096275,XGBoost + Member 2 lags
+8,2024-03-11,53,43.166893,XGBoost + Member 2 lags
+8,2024-03-18,58,42.207733,XGBoost + Member 2 lags
+8,2024-03-25,53,49.235428,XGBoost + Member 2 lags
+8,2024-04-01,49,48.789803,XGBoost + Member 2 lags
+8,2024-04-08,30,45.42736,XGBoost + Member 2 lags
+8,2024-04-15,57,37.17221,XGBoost + Member 2 lags
+8,2024-04-22,24,47.311584,XGBoost + Member 2 lags
+8,2024-04-29,38,42.603012,XGBoost + Member 2 lags
+8,2024-05-06,41,35.206146,XGBoost + Member 2 lags
+8,2024-05-13,36,43.262264,XGBoost + Member 2 lags
+8,2024-05-20,47,38.205357,XGBoost + Member 2 lags
+8,2024-05-27,35,41.935604,XGBoost + Member 2 lags
+8,2024-06-03,61,40.068058,XGBoost + Member 2 lags
+8,2024-06-10,45,48.647797,XGBoost + Member 2 lags
+8,2024-06-17,25,45.027683,XGBoost + Member 2 lags
+8,2024-06-24,56,35.518192,XGBoost + Member 2 lags
+8,2024-07-01,33,41.85989,XGBoost + Member 2 lags
+8,2024-07-08,34,41.001846,XGBoost + Member 2 lags
+8,2024-07-15,50,34.346237,XGBoost + Member 2 lags
+8,2024-07-22,48,45.5615,XGBoost + Member 2 lags
+8,2024-07-29,54,49.300556,XGBoost + Member 2 lags
+8,2024-08-05,39,46.437035,XGBoost + Member 2 lags
+8,2024-08-12,38,41.221077,XGBoost + Member 2 lags
+8,2024-08-19,47,43.48403,XGBoost + Member 2 lags
+8,2024-08-26,39,38.78113,XGBoost + Member 2 lags
+8,2024-09-02,36,37.24556,XGBoost + Member 2 lags
+8,2024-09-09,32,41.326874,XGBoost + Member 2 lags
+8,2024-09-16,55,37.958485,XGBoost + Member 2 lags
+8,2024-09-23,48,49.102722,XGBoost + Member 2 lags
+8,2024-09-30,46,46.897923,XGBoost + Member 2 lags
+8,2024-10-07,42,45.2375,XGBoost + Member 2 lags
+8,2024-10-14,42,40.276417,XGBoost + Member 2 lags
+8,2024-10-21,38,41.645565,XGBoost + Member 2 lags
+8,2024-10-28,48,38.829575,XGBoost + Member 2 lags
+8,2024-11-04,31,38.38792,XGBoost + Member 2 lags
+8,2024-11-11,26,41.98019,XGBoost + Member 2 lags
+8,2024-11-18,42,28.736237,XGBoost + Member 2 lags
+8,2024-11-25,16,36.72312,XGBoost + Member 2 lags
+8,2024-12-02,31,33.730682,XGBoost + Member 2 lags
+8,2024-12-09,51,24.749361,XGBoost + Member 2 lags
+8,2024-12-16,25,31.19888,XGBoost + Member 2 lags
+8,2024-12-23,26,28.080122,XGBoost + Member 2 lags
+9,2024-01-01,9,26.651012,XGBoost + Member 2 lags
+9,2024-01-08,16,18.809717,XGBoost + Member 2 lags
+9,2024-01-15,12,21.420757,XGBoost + Member 2 lags
+9,2024-01-22,21,21.036343,XGBoost + Member 2 lags
+9,2024-01-29,31,23.13718,XGBoost + Member 2 lags
+9,2024-02-05,11,25.177551,XGBoost + Member 2 lags
+9,2024-02-12,14,19.271584,XGBoost + Member 2 lags
+9,2024-02-19,11,17.896025,XGBoost + Member 2 lags
+9,2024-02-26,17,20.502008,XGBoost + Member 2 lags
+9,2024-03-04,26,19.057623,XGBoost + Member 2 lags
+9,2024-03-11,25,21.777845,XGBoost + Member 2 lags
+9,2024-03-18,24,16.474075,XGBoost + Member 2 lags
+9,2024-03-25,18,21.249382,XGBoost + Member 2 lags
+9,2024-04-01,15,18.30626,XGBoost + Member 2 lags
+9,2024-04-08,13,17.961647,XGBoost + Member 2 lags
+9,2024-04-15,25,15.752202,XGBoost + Member 2 lags
+9,2024-04-22,22,23.595285,XGBoost + Member 2 lags
+9,2024-04-29,10,21.43267,XGBoost + Member 2 lags
+9,2024-05-06,23,19.837072,XGBoost + Member 2 lags
+9,2024-05-13,14,21.2258,XGBoost + Member 2 lags
+9,2024-05-20,13,19.627548,XGBoost + Member 2 lags
+9,2024-05-27,16,18.63003,XGBoost + Member 2 lags
+9,2024-06-03,22,20.277157,XGBoost + Member 2 lags
+9,2024-06-10,22,20.877457,XGBoost + Member 2 lags
+9,2024-06-17,18,20.452568,XGBoost + Member 2 lags
+9,2024-06-24,25,20.630827,XGBoost + Member 2 lags
+9,2024-07-01,11,21.897333,XGBoost + Member 2 lags
+9,2024-07-08,33,19.17198,XGBoost + Member 2 lags
+9,2024-07-15,18,25.247726,XGBoost + Member 2 lags
+9,2024-07-22,28,24.785887,XGBoost + Member 2 lags
+9,2024-07-29,28,24.922913,XGBoost + Member 2 lags
+9,2024-08-05,30,25.64306,XGBoost + Member 2 lags
+9,2024-08-12,29,23.723494,XGBoost + Member 2 lags
+9,2024-08-19,29,24.692987,XGBoost + Member 2 lags
+9,2024-08-26,30,24.637539,XGBoost + Member 2 lags
+9,2024-09-02,23,25.207142,XGBoost + Member 2 lags
+9,2024-09-09,32,21.672884,XGBoost + Member 2 lags
+9,2024-09-16,22,25.128866,XGBoost + Member 2 lags
+9,2024-09-23,18,25.24151,XGBoost + Member 2 lags
+9,2024-09-30,21,23.396587,XGBoost + Member 2 lags
+9,2024-10-07,15,24.863323,XGBoost + Member 2 lags
+9,2024-10-14,14,19.236385,XGBoost + Member 2 lags
+9,2024-10-21,27,19.637724,XGBoost + Member 2 lags
+9,2024-10-28,21,23.107737,XGBoost + Member 2 lags
+9,2024-11-04,16,20.779406,XGBoost + Member 2 lags
+9,2024-11-11,21,19.130373,XGBoost + Member 2 lags
+9,2024-11-18,17,17.046131,XGBoost + Member 2 lags
+9,2024-11-25,12,17.036556,XGBoost + Member 2 lags
+9,2024-12-02,21,20.707357,XGBoost + Member 2 lags
+9,2024-12-09,21,16.725716,XGBoost + Member 2 lags
+9,2024-12-16,20,15.550881,XGBoost + Member 2 lags
+9,2024-12-23,18,12.108586,XGBoost + Member 2 lags
+10,2024-01-01,25,28.067427,XGBoost + Member 2 lags
+10,2024-01-08,26,24.247025,XGBoost + Member 2 lags
+10,2024-01-15,52,26.396255,XGBoost + Member 2 lags
+10,2024-01-22,35,38.801052,XGBoost + Member 2 lags
+10,2024-01-29,16,37.821976,XGBoost + Member 2 lags
+10,2024-02-05,16,23.671429,XGBoost + Member 2 lags
+10,2024-02-12,24,25.606665,XGBoost + Member 2 lags
+10,2024-02-19,11,24.979729,XGBoost + Member 2 lags
+10,2024-02-26,26,19.337635,XGBoost + Member 2 lags
+10,2024-03-04,18,23.510262,XGBoost + Member 2 lags
+10,2024-03-11,28,25.63453,XGBoost + Member 2 lags
+10,2024-03-18,26,21.25445,XGBoost + Member 2 lags
+10,2024-03-25,12,21.520355,XGBoost + Member 2 lags
+10,2024-04-01,14,14.976867,XGBoost + Member 2 lags
+10,2024-04-08,31,19.419428,XGBoost + Member 2 lags
+10,2024-04-15,25,18.567122,XGBoost + Member 2 lags
+10,2024-04-22,25,26.77312,XGBoost + Member 2 lags
+10,2024-04-29,31,23.13254,XGBoost + Member 2 lags
+10,2024-05-06,24,28.672655,XGBoost + Member 2 lags
+10,2024-05-13,24,25.896542,XGBoost + Member 2 lags
+10,2024-05-20,29,23.220673,XGBoost + Member 2 lags
+10,2024-05-27,14,25.807487,XGBoost + Member 2 lags
+10,2024-06-03,25,21.844223,XGBoost + Member 2 lags
+10,2024-06-10,23,24.682142,XGBoost + Member 2 lags
+10,2024-06-17,18,24.487452,XGBoost + Member 2 lags
+10,2024-06-24,34,21.305504,XGBoost + Member 2 lags
+10,2024-07-01,23,24.365406,XGBoost + Member 2 lags
+10,2024-07-08,38,25.04573,XGBoost + Member 2 lags
+10,2024-07-15,24,27.66552,XGBoost + Member 2 lags
+10,2024-07-22,31,32.095417,XGBoost + Member 2 lags
+10,2024-07-29,39,28.069218,XGBoost + Member 2 lags
+10,2024-08-05,26,31.198015,XGBoost + Member 2 lags
+10,2024-08-12,28,28.259628,XGBoost + Member 2 lags
+10,2024-08-19,35,27.633293,XGBoost + Member 2 lags
+10,2024-08-26,22,30.075594,XGBoost + Member 2 lags
+10,2024-09-02,13,24.887703,XGBoost + Member 2 lags
+10,2024-09-09,27,21.43093,XGBoost + Member 2 lags
+10,2024-09-16,26,29.24885,XGBoost + Member 2 lags
+10,2024-09-23,28,27.585766,XGBoost + Member 2 lags
+10,2024-09-30,13,26.57755,XGBoost + Member 2 lags
+10,2024-10-07,18,25.845417,XGBoost + Member 2 lags
+10,2024-10-14,14,21.767294,XGBoost + Member 2 lags
+10,2024-10-21,27,20.450453,XGBoost + Member 2 lags
+10,2024-10-28,41,21.989376,XGBoost + Member 2 lags
+10,2024-11-04,33,26.551508,XGBoost + Member 2 lags
+10,2024-11-11,26,31.602571,XGBoost + Member 2 lags
+10,2024-11-18,24,21.86414,XGBoost + Member 2 lags
+10,2024-11-25,24,25.259275,XGBoost + Member 2 lags
+10,2024-12-02,36,27.955116,XGBoost + Member 2 lags
+10,2024-12-09,16,19.961096,XGBoost + Member 2 lags
+10,2024-12-16,36,17.453869,XGBoost + Member 2 lags
+10,2024-12-23,26,18.755613,XGBoost + Member 2 lags

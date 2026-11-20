@@ -1,0 +1,65 @@
+{
+  "protocol_sha256": "a3126b1ee40105dc3e889252290d6d98c3157fcd0cc26068aaedfa4543a4d765",
+  "implementation_sha256": "5aec3644bd775b2c44065c547957d007488ddb64e71d5fe320ae04ab77fa31cf",
+  "shared_implementation_sha256": "8ec4f0db928ce9043c784d4b7ba51098cdac365b4c45c88486db2e73c44887f1",
+  "requirements_sha256": "cdfbb67c1144254a8a6b3aebb30aabc0616fcfb6a19db9ce914c45234fb81f42",
+  "test_evaluated": true,
+  "model_refit": "2020-2024 complete weeks",
+  "test_weeks": "2025-01-06 through 2025-12-22 (51 weeks)",
+  "forecast_protocol": "Fixed fitted model; observed completed prior weeks supply history",
+  "python": "3.9.6",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "scikit_learn": "1.6.1",
+  "limitations": {
+    "source_coverage": {
+      "owner": "Member 1",
+      "status": "documented_assumption",
+      "decision": "Treat exported years as complete for panel construction.",
+      "evidence_or_limitation": "Missing coverage may look like zero demand; completeness has not been independently confirmed.",
+      "adopted_convention": "annual_exports_complete_for_zero_fill",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
+    },
+    "timestamp_handling": {
+      "owner": "Member 1",
+      "status": "documented_assumption",
+      "decision": "Group creation times as San Jos\u00e9 local wall-clock timestamps.",
+      "evidence_or_limitation": "Naive timestamps do not establish the source timezone; boundary-week assignments may differ.",
+      "adopted_convention": "naive_creation_timestamps_as_local_wall_clock",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
+    },
+    "coordinate_exclusions": {
+      "owner": "Member 1",
+      "status": "documented_assumption",
+      "decision": "Retain the existing cleaned-file coordinate exclusions.",
+      "evidence_or_limitation": "Unlocated reports may differ systematically from retained reports.",
+      "adopted_convention": "retain_current_cleaned_input_exclusions",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
+    },
+    "fixed_district_geography": {
+      "owner": "Member 2",
+      "status": "documented_assumption",
+      "decision": "Apply the same archived district map retrospectively.",
+      "evidence_or_limitation": "Historical district boundaries can differ.",
+      "adopted_convention": "fixed_archived_current_map_for_all_years",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
+    },
+    "geojson_coordinate_system": {
+      "owner": "Member 2",
+      "status": "documented_assumption",
+      "decision": "Interpret saved GeoJSON coordinate pairs as longitude and latitude.",
+      "evidence_or_limitation": "Applies to the archived export, not the native service projection.",
+      "adopted_convention": "saved_geojson_interpreted_as_longitude_latitude",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
+    },
+    "unmatched_points": {
+      "owner": "Member 2",
+      "status": "documented_assumption",
+      "decision": "Count only requests with exactly one district match.",
+      "evidence_or_limitation": "Unmatched or ambiguous reports are absent from district demand.",
+      "adopted_convention": "exclude_nonunique_matches_from_district_counts",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
+    }
+  },
+  "predictions_sha256": "b7071c0d3d3792e0ca160c401943d2a05bc4e03504ffac50914709ad81692577"
+}

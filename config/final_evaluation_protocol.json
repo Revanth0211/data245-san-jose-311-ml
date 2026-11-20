@@ -1,5 +1,5 @@
 {
-  "status": "proposed_pending_data_decisions",
+  "status": "frozen_member5_documented_assumptions",
   "input_sha256": "c075709e37fa3050f5d53c94fb9db486e169c44a13d2fdee9fa735d3ef2a7e8c",
   "boundary_sha256": "29ba080e546a747541716349e4c0620923a751322ea37a153646f4005ea31430",
   "training_start": "2020-01-01",
@@ -17,45 +17,51 @@
   "decisions": {
     "source_coverage": {
       "owner": "Member 1",
-      "status": "pending",
-      "decision": "",
-      "evidence_or_limitation": "",
-      "adopted_convention": null
+      "status": "documented_assumption",
+      "decision": "Treat exported years as complete for panel construction.",
+      "evidence_or_limitation": "Missing coverage may look like zero demand; completeness has not been independently confirmed.",
+      "adopted_convention": "annual_exports_complete_for_zero_fill",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
     },
     "timestamp_handling": {
       "owner": "Member 1",
-      "status": "pending",
-      "decision": "",
-      "evidence_or_limitation": "",
-      "adopted_convention": null
+      "status": "documented_assumption",
+      "decision": "Group creation times as San Jos\u00e9 local wall-clock timestamps.",
+      "evidence_or_limitation": "Naive timestamps do not establish the source timezone; boundary-week assignments may differ.",
+      "adopted_convention": "naive_creation_timestamps_as_local_wall_clock",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
     },
     "coordinate_exclusions": {
       "owner": "Member 1",
-      "status": "pending",
-      "decision": "",
-      "evidence_or_limitation": "",
-      "adopted_convention": null
+      "status": "documented_assumption",
+      "decision": "Retain the existing cleaned-file coordinate exclusions.",
+      "evidence_or_limitation": "Unlocated reports may differ systematically from retained reports.",
+      "adopted_convention": "retain_current_cleaned_input_exclusions",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
     },
     "fixed_district_geography": {
       "owner": "Member 2",
-      "status": "pending",
-      "decision": "",
-      "evidence_or_limitation": "",
-      "adopted_convention": null
+      "status": "documented_assumption",
+      "decision": "Apply the same archived district map retrospectively.",
+      "evidence_or_limitation": "Historical district boundaries can differ.",
+      "adopted_convention": "fixed_archived_current_map_for_all_years",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
     },
     "geojson_coordinate_system": {
       "owner": "Member 2",
-      "status": "pending",
-      "decision": "",
-      "evidence_or_limitation": "",
-      "adopted_convention": null
+      "status": "documented_assumption",
+      "decision": "Interpret saved GeoJSON coordinate pairs as longitude and latitude.",
+      "evidence_or_limitation": "Applies to the archived export, not the native service projection.",
+      "adopted_convention": "saved_geojson_interpreted_as_longitude_latitude",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
     },
     "unmatched_points": {
       "owner": "Member 2",
-      "status": "pending",
-      "decision": "",
-      "evidence_or_limitation": "",
-      "adopted_convention": null
+      "status": "documented_assumption",
+      "decision": "Count only requests with exactly one district match.",
+      "evidence_or_limitation": "Unmatched or ambiguous reports are absent from district demand.",
+      "adopted_convention": "exclude_nonunique_matches_from_district_counts",
+      "adopted_for": "Member 5 evaluation; no independent owner sign-off"
     }
   }
 }

@@ -25,51 +25,19 @@ A concrete large miss is District 3 in the week beginning July 29, 2024: observe
 
 Training from 2018 instead of 2020 gave Poisson MAE 13.843 versus 13.643 on the same validation rows. Earlier data remain available for feature history. The small validation difference supports the selected window for this experiment; it does not prove that older observations are generally harmful.
 
-## Final evaluation: prepared, not executed
+## Completed 2025 evaluation
 
-`config/final_evaluation_protocol.json` records the proposed final setup and six pending data decisions. The implementation supports the current conventions only. For each decision, record `confirmed` or `documented_assumption`, a decision explanation, evidence or a limitation, and the exact `adopted_convention` listed below. A documented assumption is acceptable when it is explicitly adopted and its limitation is disclosed; unsupported facts must not be marked verified.
+The selected model was refitted on 2,600 complete district-weeks from 2020–2024. All three forecasts used the same 510 district-weeks from January 6 through December 22, 2025. Each forecast used counts from already completed weeks. Inputs, settings and implementation hashes were frozen before evaluation. Six data conventions were recorded as Member 5 assumptions without independent owner confirmation.
 
-| Decision | Owner | Supported adopted_convention |
-|---|---|---|
-| Source coverage and zero filling | Member 1 | `annual_exports_complete_for_zero_fill` |
-| Timestamp handling | Member 1 | `naive_creation_timestamps_as_local_wall_clock` |
-| Coordinate exclusions | Member 1 | `retain_current_cleaned_input_exclusions` |
-| District geography | Member 2 | `fixed_archived_current_map_for_all_years` |
-| GeoJSON coordinates | Member 2 | `saved_geojson_interpreted_as_longitude_latitude` |
-| Nonunique district assignments | Member 2 | `exclude_nonunique_matches_from_district_counts` |
+| Forecast | 2025 MAE | 2025 RMSE |
+|---|---:|---:|
+| Previous week | 13.975 | 19.065 |
+| Four-week average | 12.949 | **17.247** |
+| Poisson | **12.590** | 17.528 |
 
-If a decision changes any convention, revise the implementation and regenerate the validation comparisons before freezing. If the cleaned data or boundary hash changes, the check rejects the previous input version. In particular, a known coverage gap cannot simply be accepted while continuing to zero-fill it as complete data.
+Poisson reduced MAE by 2.77% relative to the four-week average. The four-week average had the lowest RMSE, which gives larger misses more weight. The test compared the selected Poisson pipeline with both baselines. The tree-model comparisons above are from validation only.
 
-Run from the repository root in the pinned forecasting environment:
-
-```bash
-python src/final_evaluation.py check
-```
-
-The check currently lists the pending decisions and exits with status 2. It does not aggregate or score 2025. After the decisions are recorded and the protocol is reviewed:
-
-```bash
-python src/final_evaluation.py freeze
-python src/final_evaluation.py evaluate
-```
-
-Freezing records protocol, source-code, shared-code, dependency-file, cleaned-data and boundary hashes. Evaluation refuses changed locked inputs and creates an exclusive start marker to prevent an accidental repeat. If execution fails after that marker, preserve the files and investigate the failure before a documented recovery; do not delete the marker to tune against observed test outcomes.
-
-### Proposed final protocol
-
-- Select the shared Poisson configuration using 2024 validation; retain alpha 1, max_iter 2000 and tolerance 1e-8.
-- Refit this chosen configuration on all complete weeks from 2020–2024 (2,600 district-weeks). Adding 2024 to the fit is a final refit after model selection, not the original validation training window.
-- Evaluate January 6–December 22, 2025: 51 complete Monday–Sunday weeks × 10 districts = 510 district-weeks. Weeks beginning December 30, 2024 and December 29, 2025 cross calendar-year boundaries and are excluded from scoring.
-- Preserve continuous history across the split. The December 30–January 5 completed week can supply a lag for the January 6 forecast, even though it is not a scored test week.
-- Keep the fitted model fixed throughout the test. Counts from completed earlier test weeks may supply history for later predictions; this simulates sequential one-week-ahead forecasts, not a whole-year forecast made on January 1.
-- Score Poisson and both reference forecasts on identical rows. Save predictions, pooled and district MAE/RMSE, geographic audit, software versions and hashes in `results/demand_forecasting_final/`.
-- Do not choose new features, windows, models or hyperparameters after seeing 2025 scores. Any later exploratory change needs a separately identified evaluation.
-
-## Presentation preparation
-
-Explain the target, forecast timing and split before showing scores. Report units with MAE and RMSE. Show the baseline alongside the chosen model, give the district exceptions and a large miss, and distinguish recorded validation findings from pending test results. Present source coverage, timestamp and fixed-map choices as confirmed facts or documented assumptions according to the actual evidence.
-
-The existing individual intermediate report remains a separate deliverable. Final report updates must use completed results only. Each member should understand their code and analysis and complete any course-required AI disclosure/certificate.
+See [final scores](../../results/demand_forecasting_final/test_metrics.csv), [citywide forecasts](../../results/demand_forecasting_final/test_timeseries.png), [district errors](../../results/demand_forecasting_final/district_mae.png) and [frozen assumptions](../../results/demand_forecasting_final/protocol_lock.json).
 
 ## Questions to rehearse
 
@@ -83,8 +51,8 @@ The existing individual intermediate report remains a separate deliverable. Fina
 8. **Why not train from 2018?** We tested both windows on identical 2024 rows. The 2020 start had a 0.200 lower MAE. This is a validation comparison with a small difference, not a causal explanation. Earlier observations still support history construction.
 9. **Why did more features or trees not win?** The saved experiments show that extra flexibility did not improve this validation comparison. Redundancy, regularization and changing patterns are possible explanations, not established causes.
 10. **Is District 3 the worst in every sense?** It has the highest absolute Poisson MAE. Relative to observed volume, District 9 has the highest WAPE. Population-adjusted performance has not been established.
-11. **What is still uncertain?** Coverage, timestamp semantics, coordinate handling and historical geography await recorded decisions. Source-system and reporting-behavior changes limit interpretation of trends.
-12. **What happens before final testing?** Record the data decisions, regenerate validation if needed, freeze inputs and model settings, refit the selected configuration on 2020–2024, then run the reserved 2025 comparison once.
+11. **What is still uncertain?** Coverage, timestamp semantics, coordinate handling and historical geography remain documented assumptions. Source-system and reporting-behavior changes limit interpretation of trends.
+12. **How was final testing conducted?** The evaluation recorded assumptions, froze inputs and settings, refitted on 2020–2024 and scored the held-out year once.
 13. **Why are 2025 test rows 510 rather than 520?** Only 51 Monday–Sunday weeks lie entirely within calendar 2025. Boundary-crossing weeks remain history where needed but are not scored.
 14. **Can the model allocate cleanup staff directly?** The experiment provides report-demand forecasts. An operational allocation would require staffing constraints, costs, reporting bias and service outcomes that this model has not evaluated.
 

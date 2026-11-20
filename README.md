@@ -188,7 +188,7 @@ Development validation on 2024
 Reserved final test on 2025
 ```
 
-The 2025 final test period has not been evaluated.
+Member 5 subsequently evaluated the selected Poisson model and two baselines on 510 held-out 2025 district-weeks. See the final handoff below.
 
 ---
 
@@ -359,7 +359,7 @@ notebooks/02_eda_features/feature_dictionary.csv
 
 All results below are provisional 2024 development-validation results.
 
-The 2025 final test set remains untouched.
+The validation experiments excluded 2025. The subsequent Member 5 final test is documented below.
 
 ### Shared baselines and Poisson regression
 
@@ -952,8 +952,8 @@ reports/figures/demand_forecasting/district_mae.png
 9. **2024 is development validation.**  
    Repeated comparisons on 2024 may influence model-selection decisions.
 
-10. **2025 remains reserved.**  
-    No current result reports final 2025 performance.
+10. **2025 final evaluation.**  
+    Member 5 reports held-out Poisson and baseline results in results/demand_forecasting_final/.
 
 11. **Feature importance is not causal evidence.**  
     Model importance values do not explain why reports occur.
@@ -995,14 +995,14 @@ reports/figures/demand_forecasting/district_mae.png
 
 ### Final forecasting handoff
 
-[Member 5 final handoff](notebooks/05_demand_forecasting/FINAL_HANDOFF.md) explains the combined validation evidence, pending data decisions, proposed final refit, complete 2025 test weeks, reproduction commands, and presentation questions.
+[Member 5 final handoff](notebooks/05_demand_forecasting/FINAL_HANDOFF.md) explains the combined validation evidence, documented assumptions, completed final refit, complete 2025 test weeks, reproduction commands, and presentation questions.
 
 ```bash
 python src/forecasting_summary.py
 python src/final_evaluation.py check
 ```
 
-The summary reconciles six saved configurations on the same 520 validation district-weeks. The final-evaluation check currently reports pending data decisions and performs no test scoring. After those decisions are recorded, the protocol can be frozen before evaluating the selected Poisson model and both baselines on 2025.
+The summary reconciles six saved configurations on the same 520 validation district-weeks. The frozen 2025 evaluation produced MAE of 12.590 for Poisson, 12.949 for the four-week average and 13.975 for the previous-week baseline. The four-week average had the lowest RMSE. Data assumptions are documented in the protocol lock.
 
 ### Remaining project decisions
 

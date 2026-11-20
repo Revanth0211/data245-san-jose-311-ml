@@ -24,8 +24,12 @@ class FinalEvaluationTests(unittest.TestCase):
 
     def test_pending_decisions_prevent_request_parsing(self):
         with patch('final_evaluation.pd.read_csv', side_effect=AssertionError('Test read')):
-            with self.assertRaisesRegex(ValueError, 'Pending:'):
-                evaluate()
+            with tempfile.TemporaryDirectory() as directory:
+                self.config['decisions']['source_coverage']['status'] = 'pending'
+                path = Path(directory) / 'pending.json'
+                path.write_text(json.dumps(self.config))
+                with self.assertRaisesRegex(ValueError, 'Pending:'):
+                    evaluate(protocol_path=path)
 
     def test_hash_change_requires_new_validation(self):
         config = copy.deepcopy(self.config)

@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.044
+A discarded sofa can block a sidewalk. When residents report illegal dumping to San
+
+00:00:05.044 --> 00:00:09.905
+José three one one, those reports reveal a pattern. Could last week’s calls help
+
+00:00:09.905 --> 00:00:11.607
+forecast next week’s demand?
+
+00:00:12.167 --> 00:00:17.092
+Our team mapped reports to ten San José council districts. For this case, follow
+
+00:00:17.092 --> 00:00:22.140
+District Three. Each Monday, we forecast how many new illegal dumping reports that
+
+00:00:22.140 --> 00:00:24.110
+district will receive by Sunday.
+
+00:00:24.667 --> 00:00:29.674
+Before July twenty ninth, District Three had recorded one hundred fifteen, one
+
+00:00:29.674 --> 00:00:34.809
+hundred sixty-nine, one hundred sixteen, and one hundred twenty-one reports over
+
+00:00:34.809 --> 00:00:38.661
+four weeks. That averages about one hundred thirty per week.
+
+00:00:39.250 --> 00:00:43.827
+Our Poisson model combined that recent history with a longer average, the district,
+
+00:00:43.827 --> 00:00:48.459
+and the time of year. Its forecast for the coming week was about one hundred twenty-
+
+00:00:48.459 --> 00:00:49.231
+three reports.
+
+00:00:49.792 --> 00:00:54.592
+By Sunday, two hundred twenty-seven reports had arrived. That was about one hundred
+
+00:00:54.592 --> 00:00:59.277
+four more than forecast. The anchored chart shows how sharply demand exceeded the
+
+00:00:59.277 --> 00:01:01.243
+level suggested by recent history.
+
+00:01:01.833 --> 00:01:06.625
+Across all ten districts and fifty-two validation weeks, the model missed by about
+
+00:01:06.625 --> 00:01:11.299
+fourteen reports per district-week on average. District Three shows why a weekly
+
+00:01:11.299 --> 00:01:15.507
+forecast is useful for planning, and why a surge still needs a response.

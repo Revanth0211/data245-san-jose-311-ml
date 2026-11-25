@@ -1,55 +1,49 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.044
-A discarded sofa can block a sidewalk. When residents report illegal dumping to San
+00:00:00.000 --> 00:00:04.168
+A discarded sofa, a mattress, and tires left by the curb. Imagine a
 
-00:00:05.044 --> 00:00:09.905
-José three one one, those reports reveal a pattern. Could last week’s calls help
+00:00:04.168 --> 00:00:08.399
+resident opens a San José three one one report. How many new illegal
 
-00:00:09.905 --> 00:00:11.607
-forecast next week’s demand?
+00:00:08.399 --> 00:00:11.572
+dumping reports will reach this district next week?
 
-00:00:12.167 --> 00:00:17.092
-Our team mapped reports to ten San José council districts. For this case, follow
+00:00:12.083 --> 00:00:16.816
+Follow District Three. The four previous weeks brought one hundred fifteen,
 
-00:00:17.092 --> 00:00:22.140
-District Three. Each Monday, we forecast how many new illegal dumping reports that
+00:00:16.816 --> 00:00:21.296
+one hundred sixty-nine, one hundred sixteen, and one hundred twenty-one
 
-00:00:22.140 --> 00:00:24.110
-district will receive by Sunday.
+00:00:21.296 --> 00:00:25.018
+reports. Their weekly average was about one hundred thirty.
 
-00:00:24.667 --> 00:00:29.674
-Before July twenty ninth, District Three had recorded one hundred fifteen, one
+00:00:25.583 --> 00:00:30.066
+Before Monday, July twenty ninth, the Poisson model used recent counts,
 
-00:00:29.674 --> 00:00:34.809
-hundred sixty-nine, one hundred sixteen, and one hundred twenty-one reports over
+00:00:30.066 --> 00:00:34.611
+four and thirteen week averages, the district, and the time of year. Its
 
-00:00:34.809 --> 00:00:38.661
-four weeks. That averages about one hundred thirty per week.
+00:00:34.611 --> 00:00:37.894
+forecast was about one hundred twenty-three reports.
 
-00:00:39.250 --> 00:00:43.827
-Our Poisson model combined that recent history with a longer average, the district,
+00:00:38.417 --> 00:00:42.464
+By Sunday, the district had received two hundred twenty-seven reports.
 
-00:00:43.827 --> 00:00:48.459
-and the time of year. Its forecast for the coming week was about one hundred twenty-
+00:00:42.464 --> 00:00:46.686
+Orange shows the observed surge on the same scale. About one hundred four
 
-00:00:48.459 --> 00:00:49.231
-three reports.
+00:00:46.686 --> 00:00:49.288
+more reports arrived than the model expected.
 
-00:00:49.792 --> 00:00:54.592
-By Sunday, two hundred twenty-seven reports had arrived. That was about one hundred
+00:00:49.833 --> 00:00:54.131
+Now the virtual street is anchored to a marker on a photographed tabletop.
 
-00:00:54.592 --> 00:00:59.277
-four more than forecast. The anchored chart shows how sharply demand exceeded the
+00:00:54.131 --> 00:00:58.313
+As the image moves, the miniature stays on the marker. This is augmented
 
-00:00:59.277 --> 00:01:01.243
-level suggested by recent history.
+00:00:58.313 --> 00:01:02.553
+reality. The streetscape illustrates the problem. The forecast and report
 
-00:01:01.833 --> 00:01:06.625
-Across all ten districts and fifty-two validation weeks, the model missed by about
-
-00:01:06.625 --> 00:01:11.299
-fourteen reports per district-week on average. District Three shows why a weekly
-
-00:01:11.299 --> 00:01:15.507
-forecast is useful for planning, and why a surge still needs a response.
+00:01:02.553 --> 00:01:04.237
+counts come from the project.
